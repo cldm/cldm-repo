@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(CLDM:DEFLIBRARY CL-BASE64
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cl-base64.cld"
+  :DESCRIPTION
+  "Base64 encoding and decoding with URI support."
+  :AUTHOR
+  "Kevin M. Rosenberg based on initial code by Juri Pakaste"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :VERSIONS
+  ((:VERSION "3.1" :REPOSITORIES
+    ((:official (:url "http://files.b9.com/cl-base64/cl-base64-latest.tar.gz"))))))
