@@ -10,6 +10,6 @@
   :VERSIONS
   ((:VERSION "1.5"
              :REPOSITORIES
-             ((:"common-lisp.net"
+             (("common-lisp.net"
                 (:url "http://common-lisp.net/project/rfc2388/rfc2388_latest.tar.gz")))
              :DEPENDS-ON NIL)))
