@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY CL+SSL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl+ssl.cld"
+  :DESCRIPTION
+  "Common Lisp interface to OpenSSL."
+  :AUTHOR
+  "Eric Marsden, Jochen Schmidt, David Lichteblau"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:github (:git "https://github.com/cl-plus-ssl/cl-plus-ssl.git")))
+    :DEPENDS-ON
+    (:CFFI :TRIVIAL-GRAY-STREAMS :FLEXI-STREAMS :SB-POSIX
+     :BORDEAUX-THREADS :TRIVIAL-GARBAGE))))
