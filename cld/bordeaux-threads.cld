@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(CLDM:DEFLIBRARY BORDEAUX-THREADS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/bordeaux-threads.cld"
+  :DESCRIPTION
+  "Bordeaux Threads makes writing portable multi-threaded apps simple"
+  :AUTHOR
+  "Greg Pfeil <greg@technomadic.org>"
+  :VERSIONS
+  ((:VERSION "0.8.3"
+             :REPOSITORIES
+             ((:official
+               (:url "http://common-lisp.net/project/bordeaux-threads/releases/bordeaux-threads-0.8.3.tar.gz"))
+              (:github (:git "https://github.com/sionescu/bordeaux-threads.git"
+                             :commit "d0872ae3979f841cbbd3e919e3e480c16775a847")))
+             :DEPENDS-ON (:ALEXANDRIA))))
