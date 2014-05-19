@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY ALEXANDRIA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/alexandria.cld"
+  :DESCRIPTION
+  "Alexandria is a collection of portable public domain utilities."
+  :VERSIONS
+  ((:VERSION "latest"
+             :REPOSITORIES
+             (("common-lisp.net" (:git "git://common-lisp.net/projects/alexandria/alexandria.git")))
+             :DEPENDS-ON NIL)))
