@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY CL-PPCRE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cl-ppcre.cld"
+  :VERSIONS
+  ((:VERSION "2.0.3"
+             :REPOSITORIES
+             ((:github (:git "https://github.com/edicl/cl-ppcre.git"
+                             :commit "3cc7b592d99d33768057f072e52a9dd640b7005e")))
+             :DEPENDS-ON NIL)))
