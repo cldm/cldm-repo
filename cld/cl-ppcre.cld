@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY CL-PPCRE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cl-ppcre.cld"
+  "http://mmontone.github.io/cldm-repo/cld/cl-ppcre.cld"
   :VERSIONS
   ((:VERSION "2.0.3"
              :REPOSITORIES

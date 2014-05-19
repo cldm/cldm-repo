@@ -2,7 +2,7 @@
 
 (CLDM:DEFLIBRARY BORDEAUX-THREADS
   :CLD
-  "http://mmontone.github.io/cldm-repo/bordeaux-threads.cld"
+  "http://mmontone.github.io/cldm-repo/cld/bordeaux-threads.cld"
   :DESCRIPTION
   "Bordeaux Threads makes writing portable multi-threaded apps simple"
   :AUTHOR

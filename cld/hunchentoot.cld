@@ -6,7 +6,7 @@
   BORDEAUX-THREADS.  It supports HTTP 1.1, serves static files, has a
   simple framework for user-defined handlers and can be extended
   through subclassing."
-  :cld "http://mmontone.github.io/cldm-repo/hunchentoot.cld"
+  :cld "http://mmontone.github.io/cldm-repo/cld/hunchentoot.cld"
   :tags ("web" "web server")
   :versions
   ((:version "1.2.26"
