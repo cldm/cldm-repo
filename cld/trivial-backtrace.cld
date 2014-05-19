@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY TRIVIAL-BACKTRACE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-backtrace.cld"
+  :DESCRIPTION
+  "trivial-backtrace"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :VERSIONS
+  ((:VERSION "1.0.2"
+             :REPOSITORIES
+             (("common-lisp.net" (:git "http://common-lisp.net/project/trivial-backtrace/trivial-backtrace.git"))
+              (:github (:git "https://github.com/gwkkwg/trivial-backtrace.git")))
+             :DEPENDS-ON NIL)))
