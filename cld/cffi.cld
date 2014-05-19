@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY CFFI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cffi.cld"
+  :DESCRIPTION
+  "The Common Foreign Function Interface"
+  :AUTHOR
+  "James Bielman  <jamesjb@jamesjb.com>"
+  :MAINTAINER
+  "Luis Oliveira  <loliveira@common-lisp.net>"
+  :VERSIONS
+  ((:VERSION "0.12.0" :REPOSITORIES
+    ((:official
+      (:url "http://common-lisp.net/project/cffi/releases/cffi_0.12.0.tar.gz"))
+     (:github (:git "https://github.com/cffi/cffi.git")))
+    :DEPENDS-ON (:ALEXANDRIA :TRIVIAL-FEATURES :BABEL))))
