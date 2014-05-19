@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY CL-FAD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cl-fad.cld"
+  :DESCRIPTION
+  "Portable pathname library"
+  :VERSIONS
+  ((:VERSION "0.7.2"
+	     :REPOSITORIES
+             ((:official
+               (:url "http://weitz.de/files/cl-fad.tar.gz"))
+              (:github (:git "https://github.com/edicl/cl-fad.git"
+			     :commit "3050f428f98bf4d25bc00fdd3595569c70d4fbb4")))
+             :DEPENDS-ON (:SB-POSIX :BORDEAUX-THREADS :ALEXANDRIA))))
