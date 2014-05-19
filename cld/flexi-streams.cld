@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY FLEXI-STREAMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/flexi-streams.cld"
+  :DESCRIPTION
+  "Flexible bivalent streams for Common Lisp"
+  :VERSIONS
+  ((:VERSION "1.0.11"
+	     :REPOSITORIES
+	     ((:official
+	       (:url "http://weitz.de/files/flexi-streams.tar.gz"))
+	      (:github (:git "https://github.com/edicl/flexi-streams.git"
+			     :commit "627096a9c93759f7ea48678f0798233d6d959e79")))
+	     :DEPENDS-ON (:TRIVIAL-GRAY-STREAMS))))
