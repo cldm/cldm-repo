@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY RFC2388
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rfc2388.cld"
+  :DESCRIPTION
+  "Implementation of RFC 2388"
+  :AUTHOR
+  "Janis Dzerins <jonis@latnet.lv>"
+  :VERSIONS
+  ((:VERSION "1.5"
+             :REPOSITORIES
+             ((:"common-lisp.net"
+                (:url "http://common-lisp.net/project/rfc2388/rfc2388_latest.tar.gz")))
+             :DEPENDS-ON NIL)))
