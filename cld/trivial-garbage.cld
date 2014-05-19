@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY TRIVIAL-GARBAGE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-garbage.cld"
+  :DESCRIPTION
+  "Portable finalizers, weak hash-tables and weak pointers."
+  :AUTHOR
+  "Luis Oliveira <loliveira@common-lisp.net>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:github
+      (:git "https://github.com/trivial-garbage/trivial-garbage.git")))
+    :DEPENDS-ON NIL)))
