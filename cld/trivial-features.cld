@@ -1,0 +1,18 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(CLDM:DEFLIBRARY TRIVIAL-FEATURES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-features.cld"
+  :DESCRIPTION
+  "Ensures consistent *FEATURES* across multiple CLs."
+  :AUTHOR
+  "Luis Oliveira <loliveira@common-lisp.net>"
+  :VERSIONS
+  ((:VERSION "latest"
+	     :REPOSITORIES
+	     ((:official
+	       (:url "http://common-lisp.net/~loliveira/tarballs/trivial-features/trivial-features_latest.tar.gz"))
+	      (:github (:git "https://github.com/trivial-features/trivial-features.git")))
+    :DEPENDS-ON NIL)))
+
+
