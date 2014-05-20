@@ -13,5 +13,4 @@
   ((:VERSION "2.0.1"
 	     :REPOSITORIES
 	     ((:github  (:git "https://github.com/pmai/md5.git"
-			      :commit "9d6f82f7121c87fb7e3b314987ba93900d300dc6")))
-    :DEPENDS-ON ("sb-rotate-byte"))))
+			      :commit "9d6f82f7121c87fb7e3b314987ba93900d300dc6"))))))
