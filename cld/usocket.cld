@@ -17,6 +17,5 @@
 		"http://common-lisp.net/project/usocket/releases/usocket-0.6.1.tar.gz"))
 	      (:github
 	       (:git "https://github.com/mcna/usocket.git"
-		     :commit "187e0ecd58ec0b2093d972e0eb607a50182a3efd")))
-	     :DEPENDS-ON (:SB-BSD-SOCKETS))))
+		     :commit "187e0ecd58ec0b2093d972e0eb607a50182a3efd"))))))
 

@@ -12,4 +12,4 @@
                (:url "http://weitz.de/files/cl-fad.tar.gz"))
               (:github (:git "https://github.com/edicl/cl-fad.git"
 			     :commit "3050f428f98bf4d25bc00fdd3595569c70d4fbb4")))
-             :DEPENDS-ON (:SB-POSIX :BORDEAUX-THREADS :ALEXANDRIA))))
+             :DEPENDS-ON (:BORDEAUX-THREADS :ALEXANDRIA))))

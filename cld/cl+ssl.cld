@@ -11,5 +11,5 @@
   ((:VERSION "latest" :REPOSITORIES
     ((:github (:git "https://github.com/cl-plus-ssl/cl-plus-ssl.git")))
     :DEPENDS-ON
-    (:CFFI :TRIVIAL-GRAY-STREAMS :FLEXI-STREAMS :SB-POSIX
+    (:CFFI :TRIVIAL-GRAY-STREAMS :FLEXI-STREAMS
      :BORDEAUX-THREADS :TRIVIAL-GARBAGE))))
