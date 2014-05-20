@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY BABEL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/babel.cld"
+  :DESCRIPTION
+  "Babel, a charset conversion library."
+  :AUTHOR
+  "Luis Oliveira <loliveira@common-lisp.net>"
+  :VERSIONS
+  ((:VERSION "0.3.0"
+	     :REPOSITORIES
+	     ((:official (:url "http://common-lisp.net/project/babel/releases/babel_0.3.0.tar.gz"))
+	      (:github (:git "https://github.com/cl-babel/babel.git"
+			     :commit "2676ebc3204e4ff1df8938ccc142f074f6c2a50f")))
+    :DEPENDS-ON (TRIVIAL-FEATURES ALEXANDRIA))))
