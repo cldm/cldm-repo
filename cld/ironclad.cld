@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY IRONCLAD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ironclad.cld"
+  :DESCRIPTION
+  "A cryptographic toolkit written in pure Common Lisp"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "0.32.1" :REPOSITORIES
+    ((:github
+      (:git "https://github.com/froydnj/ironclad.git"
+	    :commit "41950e3b640f87dd3b01f991e394aae1d4a29150")))
+    :DEPENDS-ON (NIBBLES))))
