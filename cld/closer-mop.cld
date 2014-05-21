@@ -8,4 +8,4 @@
   :VERSIONS
   ((:VERSION "1.0.0" :REPOSITORIES
     ((:official
-      (:git "git://git.code.sf.net/p/closer/closer-mop closer-closer-mop"))))))
+      (:git "git://git.code.sf.net/p/closer/closer-mop.git"))))))
