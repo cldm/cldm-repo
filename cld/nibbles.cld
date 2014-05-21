@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NIBBLES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/nibbles.cld"
+  :DESCRIPTION
+  "A library for accessing octet-addressed blocks of data"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "0.11" :REPOSITORIES
+    ((:github (:git "https://github.com/froydnj/nibbles.git"
+		    :commit "b25617c0940cf50b0bcfffafb9333b9c984b5e0d"))))))
