@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY CLOSER-MOP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/closer-mop.cld"
+  :AUTHOR
+  "Pascal Costanza"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES
+    ((:official
+      (:git "git://git.code.sf.net/p/closer/closer-mop closer-closer-mop"))))))
