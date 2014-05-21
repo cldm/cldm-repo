@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:DEFLIBRARY POSTMODERN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/postmodern.cld"
+  :DESCRIPTION
+  "PosgreSQL programming API"
+  :VERSIONS
+  ((:VERSION "latest"
+	     :REPOSITORIES
+	     ((:official-archive (:url "http://marijnhaverbeke.nl/postmodern/postmodern-latest.tgz"))
+	      (:official-git (:git "http://marijnhaverbeke.nl/git/postmodern.git"))
+	      (:github (:git "https://github.com/marijnh/Postmodern.git")))
+	     :DEPENDS-ON (:CLOSER-MOP :BORDEAUX-THREADS))))
