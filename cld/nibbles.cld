@@ -10,6 +10,6 @@
   :MAINTAINER
   "Nathan Froyd <froydnj@gmail.com>"
   :VERSIONS
-  ((:VERSION "0.11" :REPOSITORIES
+  ((:VERSION "0.11.0" :REPOSITORIES
     ((:github (:git "https://github.com/froydnj/nibbles.git"
 		    :commit "b25617c0940cf50b0bcfffafb9333b9c984b5e0d"))))))
