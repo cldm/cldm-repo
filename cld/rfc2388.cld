@@ -8,7 +8,7 @@
   :AUTHOR
   "Janis Dzerins <jonis@latnet.lv>"
   :VERSIONS
-  ((:VERSION "1.5"
+  ((:VERSION "1.5.0"
              :REPOSITORIES
              (("common-lisp.net"
                 (:url "http://common-lisp.net/project/rfc2388/rfc2388_latest.tar.gz")))
