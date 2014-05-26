@@ -10,5 +10,5 @@
   :MAINTAINER
   "Kevin M. Rosenberg <kmr@debian.org>"
   :VERSIONS
-  ((:VERSION "3.1" :REPOSITORIES
+  ((:VERSION "3.1.0" :REPOSITORIES
     ((:official (:url "http://files.b9.com/cl-base64/cl-base64-latest.tar.gz"))))))

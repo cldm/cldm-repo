@@ -2,7 +2,7 @@
 
 (cldm:deflibrary trivial-gray-streams
   :description "Compatibility layer for Gray Streams (see http://www.cliki.net/Gray%20streams)."
-  :license "MIT"
+  :licence "MIT"
   :author "David Lichteblau"
   :maintainer "Anton Vodonosov <avodonosov@yandex.ru>"
   :cld "http://mmontone.github.io/cldm-repo/cld/trivial-gray-streams.cld"
