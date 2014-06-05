@@ -18,4 +18,4 @@
   :VERSIONS
   ((:VERSION "0.1.0" :REPOSITORIES
     ((:GITHUB (:GIT "https://github.com/luismbo/stefil.git"))) :DEPENDS-ON
-    (:SWANK :ALEXANDRIA :ITERATE :METABANG-BIND))))
+    (:ALEXANDRIA :ITERATE :METABANG-BIND))))
