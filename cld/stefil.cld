@@ -1,0 +1,21 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STEFIL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stefil.cld"
+  :DESCRIPTION
+  "Stefil - Simple Test Framework In Lisp"
+  :AUTHOR
+  ("Attila Lendvai <attila.lendvai@gmail.com>"
+   "Tamás Borbély <tomi.borbely@gmail.com>"
+   "Levente Mészáros <levente.meszaros@gmail.com>")
+  :MAINTAINER
+  ("Attila Lendvai <attila.lendvai@gmail.com>"
+   "Tamás Borbély <tomi.borbely@gmail.com>"
+   "Levente Mészáros <levente.meszaros@gmail.com>")
+  :LICENCE
+  "BSD / Public domain"
+  :VERSIONS
+  ((:VERSION "0.1" :REPOSITORIES
+    ((:GITHUB (:GIT "https://github.com/luismbo/stefil.git"))) :DEPENDS-ON
+    (:SWANK :ALEXANDRIA :ITERATE :METABANG-BIND))))
