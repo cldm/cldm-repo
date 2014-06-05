@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SPLIT-SEQUENCE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/split-sequence.cld"
+  :DESCRIPTION
+  "Splits a sequence into a list of subsequences
+  delimited by objects satisfying a test."
+  :MAINTAINER
+  "Sharp Lispers <sharplispers@googlegroups.com>"
+  :VERSIONS
+  ((:VERSION "1.1.1" :REPOSITORIES
+    ((:GITHUB (:GIT "https://github.com/sharplispers/split-sequence.git")))
+    :DEPENDS-ON NIL)))
