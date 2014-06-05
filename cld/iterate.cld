@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ITERATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/iterate.cld"
+  :DESCRIPTION
+  "Jonathan Amsterdam's iterator/gatherer/accumulator facility"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:OFFICIAL
+      (:URL
+       "http://common-lisp.net/project/iterate/releases/iterate-current.tar.gz")))
+    :DEPENDS-ON NIL)))
