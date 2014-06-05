@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOCAL-TIME
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/local-time.cld"
+  :DESCRIPTION
+  "A library for manipulating dates and times, based on a paper by Erik Naggum"
+  :AUTHOR
+  "Daniel Lowe <dlowe@dlowe.net>"
+  :VERSIONS
+  ((:VERSION "1.0.4" :REPOSITORIES
+    ((:GITHUB (:GIT "https://github.com/dlowe-net/local-time.git")))
+    :DEPENDS-ON (:CL-FAD))))
