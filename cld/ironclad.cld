@@ -14,4 +14,4 @@
     ((:github
       (:git "https://github.com/froydnj/ironclad.git"
 	    :commit "41950e3b640f87dd3b01f991e394aae1d4a29150")))
-    :DEPENDS-ON (NIBBLES))))
+    :DEPENDS-ON ())))
