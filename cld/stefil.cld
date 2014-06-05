@@ -17,5 +17,6 @@
   "BSD / Public domain"
   :VERSIONS
   ((:VERSION "0.1.0" :REPOSITORIES
-    ((:GITHUB (:GIT "https://github.com/luismbo/stefil.git"))) :DEPENDS-ON
+    ((:quicklisp (:url "http://beta.quicklisp.org/archive/stefil/2010-11-07/stefil-20101107-darcs.tgz"))
+     (:GITHUB (:GIT "https://github.com/luismbo/stefil.git"))) :DEPENDS-ON
     (:ALEXANDRIA :ITERATE :METABANG-BIND))))
