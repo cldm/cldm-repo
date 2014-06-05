@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CHIPZ
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/chipz.cld"
+  :DESCRIPTION
+  "A library for decompressing deflate, zlib, and gzip data"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :LICENCE
+  "BSD style"
+  :VERSIONS
+  ((:VERSION "0.8.0" :REPOSITORIES
+    ((:GITHUB (:GIT "https://github.com/froydnj/chipz.git"))) :DEPENDS-ON NIL)))
