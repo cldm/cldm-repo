@@ -1,0 +1,21 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARENSCRIPT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parenscript.cld"
+  :AUTHOR
+  "Manuel Odendahl <manuel@bl0rg.net>"
+  :MAINTAINER
+  "Vladimir Sedach <vsedach@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :extends "2.5.0"
+	     :REPOSITORIES
+	     ((:github
+	       (:git
+		"https://github.com/vsedach/Parenscript.git"))))
+   (:version "2.5.0" :repositories
+	     ((:common-lisp.net (:url "http://common-lisp.net/project/parenscript/release/parenscript-latest.tgz")))
+	     :DEPENDS-ON (:CL-PPCRE :ANAPHORA :NAMED-READTABLES))))
+	     
