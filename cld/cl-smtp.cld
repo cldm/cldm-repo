@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SMTP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-smtp.cld"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES
+    ((:official
+      (:url "http://common-lisp.net/project/cl-smtp/cl-smtp.tar.gz")))
+    :DEPENDS-ON
+    (:USOCKET :TRIVIAL-GRAY-STREAMS :FLEXI-STREAMS :CL-BASE64 :CL+SSL))))
