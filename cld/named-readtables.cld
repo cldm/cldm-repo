@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NAMED-READTABLES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/named-readtables.cld"
+  :DESCRIPTION
+  "Library that creates a namespace for named readtable akin to the namespace of packages."
+  :AUTHOR
+  "Tobias C. Rittweiler <trittweiler@common-lisp.net>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.9.0" :REPOSITORIES
+    ((:official
+      (:url "http://common-lisp.net/project/editor-hints/releases/named-readtables-0.9.tar.gz")))
+    :DEPENDS-ON NIL)))
