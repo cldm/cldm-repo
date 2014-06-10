@@ -6,4 +6,4 @@
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/quicklisp-slime-helper/2011-04-18/quicklisp-slime-helper-20110418-git.tgz"))) :DEPENDS-ON
-    (#:SWANK #:ALEXANDRIA))))
+    (#:ALEXANDRIA))))

@@ -10,4 +10,4 @@
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.serializer/2011-02-19/hu.dwim.serializer-20110219-darcs.tgz"))) :DEPENDS-ON
-    (:BABEL :HU.DWIM.COMMON :HU.DWIM.DEF :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL :HU.DWIM.UTIL.MOP))))
+    (:BABEL :HU.DWIM.COMMON :HU.DWIM.DEF :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL :HU.DWIM.UTIL))))

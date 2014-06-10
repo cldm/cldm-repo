@@ -7,4 +7,4 @@
   "Various debug utilities such as lexical tracing, etc."
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.debug/2013-08-13/hu.dwim.debug-20130813-darcs.tgz")))
-    :DEPENDS-ON (:HU.DWIM.COMMON :HU.DWIM.DEF+SWANK :HU.DWIM.DEFCLASS-STAR :HU.DWIM.UTIL :HU.DWIM.WALKER :SWANK))))
+    :DEPENDS-ON (:HU.DWIM.COMMON :HU.DWIM.DEF :HU.DWIM.DEFCLASS-STAR :HU.DWIM.UTIL :HU.DWIM.WALKER))))

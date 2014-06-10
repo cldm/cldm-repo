@@ -11,4 +11,4 @@
   "BSD 2-Clause"
   :VERSIONS
   ((:VERSION "0.6.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/shelly/2014-05-25/shelly-20140525-git.tgz"))) :DEPENDS-ON
-    (:CL-ANNOT :SWANK :CL-PPCRE :CL-FAD :BORDEAUX-THREADS))))
+    (:CL-ANNOT :CL-PPCRE :CL-FAD :BORDEAUX-THREADS))))

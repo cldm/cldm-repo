@@ -7,4 +7,4 @@
   "Various utilities, this is the most basic system that only introduce a small number of external dependencies."
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.util/2014-05-25/hu.dwim.util-20140525-darcs.tgz")))
-    :DEPENDS-ON (:HU.DWIM.DEF+HU.DWIM.COMMON :HU.DWIM.DEFCLASS-STAR+HU.DWIM.DEF :HU.DWIM.SYNTAX-SUGAR))))
+    :DEPENDS-ON (:HU.DWIM.DEF :HU.DWIM.COMMON :HU.DWIM.DEFCLASS-STAR :HU.DWIM.SYNTAX-SUGAR))))

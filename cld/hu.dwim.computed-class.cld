@@ -8,4 +8,4 @@
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.computed-class/2013-04-20/hu.dwim.computed-class-20130420-darcs.tgz"))) :DEPENDS-ON
-    (:HU.DWIM.DEF+HU.DWIM.COMMON :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL.MOP))))
+    (:HU.DWIM.DEF :HU.DWIM.COMMON :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL.MOP))))

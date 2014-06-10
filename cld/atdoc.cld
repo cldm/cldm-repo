@@ -9,4 +9,4 @@
       (:URL
        "http://beta.quicklisp.org/archive/atdoc/2012-03-05/atdoc-20120305-git.tgz")))
     :DEPENDS-ON
-    (:CXML :SPLIT-SEQUENCE :SWANK :XURIELLA :CLOSER-MOP :CL-PPCRE))))
+    (:CXML :SPLIT-SEQUENCE :XURIELLA :CLOSER-MOP :CL-PPCRE))))

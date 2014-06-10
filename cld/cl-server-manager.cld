@@ -11,4 +11,4 @@
   "MIT"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-server-manager/2013-10-03/cl-server-manager-20131003-git.tgz")))
-    :DEPENDS-ON (#:ALEXANDRIA #:SWANK #:HUNCHENTOOT #:PREPL))))
+    :DEPENDS-ON (#:ALEXANDRIA #:HUNCHENTOOT #:PREPL))))

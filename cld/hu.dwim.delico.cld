@@ -9,4 +9,4 @@
   ("Attila Lendvai <attila.lendvai@gmail.com>" "Levente Mészáros <levente.meszaros@gmail.com>")
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.delico/2013-06-15/hu.dwim.delico-20130615-darcs.tgz")))
-    :DEPENDS-ON (:CONTEXTL :HU.DWIM.DEF+HU.DWIM.COMMON :HU.DWIM.WALKER))))
+    :DEPENDS-ON (:CONTEXTL :HU.DWIM.DEF :HU.DWIM.COMMON :HU.DWIM.WALKER))))
