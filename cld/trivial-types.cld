@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-TYPES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-types.cld"
+  :DESCRIPTION
+  "Trivial type definitions"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-types/2012-04-07/trivial-types-20120407-git.tgz")))
+    :DEPENDS-ON NIL)))

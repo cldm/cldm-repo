@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-EMB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-emb.cld"
+  :AUTHOR
+  "Stefan Scholl <stesch@no-spoon.de>"
+  :LICENCE
+  "Lesser Lisp General Public License"
+  :VERSIONS
+  ((:VERSION "0.4.3" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-emb/2014-05-25/cl-emb-20140525-git.tgz")))
+    :DEPENDS-ON (#:CL-PPCRE))))

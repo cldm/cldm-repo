@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PYTHONIC-STRING-READER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pythonic-string-reader.cld"
+  :DESCRIPTION
+  "A simple and unintrusive read table modification that allows for
+simple string literal definition that doesn't require escaping characters."
+  :AUTHOR
+  "Yury Sulsky and Zach Kost-Smith"
+  :MAINTAINER
+  "Zach Kost-Smith <zachkostsmith@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pythonic-string-reader/2012-07-03/pythonic-string-reader-20120703-git.tgz"))) :DEPENDS-ON
+    (:NAMED-READTABLES))))

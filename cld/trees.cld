@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TREES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trees.cld"
+  :DESCRIPTION
+  "A library for binary trees in normal and balanced flavors"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trees/2010-10-06/trees_0.11.tgz"))) :DEPENDS-ON NIL)))

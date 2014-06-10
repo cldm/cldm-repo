@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BAYESNET
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-bayesnet.cld"
+  :DESCRIPTION
+  "A Common Lisp Bayesian Network Inference Engine"
+  :AUTHOR
+  "Lucas Hope <lucas.r.hope@gmail.com>"
+  :MAINTAINER
+  "Lucas Hope <lucas.r.hope@gmail.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-bayesnet/2013-04-20/cl-bayesnet-20130420-git.tgz")))
+    :DEPENDS-ON (:S-XML :TRIVIAL-SHELL :CFFI))))

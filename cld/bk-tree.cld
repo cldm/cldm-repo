@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BK-TREE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/bk-tree.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/bk-tree/2013-04-20/bk-tree-20130420-git.tgz")))
+    :DEPENDS-ON NIL)))

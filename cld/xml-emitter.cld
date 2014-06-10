@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XML-EMITTER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xml-emitter.cld"
+  :AUTHOR
+  "Peter Scott"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xml-emitter/2011-11-05/xml-emitter-1.0.2.tgz"))) :DEPENDS-ON
+    (XML-EMITTER-SYSTEM::CL-UTILITIES))))

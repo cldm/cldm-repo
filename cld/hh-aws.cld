@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HH-AWS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hh-aws.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hh-aws/2011-10-01/hh-aws-20111001-git.tgz"))) :DEPENDS-ON
+    ("drakma" "puri" "cl-base64" "ironclad" "s-xml"))))

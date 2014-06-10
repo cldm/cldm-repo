@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SIP-HASH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sip-hash.cld"
+  :DESCRIPTION
+  "SipHash hash functions"
+  :AUTHOR
+  "Robert Brown"
+  :LICENCE
+  "Public domain."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sip-hash/2014-05-25/sip-hash-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::COM.GOOGLE.BASE ASDF/INTERFACE::NIBBLES ASDF/INTERFACE::SB-ROTATE-BYTE))))

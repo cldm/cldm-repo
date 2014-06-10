@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MGL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mgl.cld"
+  :AUTHOR
+  "Gabor Melis"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.6" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mgl/2013-11-11/mgl-20131111-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:CLOSER-MOP #:ARRAY-OPERATIONS #:LLA #:IEEE-FLOATS #:MGL-GNUPLOT))))

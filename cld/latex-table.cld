@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LATEX-TABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/latex-table.cld"
+  :DESCRIPTION
+  "Pretty latex tables from Lisp matrices and vectors."
+  :AUTHOR
+  "Tamas K Papp"
+  :LICENCE
+  "Boost Software License, Version 1.0."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/latex-table/2013-03-12/latex-table-20130312-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:ARRAY-OPERATIONS #:LET-PLUS))))

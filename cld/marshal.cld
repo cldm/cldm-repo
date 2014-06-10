@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MARSHAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/marshal.cld"
+  :DESCRIPTION
+  "marshal: Simple (de)serialization of Lisp datastructures."
+  :AUTHOR
+  "Michael Wolber <mwolber@gmx.de>"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/marshal/2013-07-20/marshal-20130720-git.tgz"))) :DEPENDS-ON NIL)))

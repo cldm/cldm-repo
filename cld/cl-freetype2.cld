@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-FREETYPE2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-freetype2.cld"
+  :DESCRIPTION
+  "Wrapper for the Freetype2 library"
+  :AUTHOR
+  "Ryan Pavlik <rpavlik@gmail.com>"
+  :LICENCE
+  "New BSD, LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-freetype2/2014-05-25/cl-freetype2-20140525-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA :CFFI :TRIVIAL-GARBAGE))))

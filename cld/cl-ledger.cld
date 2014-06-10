@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LEDGER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ledger.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-ledger/2013-08-13/cl-ledger-20130813-git.tgz"))) :DEPENDS-ON
+    (:LOCAL-TIME :PERIODS :CAMBL :SERIES :CL-PPCRE))))

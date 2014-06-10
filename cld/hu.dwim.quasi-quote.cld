@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.QUASI-QUOTE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.quasi-quote.cld"
+  :DESCRIPTION
+  "Quasi quoted domain specific languages and transformations."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.quasi-quote/2013-08-13/hu.dwim.quasi-quote-20130813-darcs.tgz"))) :DEPENDS-ON
+    (:BABEL :BABEL-STREAMS :HU.DWIM.COMMON :HU.DWIM.DEFCLASS-STAR+HU.DWIM.DEF :HU.DWIM.SYNTAX-SUGAR+HU.DWIM.WALKER :HU.DWIM.UTIL :HU.DWIM.WALKER))))

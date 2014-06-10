@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-table.cld"
+  :DESCRIPTION
+  "Hierarchical tables in Lisp"
+  :AUTHOR
+  "Roman Klochkov <kalimehtar@mail.ru>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-table/2013-01-28/cl-table-20130128-git.tgz"))) :DEPENDS-ON
+    (CL-TABLE-SYSTEM::ITERATE))))

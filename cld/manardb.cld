@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MANARDB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/manardb.cld"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.1.20090911" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/manardb/2010-12-07/manardb-20101207-git.tgz"))) :DEPENDS-ON
+    (COMMON-LISP-USER::ALEXANDRIA COMMON-LISP-USER::OSICAT COMMON-LISP-USER::ITERATE COMMON-LISP-USER::CLOSER-MOP COMMON-LISP-USER::CL-IRREGSEXP))))

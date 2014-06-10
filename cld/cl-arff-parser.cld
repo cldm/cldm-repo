@@ -1,0 +1,18 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ARFF-PARSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-arff-parser.cld"
+  :DESCRIPTION
+  "A parser for Weka arff (Attribute-Relation File
+  Format) Machine learning datasets."
+  :AUTHOR
+  "Pieter Wellens"
+  :LICENCE
+  "see LICENSE.txt"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-arff-parser/2013-04-21/cl-arff-parser-20130421-git.tgz")))
+    :DEPENDS-ON NIL)))

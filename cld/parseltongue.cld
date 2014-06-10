@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARSELTONGUE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parseltongue.cld"
+  :DESCRIPTION
+  "Parseltongue"
+  :AUTHOR
+  "Vincent Toups"
+  :MAINTAINER
+  "Vincent Toups"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parseltongue/2013-03-12/parseltongue-20130312-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::LISP-UNIT))))

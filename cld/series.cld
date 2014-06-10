@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SERIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/series.cld"
+  :DESCRIPTION
+  "See <http://series.sourceforge.net/>."
+  :AUTHOR
+  "Richard C. Waters"
+  :MAINTAINER
+  "See <http://series.sourceforge.net/>."
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "2.2.11" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/series/2013-11-11/series-20131111-git.tgz"))) :DEPENDS-ON NIL)))

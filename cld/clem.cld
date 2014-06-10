@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLEM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clem.cld"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.4.8" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clem/2014-05-25/clem-20140525-git.tgz"))) :DEPENDS-ON NIL)))

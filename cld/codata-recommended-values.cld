@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CODATA-RECOMMENDED-VALUES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/codata-recommended-values.cld"
+  :DESCRIPTION
+  "CODATA recommended values of physical constants."
+  :AUTHOR
+  "Ralph Schleicher <rs@ralph-schleicher.de>"
+  :LICENCE
+  "Modified BSD License"
+  :VERSIONS
+  ((:VERSION "20140502.900" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/codata-recommended-values/2014-05-25/codata-recommended-values-20140525-git.tgz"))) :DEPENDS-ON NIL)))

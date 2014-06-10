@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DO-URLENCODE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/do-urlencode.cld"
+  :DESCRIPTION
+  "Percent Encoding (aka URL Encoding) library"
+  :AUTHOR
+  "Daniel Oliveira <drdo@drdo.eu>"
+  :MAINTAINER
+  "Daniel Oliveira <drdo@drdo.eu>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/do-urlencode/2013-07-20/do-urlencode-20130720-git.tgz"))) :DEPENDS-ON
+    (:BABEL :BABEL-STREAMS))))

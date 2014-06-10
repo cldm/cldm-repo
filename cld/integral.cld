@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INTEGRAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/integral.cld"
+  :DESCRIPTION
+  "Object Relational Mapper for Common Lisp"
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "BSD 3-Clause"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/integral/2014-05-25/integral-20140525-git.tgz"))) :DEPENDS-ON
+    (:CL-SYNTAX-ANNOT :SXQL :DBI :CLOSER-MOP :SPLIT-SEQUENCE :GROUP-BY :ALEXANDRIA :TRIVIAL-TYPES))))

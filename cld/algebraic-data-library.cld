@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ALGEBRAIC-DATA-LIBRARY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/algebraic-data-library.cld"
+  :DESCRIPTION
+  "A library of common algebraic data types."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "BSD 3-clause"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/algebraic-data-library/2013-10-03/algebraic-data-library-20131003-hg.tgz")))
+    :DEPENDS-ON ("cl-algebraic-data-type"))))

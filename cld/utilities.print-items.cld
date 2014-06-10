@@ -1,0 +1,18 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY UTILITIES.PRINT-ITEMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/utilities.print-items.cld"
+  :DESCRIPTION
+  "A protocol for flexible and composable printing,
+primarily unreadable printing"
+  :AUTHOR
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :MAINTAINER
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :LICENCE
+  "LLGPLv3; see COPYING file for details."
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/utilities.print-items/2013-07-20/utilities.print-items-20130720-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA (:LET-PLUS :VERSION "0.2") :ITERATE))))

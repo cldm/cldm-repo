@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-YACLYAML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-yaclyaml.cld"
+  :DESCRIPTION
+  "Yet Another Common Lisp YaML processor."
+  :AUTHOR
+  "Alexander Popolitov <popolit@itep.ru>"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-yaclyaml/2014-05-25/cl-yaclyaml-20140525-git.tgz"))) :DEPENDS-ON
+    (#:ITERATE #:RUTILS #:CL-TEST-MORE #:CL-INTERPOL #:ESRAP-LIQUID #:ALEXANDRIA #:ZS3 #:YACLANAPHT #:CL-PPCRE #:DEFMACRO-ENHANCE #:PARSE-NUMBER
+     #:CL-READ-MACRO-TOKENS))))

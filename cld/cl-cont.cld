@@ -1,0 +1,20 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CONT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-cont.cld"
+  :DESCRIPTION
+  "A library that implements continuations by
+  transforming Common Lisp code to continuation passing style."
+  :AUTHOR
+  "Slava Akhmechet, Stephen Compall <s11@member.fsf.org>, John Fremlin, Leslie P. Polzer <polzer@gnu.org>"
+  :MAINTAINER
+  "Leslie P. Polzer <polzer@gnu.org>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.3.8" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-cont/2011-02-19/cl-cont-20110219-darcs.tgz")))
+    :DEPENDS-ON (:CLOSER-MOP :ALEXANDRIA))))

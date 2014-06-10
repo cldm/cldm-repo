@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY UNICLY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/unicly.cld"
+  :DESCRIPTION
+  "UUID Generation per RFC 4122"
+  :MAINTAINER
+  "MON KEY -- monkey@sandpframing.com"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "2011.8.31" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/unicly/2012-09-09/unicly-20120909-git.tgz"))) :DEPENDS-ON
+    (:IRONCLAD :SPLIT-SEQUENCE))))

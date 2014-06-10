@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GENERIC-ARITHMETIC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-generic-arithmetic.cld"
+  :DESCRIPTION
+  "The COMMON-LISP package with generic numerical operators."
+  :AUTHOR
+  "Robert Smith"
+  :LICENCE
+  "BSD 3-clause (see file LICENSE)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-generic-arithmetic/2013-07-20/cl-generic-arithmetic-20130720-hg.tgz")))
+    :DEPENDS-ON (:CONDUIT-PACKAGES))))

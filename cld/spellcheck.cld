@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SPELLCHECK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/spellcheck.cld"
+  :DESCRIPTION
+  "Peter Norvig's spell corrector."
+  :AUTHOR
+  "Mikael Jansson <mikael@lisp.se>"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/spellcheck/2013-10-03/spellcheck-20131003-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:CL-PPCRE))))

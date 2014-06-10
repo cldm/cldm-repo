@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FS-WATCHER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fs-watcher.cld"
+  :DESCRIPTION
+  "Filesystem watcher for changes"
+  :AUTHOR
+  "Florian Margaine <florian@margaine.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fs-watcher/2013-08-13/fs-watcher-20130813-git.tgz"))) :DEPENDS-ON
+    ("com.gigamonkeys.pathnames" "alexandria"))))

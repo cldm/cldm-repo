@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.COMMON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.common.cld"
+  :DESCRIPTION
+  "An extended Common Lisp package to the general needs of other hu.dwim systems."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.common/2012-05-20/hu.dwim.common-20120520-darcs.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA :ANAPHORA :CLOSER-MOP :HU.DWIM.COMMON-LISP :ITERATE :METABANG-BIND))))

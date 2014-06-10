@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY OSC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/osc.cld"
+  :DESCRIPTION
+  "The Open Sound Control protocol, aka OSC"
+  :AUTHOR
+  "nik gaffney <nik@fo.am>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/osc/2012-04-07/osc-20120407-git.tgz"))) :DEPENDS-ON NIL)))

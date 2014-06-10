@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ANONFUN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-anonfun.cld"
+  :DESCRIPTION
+  "Anonymous function helpers for Common Lisp"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-anonfun/2011-12-03/cl-anonfun-20111203-git.tgz")))
+    :DEPENDS-ON NIL)))

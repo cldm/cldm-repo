@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLSS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clss.cld"
+  :DESCRIPTION
+  "A DOM tree searching engine based on CSS selectors."
+  :AUTHOR
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :MAINTAINER
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :LICENCE
+  "Artistic"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clss/2014-05-25/clss-20140525-git.tgz"))) :DEPENDS-ON
+    (:PLUMP :CL-PPCRE))))

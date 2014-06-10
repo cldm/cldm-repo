@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLERIC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cleric.cld"
+  :DESCRIPTION
+  "Common Lisp Erlang Interface - An implementation of the Erlang distribution protocol."
+  :AUTHOR
+  "Markus Flambard <mflambard@common-lisp.net>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "0.2.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cleric/2014-05-25/cleric-20140525-git.tgz"))) :DEPENDS-ON
+    (:EPMD :ERLANG-TERM :USOCKET :MD5 :ALEXANDRIA :COM.GIGAMONKEYS.BINARY-DATA))))

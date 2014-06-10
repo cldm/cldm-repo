@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INCF-CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/incf-cl.cld"
+  :DESCRIPTION
+  "INCF CL is a library of convenience functions for Common Lisp"
+  :AUTHOR
+  "Juan M. Bello Rivas <jmbr@superadditive.com>"
+  :LICENCE
+  "X11"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/incf-cl/2010-10-06/incf-cl-20101006-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE))))

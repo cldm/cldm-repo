@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-FACTORING
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-factoring.cld"
+  :AUTHOR
+  "Zach Kost-Smith <zachkostsmith@gmail.com>"
+  :LICENCE
+  "LLGPL or more permissive (Ulimy's code is BSD-ish)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-factoring/2013-04-20/cl-factoring-20130420-git.tgz")))
+    :DEPENDS-ON (ASDF/INTERFACE::ITERATE ASDF/INTERFACE::CL-PRIMALITY))))

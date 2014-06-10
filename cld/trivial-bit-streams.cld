@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-BIT-STREAMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-bit-streams.cld"
+  :DESCRIPTION
+  "Trivial bit streams"
+  :AUTHOR
+  "Dmitry Ignatiev <lovesan.ru@gmail.com>"
+  :MAINTAINER
+  "Dmitry Ignatiev <lovesan.ru@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.2" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-bit-streams/2011-03-20/trivial-bit-streams-20110320-git.tgz"))) :DEPENDS-ON
+    (#:TRIVIAL-GRAY-STREAMS))))

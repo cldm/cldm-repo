@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-UNIFICATION
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-unification.cld"
+  :AUTHOR
+  "Marco Antoniotti"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-unification/2014-01-13/cl-unification-20140113-cvs.tgz")))
+    :DEPENDS-ON NIL)))

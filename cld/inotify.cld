@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INOTIFY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/inotify.cld"
+  :DESCRIPTION
+  "Interface to linux inotify(7)"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/inotify/2013-11-11/inotify-20131111-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI ASDF/INTERFACE::IOLIB))))

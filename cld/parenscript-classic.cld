@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARENSCRIPT-CLASSIC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parenscript-classic.cld"
+  :DESCRIPTION
+  "js - javascript compiler"
+  :AUTHOR
+  "Manuel Odendahl <manuel@bl0rg.net>"
+  :MAINTAINER
+  "Clinton Ebadi <clinton@unknownlamer.org>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parenscript-classic/2011-12-03/parenscript-classic-20111203-darcs.tgz"))) :DEPENDS-ON NIL)))

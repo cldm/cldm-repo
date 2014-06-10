@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PACK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pack.cld"
+  :DESCRIPTION
+  "Pack and unpack binary data via Python-like struct strings."
+  :AUTHOR
+  "Death"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pack/2011-06-19/pack-20110619-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:IEEE-FLOATS))))

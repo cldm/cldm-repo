@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CARAMEL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/caramel.cld"
+  :DESCRIPTION
+  "CSS selector-based template engine for Common Lisp"
+  :AUTHOR
+  "Masato Sogame"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/caramel/2013-04-20/caramel-20130420-git.tgz")))
+    :DEPENDS-ON
+    (:CXML :ALEXANDRIA :ITERATE :CXML-DOM :CLOSURE-HTML :CSS-SELECTORS
+     :BUILDNODE))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FARE-QUASIQUOTE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fare-quasiquote.cld"
+  :DESCRIPTION
+  "Portable, matchable implementation of quasiquote"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fare-quasiquote/2014-05-25/fare-quasiquote-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

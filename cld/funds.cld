@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FUNDS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/funds.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/funds/2011-02-19/funds-20110219-http.tgz"))) :DEPENDS-ON NIL)))

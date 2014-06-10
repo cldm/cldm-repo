@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CASE-CONTROL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-case-control.cld"
+  :DESCRIPTION
+  "Supporting case-controlling"
+  :AUTHOR
+  "SUZUKI Shingo"
+  :MAINTAINER
+  "SUZUKI Shingo"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-case-control/2012-10-13/cl-case-control-20121013-git.tgz")))
+    :DEPENDS-ON NIL)))

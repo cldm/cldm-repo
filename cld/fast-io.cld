@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FAST-IO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fast-io.cld"
+  :DESCRIPTION
+  "Alternative I/O mechanism to a stream or vector"
+  :AUTHOR
+  "Ryan Pavlik"
+  :LICENCE
+  "NewBSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fast-io/2014-05-25/fast-io-release-c96c5a3a-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :TRIVIAL-GRAY-STREAMS :STATIC-VECTORS))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HTML-ENTITIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/html-entities.cld"
+  :DESCRIPTION
+  "A module for encoding and decoding HTML/XML/SGML entities."
+  :AUTHOR
+  "Aaron Sokoloski <asokoloski@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/html-entities/2011-08-29/html-entities-20110829-svn.tgz")))
+    :DEPENDS-ON (:CL-PPCRE))))

@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CAVEMAN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/caveman.cld"
+  :DESCRIPTION
+  "Web Application Framework for Common Lisp"
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "12.8.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/caveman/2014-05-25/caveman-20140525-git.tgz")))
+    :DEPENDS-ON
+    (:CLACK :ANAPHORA :CL-PPCRE :CL-SYNTAX :CL-SYNTAX-ANNOT :CL-FAD :CL-EMB
+     :LOCAL-TIME :CL-PROJECT))))

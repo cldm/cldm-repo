@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CREDITCARD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-creditcard.cld"
+  :DESCRIPTION
+  "Generic interace library for talking with credit card processors."
+  :AUTHOR
+  "<programmers@acceleration.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-creditcard/2011-07-30/cl-creditcard-20110730-git.tgz")))
+    :DEPENDS-ON (:ITERATE))))

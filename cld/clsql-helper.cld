@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLSQL-HELPER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clsql-helper.cld"
+  :DESCRIPTION
+  "A library providing a clutch of utilities to make working with clsql easier"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clsql-helper/2014-05-25/clsql-helper-20140525-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :CLSQL :CLOSER-MOP :CL-PPCRE :CL-INTERPOL :SYMBOL-MUNGER :ALEXANDRIA :MD5 :ACCESS :COLLECTORS))))

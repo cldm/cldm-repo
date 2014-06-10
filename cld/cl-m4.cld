@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-M4
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-m4.cld"
+  :DESCRIPTION
+  "Common Lisp re-implementation of GNU M4"
+  :AUTHOR
+  "Alexander Kahl <e-user@fsfe.org>"
+  :LICENCE
+  "GPLv3+"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-m4/2013-03-12/cl-m4-20130312-git.tgz"))) :DEPENDS-ON
+    (:EXTERNAL-PROGRAM :CL-PPCRE :ALEXANDRIA :CL-FAD :GRAYLEX :CFFI))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LOCATIVES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-locatives.cld"
+  :DESCRIPTION
+  "Implementation of locatives."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "BSD 3-clause"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-locatives/2013-03-12/cl-locatives-20130312-hg.tgz"))) :DEPENDS-ON
+    NIL)))

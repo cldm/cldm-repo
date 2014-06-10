@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-INOTIFY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-inotify.cld"
+  :DESCRIPTION
+  "Inotify binding"
+  :AUTHOR
+  "Olof-Joachim Frahm <olof@macrolet.net>"
+  :LICENCE
+  "Simplified BSD License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-inotify/2013-04-20/cl-inotify-20130420-git.tgz"))) :DEPENDS-ON
+    (#:CFFI #:BINARY-TYPES #:TRIVIAL-UTF-8 #:OSICAT #:IOLIB))))

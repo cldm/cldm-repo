@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-OPENAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-openal.cld"
+  :DESCRIPTION
+  "CFFI bindings for OpenAL sound system."
+  :AUTHOR
+  "Josh Marchán <sykopomp@sykosomatic.org>"
+  :MAINTAINER
+  "Josh Marchán <sykopomp@sykosomatic.org>"
+  :LICENCE
+  "public domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-openal/2013-07-20/cl-openal-20130720-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI))))

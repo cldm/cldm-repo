@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GEOCODE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-geocode.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-geocode/2013-06-15/cl-geocode-20130615-git.tgz")))
+    :DEPENDS-ON ("aserve" "acl-compat" "cl-ppcre"))))

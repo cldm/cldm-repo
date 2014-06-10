@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LAUNCH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-launch.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-launch/2014-05-25/cl-launch-4.0.4.tgz"))) :DEPENDS-ON
+    ((:ASDF :VERSION "2.015")))))

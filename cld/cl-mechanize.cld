@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MECHANIZE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mechanize.cld"
+  :DESCRIPTION
+  "A WWW::Mechanize work-alike"
+  :AUTHOR
+  "Joachim Fasting <joachim.fasting@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mechanize/2011-02-19/cl-mechanize-20110219-git.tgz"))) :DEPENDS-ON
+    (:PURI :DRAKMA :CLOSURE-HTML :CXML-STP :CL-PPCRE))))

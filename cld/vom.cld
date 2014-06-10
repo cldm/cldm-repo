@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY VOM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/vom.cld"
+  :DESCRIPTION
+  "A tiny logging utility."
+  :AUTHOR
+  "Andrew Danger Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/vom/2014-05-25/vom-20140525-git.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFSYSTEM-COMPATIBILITY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defsystem-compatibility.cld"
+  :DESCRIPTION
+  "Make many defsystems look the same!"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style license"
+  :VERSIONS
+  ((:VERSION "0.1.2" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defsystem-compatibility/2010-10-06/defsystem-compatibility-20101006-darcs.tgz"))) :DEPENDS-ON
+    (:METATILITIES-BASE))))

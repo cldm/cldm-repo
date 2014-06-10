@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SIMPLE-RGB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/simple-rgb.cld"
+  :DESCRIPTION
+  "simple manipulation of {X|HT}ML RGB values"
+  :AUTHOR
+  "William S. Annis <wm.annis@gmail.com>"
+  :MAINTAINER
+  "William S. Annis <wm.annis@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/simple-rgb/2012-11-25/simple-rgb-20121125-svn.tgz"))) :DEPENDS-ON
+    NIL)))

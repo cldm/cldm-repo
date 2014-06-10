@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BASIC-BINARY-IPC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/basic-binary-ipc.cld"
+  :DESCRIPTION
+  "A inter-process communication library for transmitting binary data over a stream."
+  :AUTHOR
+  "Mark Cox"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/basic-binary-ipc/2014-05-25/basic-binary-ipc-20140525-git.tgz")))
+    :DEPENDS-ON ("cffi-grovel"))))

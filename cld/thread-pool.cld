@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY THREAD-POOL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/thread-pool.cld"
+  :AUTHOR
+  "Andrea Chiumenti"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/thread-pool/2012-01-07/thread-pool-20120107-git.tgz"))) :DEPENDS-ON
+    (#:BORDEAUX-THREADS #:ARNESI))))

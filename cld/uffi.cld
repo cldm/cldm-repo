@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY UFFI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/uffi.cld"
+  :DESCRIPTION
+  "Universal Foreign Function Library for Common Lisp"
+  :AUTHOR
+  "Kevin Rosenberg <kevin@rosenberg.net>"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "Lessor Lisp General Public License"
+  :VERSIONS
+  ((:VERSION "2.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/uffi/2013-08-13/uffi-20130813-git.tgz"))) :DEPENDS-ON NIL)))

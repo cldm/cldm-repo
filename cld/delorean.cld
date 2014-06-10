@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DELOREAN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/delorean.cld"
+  :DESCRIPTION
+  "Delorean is a time machine for unit tests"
+  :AUTHOR
+  "Andy Chambers"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/delorean/2013-06-15/delorean-20130615-git.tgz"))) :DEPENDS-ON
+    (:LOCAL-TIME))))

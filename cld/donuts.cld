@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DONUTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/donuts.cld"
+  :DESCRIPTION
+  "Graph DSL for common lisp"
+  :AUTHOR
+  "Takaya OCHIAI <tkych.repl@gmail.com>"
+  :LICENCE
+  "MIT licence"
+  :VERSIONS
+  ((:VERSION "0.3.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/donuts/2012-07-03/donuts-20120703-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :TRIVIAL-SHELL))))

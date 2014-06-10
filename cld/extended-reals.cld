@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EXTENDED-REALS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/extended-reals.cld"
+  :DESCRIPTION
+  "Extended real numbers for Common Lisp."
+  :AUTHOR
+  "Tamas K Papp <tkpapp@gmail.com>"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/extended-reals/2012-10-13/extended-reals-20121013-git.tgz")))
+    :DEPENDS-ON (#:ALEXANDRIA))))

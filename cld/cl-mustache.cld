@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MUSTACHE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mustache.cld"
+  :DESCRIPTION
+  "Mustache Template Renderer"
+  :AUTHOR
+  "Kan-Ru Chen <kanru@kanru.info>"
+  :LICENCE
+  "MIT/Expat"
+  :VERSIONS
+  ((:VERSION "0.11.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mustache/2014-05-25/cl-mustache-20140525-git.tgz"))) :DEPENDS-ON
+    ("uiop" "alexandria"))))

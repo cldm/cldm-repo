@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLSQL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clsql.cld"
+  :DESCRIPTION
+  "Common Lisp SQL Interface library"
+  :AUTHOR
+  "Kevin Rosenberg <kevin@rosenberg.net>"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "Lessor Lisp General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clsql/2014-05-25/clsql-20140525-git.tgz"))) :DEPENDS-ON NIL)))

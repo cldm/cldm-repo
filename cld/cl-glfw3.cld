@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GLFW3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-glfw3.cld"
+  :DESCRIPTION
+  "Bindings for GLFW 3.x"
+  :AUTHOR
+  "Alex Charlton <alex.n.charlton@gmail.com>"
+  :LICENCE
+  "BSD-2"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-glfw3/2014-05-25/cl-glfw3-20140525-git.tgz")))
+    :DEPENDS-ON (#:CFFI #:CFFI-LIBFFI #:ALEXANDRIA))))

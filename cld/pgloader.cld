@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PGLOADER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pgloader.cld"
+  :DESCRIPTION
+  "Load data into PostgreSQL"
+  :AUTHOR
+  "Dimitri Fontaine <dimitri@2ndQuadrant.fr>"
+  :LICENCE
+  "The PostgreSQL Licence"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pgloader/2014-05-25/pgloader-3.0.99.tgz"))) :DEPENDS-ON
+    (#:UIOP #:CL-LOG #:POSTMODERN #:CL-POSTGRES #:SIMPLE-DATE #:QMYND #:SPLIT-SEQUENCE #:CL-CSV #:CL-FAD #:LPARALLEL #:ESRAP #:ALEXANDRIA #:DRAKMA #:ZIP
+     #:FLEXI-STREAMS #:USOCKET #:LOCAL-TIME #:COMMAND-LINE-ARGUMENTS #:ABNF #:DB3 #:PY-CONFIGPARSER #:SQLITE #:TRIVIAL-BACKTRACE #:CL-MARKDOWN))))

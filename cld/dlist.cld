@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DLIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/dlist.cld"
+  :DESCRIPTION
+  "An implementation of the doubly-linked list in Common Lisp."
+  :AUTHOR
+  "Krzyszxtof Drewniak <krzysdrewniak@gmail.com>"
+  :LICENCE
+  "3-Clause BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/dlist/2012-11-25/dlist-20121125-git.tgz"))) :DEPENDS-ON NIL)))

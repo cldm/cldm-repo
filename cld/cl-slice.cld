@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SLICE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-slice.cld"
+  :DESCRIPTION
+  "DSL for array slices in Common Lisp."
+  :AUTHOR
+  "Tamas K Papp <tkpapp@gmail.com>"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-slice/2013-11-11/cl-slice-20131111-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:LET-PLUS))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RPC4CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rpc4cl.cld"
+  :DESCRIPTION
+  "A Common Lisp implementation of XML-RPC using best of breed libraries"
+  :AUTHOR
+  "Peter Stiernström <peter@stiernstrom.se>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.3.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rpc4cl/2012-11-25/rpc4cl-20121125-hg.tgz"))) :DEPENDS-ON
+    (:DRAKMA :CXML :CL-PPCRE :PARSE-NUMBER :RFC3339-TIMESTAMP :BABEL :TRIVIAL-TIMEOUT))))

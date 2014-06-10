@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PROTOBUFS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-protobufs.cld"
+  :DESCRIPTION
+  "Protobufs for Common Lisp"
+  :AUTHOR
+  "Scott McKay"
+  :MAINTAINER
+  '("Scott McKay")
+  :LICENCE
+  "MIT-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-protobufs/2014-05-25/cl-protobufs-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLOSER-MOP :BABEL :TRIVIAL-GARBAGE))))

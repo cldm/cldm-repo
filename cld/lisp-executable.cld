@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISP-EXECUTABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisp-executable.cld"
+  :DESCRIPTION
+  "Library for defining and creating executables that can be called from the Unix shell."
+  :AUTHOR
+  "Mark Cox"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisp-executable/2014-01-13/lisp-executable-20140113-git.tgz")))
+    :DEPENDS-ON (ASDF/INTERFACE::ALEXANDRIA))))

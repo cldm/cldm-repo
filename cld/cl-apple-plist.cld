@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-APPLE-PLIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-apple-plist.cld"
+  :DESCRIPTION
+  "Encodes Common Lisp data structures in Apple property list XML format (.plist)."
+  :AUTHOR
+  "Rob Blackwell"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-apple-plist/2011-11-05/cl-apple-plist-20111105-git.tgz")))
+    :DEPENDS-ON (#:HTML-ENCODE))))

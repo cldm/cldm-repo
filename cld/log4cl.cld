@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOG4CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/log4cl.cld"
+  :VERSIONS
+  ((:VERSION "1.1.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/log4cl/2013-10-03/log4cl-20131003-git.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS))))

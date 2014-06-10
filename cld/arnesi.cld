@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ARNESI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/arnesi.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/arnesi/2010-10-06/arnesi-20101006-darcs.tgz")))
+    :DEPENDS-ON NIL)))

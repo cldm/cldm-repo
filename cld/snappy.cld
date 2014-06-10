@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SNAPPY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/snappy.cld"
+  :DESCRIPTION
+  "An implementation of Snappy compression."
+  :AUTHOR
+  "Robert Brown"
+  :LICENCE
+  "New BSD license.  See the copyright messages in individual files."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/snappy/2014-05-25/snappy-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::COM.GOOGLE.BASE ASDF/INTERFACE::NIBBLES ASDF/INTERFACE::VARINT))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-QPRINT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-qprint.cld"
+  :DESCRIPTION
+  "Encode and decode quoted-printable encoded strings."
+  :AUTHOR
+  "Robert Marlow <rob@bobturf.org>"
+  :MAINTAINER
+  "Max Rottenkolber <max@mr.gy>"
+  :VERSIONS
+  ((:VERSION "0.9.9" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-qprint/2014-05-25/cl-qprint-20140525-git.tgz"))) :DEPENDS-ON
+    ("flexi-streams"))))

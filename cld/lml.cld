@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lml.cld"
+  :DESCRIPTION
+  "Lisp Markup Language"
+  :AUTHOR
+  "Kevin M. Rosenberg <kevin@rosenberg.net>"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "GNU General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lml/2012-09-09/lml-20120909-git.tgz"))) :DEPENDS-ON NIL)))

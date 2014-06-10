@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MULTIVAL-PLIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/multival-plist.cld"
+  :DESCRIPTION
+  "Property List stores multiple values per one key."
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/multival-plist/2012-03-05/multival-plist-20120305-git.tgz")))
+    :DEPENDS-ON (:CL-ANNOT :CL-SYNTAX-ANNOT :TRIVIAL-TYPES :ALEXANDRIA))))

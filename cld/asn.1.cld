@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASN.1
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asn.1.cld"
+  :DESCRIPTION
+  "ASN.1 for Common Lisp"
+  :AUTHOR
+  "Chun Tian (binghe) <binghe.lisp@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asn.1/2010-10-06/asn.1-4.14.tgz")))
+    :DEPENDS-ON (:USOCKET :TRIVIAL-GRAY-STREAMS :IEEE-FLOATS))))

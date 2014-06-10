@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-LAZY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-lazy.cld"
+  :DESCRIPTION
+  "Trivial lazy macros and functions for Common Lisp."
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-lazy/2013-01-28/trivial-lazy-20130128-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::BORDEAUX-THREADS))))

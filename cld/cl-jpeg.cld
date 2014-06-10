@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-JPEG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-jpeg.cld"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-jpeg/2013-10-03/cl-jpeg-20131003-git.tgz"))) :DEPENDS-ON NIL)))

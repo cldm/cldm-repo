@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TEMPORARY-FILE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/temporary-file.cld"
+  :DESCRIPTION
+  "Temporary file creation library"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/temporary-file/2013-04-20/temporary-file-20130420-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA :BORDEAUX-THREADS :CL-FAD :CL-PPCRE :UNIT-TEST))))

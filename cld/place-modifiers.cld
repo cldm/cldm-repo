@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PLACE-MODIFIERS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/place-modifiers.cld"
+  :DESCRIPTION
+  "Essentially gives access to hundreds of modify-macros through one single macro: MODIFY."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/place-modifiers/2012-11-25/place-modifiers-2.1.tgz"))) :DEPENDS-ON
+    (#:MAP-BIND #:CARTESIAN-PRODUCT-SWITCH))))

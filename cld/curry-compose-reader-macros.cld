@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CURRY-COMPOSE-READER-MACROS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/curry-compose-reader-macros.cld"
+  :DESCRIPTION
+  "reader macros for concise function partial application and composition"
+  :AUTHOR
+  "Eric Schulte <schulte.eric@gmail.com>"
+  :LICENCE
+  "GPL V3"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/curry-compose-reader-macros/2013-10-03/curry-compose-reader-macros-20131003-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA))))

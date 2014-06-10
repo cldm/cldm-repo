@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLAVATAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clavatar.cld"
+  :DESCRIPTION
+  "Determines appropriate URLs for avatars using assorted avatar services."
+  :AUTHOR
+  "Pixie <pix@kepibu.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clavatar/2012-10-13/clavatar-20121013-git.tgz"))) :DEPENDS-ON
+    ("iolib" "ironclad" "babel" "drakma"))))

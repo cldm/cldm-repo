@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HERMETIC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hermetic.cld"
+  :DESCRIPTION
+  ""
+  :AUTHOR
+  "Fernando Borretti"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hermetic/2014-05-25/hermetic-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLACK :IRONCLAD :TRIVIAL-UTF-8 :SPLIT-SEQUENCE))))

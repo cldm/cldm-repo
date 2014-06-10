@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COM.CLEARLY-USEFUL.GENERIC-COLLECTION-INTERFACE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.generic-collection-interface.cld"
+  :DESCRIPTION
+  "generic collection interfaces for common lisp"
+  :AUTHOR
+  "Jason Aeschliman <j.aeschliman@gmail.com>"
+  :LICENCE
+  "revised BSD"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/com.clearly-useful.generic-collection-interface/2012-11-25/com.clearly-useful.generic-collection-interface-20121125-git.tgz")))
+    :DEPENDS-ON (#:COM.CLEARLY-USEFUL.PROTOCOLS #:BORDEAUX-THREADS #:LPARALLEL))))

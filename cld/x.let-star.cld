@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY X.LET-STAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/x.let-star.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/x.let-star/2011-04-18/x.let-star-20110418-git.tgz"))) :DEPENDS-ON
+    NIL)))

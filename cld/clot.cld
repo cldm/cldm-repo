@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clot.cld"
+  :DESCRIPTION
+  "Cheap Lisp plOTting library"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clot/2011-04-18/clot-20110418-http.tgz"))) :DEPENDS-ON
+    (:SCLF :CL-GD))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LIFT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lift.cld"
+  :DESCRIPTION
+  "LIsp Framework for Testing"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style License; see file COPYING for details"
+  :VERSIONS
+  ((:VERSION "1.7.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lift/2013-04-20/lift-20130420-git.tgz"))) :DEPENDS-ON NIL)))

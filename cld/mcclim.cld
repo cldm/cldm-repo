@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MCCLIM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mcclim.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mcclim/2014-05-25/mcclim-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLIM-LOOKS))))

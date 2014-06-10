@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SHA3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sha3.cld"
+  :DESCRIPTION
+  "Secure Hash Algorithm 3 (Keccak) Implementation"
+  :AUTHOR
+  "Pierre R. Mai <pmai@pmsf.de>"
+  :MAINTAINER
+  "Pierre R. Mai <pmai@pmsf.de>"
+  :LICENCE
+  "MIT/X11"
+  :VERSIONS
+  ((:VERSION "1.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sha3/2014-01-13/sha3-20140113-git.tgz"))) :DEPENDS-ON
+    ("sb-rotate-byte"))))

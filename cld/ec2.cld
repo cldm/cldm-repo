@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EC2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ec2.cld"
+  :DESCRIPTION
+  "Common Lisp EC2 Package"
+  :AUTHOR
+  "David E. Young <dyoung@saffrontech.com>"
+  :MAINTAINER
+  "David E. Young <dyoung@saffrontech.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ec2/2012-09-09/ec2-20120909-git.tgz"))) :DEPENDS-ON
+    (:S-XML :S-BASE64 :IRONCLAD :DRAKMA))))

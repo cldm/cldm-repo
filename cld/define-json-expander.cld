@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFINE-JSON-EXPANDER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/define-json-expander.cld"
+  :DESCRIPTION
+  "Small facility for converting between JSON and CLOS"
+  :AUTHOR
+  "Johan Sjölén"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/define-json-expander/2014-05-25/define-json-expander-20140525-git.tgz"))) :DEPENDS-ON NIL)))

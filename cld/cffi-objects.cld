@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CFFI-OBJECTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cffi-objects.cld"
+  :DESCRIPTION
+  "CFFI in-place replacement with object wrappers, structs and arrays"
+  :AUTHOR
+  "Roman Klochkov <monk@slavsoft.surgut.ru>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.9.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cffi-objects/2014-05-25/cffi-objects-20140525-git.tgz")))
+    :DEPENDS-ON
+    (CFFI-OBJECT-SYSTEM::CFFI CFFI-OBJECT-SYSTEM::TRIVIAL-GARBAGE
+     CFFI-OBJECT-SYSTEM::CLOSER-MOP))))

@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EOS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/eos.cld"
+  :AUTHOR
+  "Adlai Chandrasekhar"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/eos/2013-10-03/eos-20131003-git.tgz"))) :DEPENDS-ON NIL)))

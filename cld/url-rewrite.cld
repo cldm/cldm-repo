@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY URL-REWRITE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/url-rewrite.cld"
+  :VERSIONS
+  ((:VERSION "0.1.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/url-rewrite/2010-10-06/url-rewrite-0.1.1.tgz"))) :DEPENDS-ON NIL)))

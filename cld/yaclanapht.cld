@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY YACLANAPHT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/yaclanapht.cld"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/yaclanapht/2013-06-15/yaclanapht-20130615-git.tgz"))) :DEPENDS-ON
+    (#:DEFMACRO-ENHANCE #:ITERATE))))

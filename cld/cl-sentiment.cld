@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SENTIMENT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-sentiment.cld"
+  :DESCRIPTION
+  "A sentiment analysis library for Common Lisp."
+  :AUTHOR
+  "Rob Blackwell"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-sentiment/2013-01-28/cl-sentiment-20130128-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:RT))))

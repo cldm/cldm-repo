@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LQUERY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lquery.cld"
+  :DESCRIPTION
+  "A library to allow jQuery-like HTML/DOM manipulation."
+  :AUTHOR
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :LICENCE
+  "Artistic"
+  :VERSIONS
+  ((:VERSION "3.1.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lquery/2014-05-25/lquery-20140525-git.tgz"))) :DEPENDS-ON
+    (:PLUMP :CLSS :ALEXANDRIA :SPLIT-SEQUENCE))))

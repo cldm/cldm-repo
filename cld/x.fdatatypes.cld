@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY X.FDATATYPES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/x.fdatatypes.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/x.fdatatypes/2012-07-03/x.fdatatypes-20120703-git.tgz"))) :DEPENDS-ON
+    NIL)))

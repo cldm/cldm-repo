@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LHSTATS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lhstats.cld"
+  :DESCRIPTION
+  "Statistical functions by Larry Hunter and Jeff Shrager."
+  :AUTHOR
+  "Larry Hunter, Jeff Shrager"
+  :MAINTAINER
+  "Matt Curtis <matt.r.curtis@gmail.com>"
+  :LICENCE
+  "GNU General Public License version 2 (GPLv2)"
+  :VERSIONS
+  ((:VERSION "1.1.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lhstats/2012-01-07/lhstats-20120107-git.tgz"))) :DEPENDS-ON NIL)))

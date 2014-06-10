@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.COMPUTED-CLASS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.computed-class.cld"
+  :DESCRIPTION
+  "Constraint based change propagation for class slots, lexical variables, function return values and reified cells."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.computed-class/2013-04-20/hu.dwim.computed-class-20130420-darcs.tgz"))) :DEPENDS-ON
+    (:HU.DWIM.DEF+HU.DWIM.COMMON :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL.MOP))))

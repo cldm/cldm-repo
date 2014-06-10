@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARSE-JS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parse-js.cld"
+  :DESCRIPTION
+  "JavaScript parser"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parse-js/2012-03-05/parse-js-20120305-git.tgz"))) :DEPENDS-ON NIL)))

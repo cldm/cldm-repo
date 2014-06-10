@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFREC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defrec.cld"
+  :DESCRIPTION
+  "A library for defining top-level mutually recursive functions."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "BSD 3-clause"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defrec/2013-03-12/defrec-20130312-hg.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA))))

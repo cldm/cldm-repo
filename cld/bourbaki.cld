@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BOURBAKI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/bourbaki.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/bourbaki/2011-01-10/bourbaki-20110110-http.tgz")))
+    :DEPENDS-ON NIL)))

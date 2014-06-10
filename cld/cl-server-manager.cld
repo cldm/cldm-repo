@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SERVER-MANAGER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-server-manager.cld"
+  :DESCRIPTION
+  "Manage port-based servers (e.g., Swank and Hunchentoot) through a unified interface."
+  :AUTHOR
+  "Wei Peng <write.to.peng.wei@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-server-manager/2013-10-03/cl-server-manager-20131003-git.tgz")))
+    :DEPENDS-ON (#:ALEXANDRIA #:SWANK #:HUNCHENTOOT #:PREPL))))

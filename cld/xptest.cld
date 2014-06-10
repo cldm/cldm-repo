@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XPTEST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xptest.cld"
+  :DESCRIPTION
+  "Extreme Programming Testing Suite"
+  :AUTHOR
+  "Craig Brozensky"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "Public domain"
+  :VERSIONS
+  ((:VERSION "2003.4.21" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xptest/2010-10-06/xptest-20101006-git.tgz"))) :DEPENDS-ON NIL)))

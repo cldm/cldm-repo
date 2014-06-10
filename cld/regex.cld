@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY REGEX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/regex.cld"
+  :DESCRIPTION
+  "A Regular Expression Engine"
+  :AUTHOR
+  "Michael Parker <mparker762@hotmail.com>"
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/regex/2012-09-09/regex-20120909-git.tgz"))) :DEPENDS-ON NIL)))

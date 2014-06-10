@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY JPL-QUEUES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/jpl-queues.cld"
+  :DESCRIPTION
+  "A few different kinds of queues, with optional
+multithreading synchronization."
+  :AUTHOR
+  "J.P. Larocque"
+  :MAINTAINER
+  "J.P. Larocque"
+  :LICENCE
+  "ISC-style permissive"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/jpl-queues/2010-10-06/jpl-queues-0.1.tgz"))) :DEPENDS-ON
+    ("bordeaux-threads" ("jpl-util" :VERSION "0.2")))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MIME
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mime.cld"
+  :AUTHOR
+  "Robert Marlow <bobstopper@bobturf.org>"
+  :MAINTAINER
+  "Robert Marlow <bobstopper@bobturf.org>"
+  :VERSIONS
+  ((:VERSION "0.5.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mime/2011-10-01/cl-mime-20111001-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :CL-BASE64 :CL-QPRINT))))

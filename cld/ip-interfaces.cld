@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY IP-INTERFACES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ip-interfaces.cld"
+  :AUTHOR
+  "Elliott Slaughter <elliottslaughter@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ip-interfaces/2014-05-25/ip-interfaces-0.1.2.tgz"))) :DEPENDS-ON
+    (:CFFI))))

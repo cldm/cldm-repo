@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DYNAMIC-COLLECT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/dynamic-collect.cld"
+  :DESCRIPTION
+  "A library for dynamic, continuable, and abortable collection."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "BSD 3-clause (see LICENSE)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/dynamic-collect/2014-05-25/dynamic-collect-20140525-hg.tgz")))
+    :DEPENDS-ON NIL)))

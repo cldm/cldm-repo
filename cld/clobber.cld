@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOBBER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clobber.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clobber/2013-06-15/clobber-20130615-git.tgz"))) :DEPENDS-ON NIL)))

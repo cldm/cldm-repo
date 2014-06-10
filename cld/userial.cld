@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY USERIAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/userial.cld"
+  :DESCRIPTION
+  "userial: a serialization library for binary message encoding."
+  :AUTHOR
+  "Patrick Stein <pat@nklein.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/userial/2011-06-19/userial_0.8.2011.06.02.tgz"))) :DEPENDS-ON
+    ("ieee-floats" "trivial-utf-8" "contextl"))))

@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rt.cld"
+  :DESCRIPTION
+  "MIT Regression Tester"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1990.12.19" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rt/2010-10-06/rt-20101006-git.tgz"))) :DEPENDS-ON NIL)))

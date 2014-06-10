@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MANIFEST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/manifest.cld"
+  :DESCRIPTION
+  "A system for semi-automatically documenting Common Lisp packages."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/manifest/2012-02-08/manifest-20120208-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CLOSER-MOP :TOOT :PURI :SPLIT-SEQUENCE :MONKEYLIB-HTML))))

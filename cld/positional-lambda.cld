@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY POSITIONAL-LAMBDA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/positional-lambda.cld"
+  :DESCRIPTION
+  "positional-lambda is a concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical \"gaps\" are left in the positional references. Further convenience features are provided."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/positional-lambda/2012-10-13/positional-lambda-2.0.tgz")))
+    :DEPENDS-ON (#:MAP-BIND))))

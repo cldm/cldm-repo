@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.SYNTAX-SUGAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.syntax-sugar.cld"
+  :DESCRIPTION
+  "Various syntax extensions."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.syntax-sugar/2013-03-12/hu.dwim.syntax-sugar-20130312-darcs.tgz"))) :DEPENDS-ON
+    (:HU.DWIM.COMMON))))

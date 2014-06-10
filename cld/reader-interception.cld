@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY READER-INTERCEPTION
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/reader-interception.cld"
+  :DESCRIPTION
+  "Intercept the reader to replace CL syntax with your own"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/reader-interception/2012-07-03/reader-interception-20120703-git.tgz"))) :DEPENDS-ON NIL)))

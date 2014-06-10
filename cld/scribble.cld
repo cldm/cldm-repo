@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SCRIBBLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/scribble.cld"
+  :DESCRIPTION
+  "Syntax extensions akin to Racket's Scribble and Bigloo's Skribe"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/scribble/2014-05-25/scribble-20140525-git.tgz"))) :DEPENDS-ON
+    ("meta" ("fare-utils" :VERSION "1.0.0") "fare-memoization" ("fare-quasiquote-readtable" :VERSION "0.9.6")))))

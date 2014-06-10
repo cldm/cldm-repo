@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SEQUENCE-ITERATORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sequence-iterators.cld"
+  :DESCRIPTION
+  "DOSEQUENCE & Co."
+  :AUTHOR
+  "Tobias C. Rittweiler <trittweiler@common-lisp.net>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sequence-iterators/2013-08-13/sequence-iterators-20130813-darcs.tgz"))) :DEPENDS-ON
+    (:PARSE-DECLARATIONS-1.0))))

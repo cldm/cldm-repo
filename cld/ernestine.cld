@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ERNESTINE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ernestine.cld"
+  :DESCRIPTION
+  "Music Organizer"
+  :AUTHOR
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :MAINTAINER
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :LICENCE
+  "Lisp Lesser GNU General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ernestine/2014-05-25/ernestine-20140525-git.tgz"))) :DEPENDS-ON
+    (:SPLIT-SEQUENCE :CL-PREVALENCE :CL-PPCRE :DRAKMA))))

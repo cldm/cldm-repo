@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LIBXML2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-libxml2.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-libxml2/2013-06-15/cl-libxml2-20130615-git.tgz"))) :DEPENDS-ON
+    (#:CFFI #:ITERATE #:PURI #:FLEXI-STREAMS #:ALEXANDRIA #:GARBAGE-POOLS #:METABANG-BIND))))

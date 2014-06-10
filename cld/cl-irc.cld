@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-IRC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-irc.cld"
+  :DESCRIPTION
+  "Common Lisp interface to the IRC protocol"
+  :AUTHOR
+  "Erik Enge & Contributors"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.9.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-irc/2013-07-20/cl-irc-0.9.1.tgz"))) :DEPENDS-ON
+    (:SPLIT-SEQUENCE :USOCKET :FLEXI-STREAMS))))

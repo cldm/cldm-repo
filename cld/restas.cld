@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RESTAS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/restas.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/restas/2013-11-11/restas-20131111-git.tgz"))) :DEPENDS-ON
+    (#:CFFI #:HUNCHENTOOT #:BORDEAUX-THREADS #:ROUTES #:ALEXANDRIA #:DATA-SIFT))))

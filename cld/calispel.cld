@@ -1,0 +1,22 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CALISPEL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/calispel.cld"
+  :DESCRIPTION
+  "Thread-safe message-passing channels, in the style of
+the occam programming language."
+  :AUTHOR
+  "J.P. Larocque, et al. (see COPYRIGHT.txt)"
+  :MAINTAINER
+  "J.P. Larocque"
+  :LICENCE
+  "ISC-style and other permissive (see COPYRIGHT.txt)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/calispel/2010-10-06/calispel-0.1.tgz")))
+    :DEPENDS-ON
+    ("jpl-queues" "eager-future" "bordeaux-threads"
+     ("jpl-util" :VERSION "0.2")))))

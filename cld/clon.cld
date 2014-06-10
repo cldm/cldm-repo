@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clon.cld"
+  :AUTHOR
+  "Gábor Melis <mega@retes.hu>"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clon/2011-03-20/clon-20110320-git.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS :TRIVIAL-TIMERS))))

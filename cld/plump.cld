@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PLUMP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/plump.cld"
+  :DESCRIPTION
+  "An X/HTML parser that aims to be as lenient as possible."
+  :AUTHOR
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :MAINTAINER
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :LICENCE
+  "Artistic"
+  :VERSIONS
+  ((:VERSION "0.1.10" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/plump/2014-05-25/plump-20140525-git.tgz"))) :DEPENDS-ON (:CL-PPCRE))))

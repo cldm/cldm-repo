@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LREDIS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lredis.cld"
+  :DESCRIPTION
+  "Lisp Redis bindings"
+  :AUTHOR
+  "death <github.com/death>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lredis/2013-12-11/lredis-20131211-git.tgz"))) :DEPENDS-ON
+    (#:BABEL #:BABEL-STREAMS #:USOCKET))))

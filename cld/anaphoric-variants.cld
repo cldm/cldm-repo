@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ANAPHORIC-VARIANTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/anaphoric-variants.cld"
+  :DESCRIPTION
+  "Gives access to anaphoric variants of operators through one macro: ANAPHORIC. The user explicitly provides a variable name, preserving sanity, in contrast to the traditional use of an evil implicit variable (\"IT\"). Some operators can bind additional handy variables when explicitly requested."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "1.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/anaphoric-variants/2012-10-13/anaphoric-variants-1.0.1.tgz")))
+    :DEPENDS-ON (#:MAP-BIND))))

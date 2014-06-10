@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-WEB-CRAWLER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-web-crawler.cld"
+  :DESCRIPTION
+  "A generic web-crawling library for Common Lisp."
+  :AUTHOR
+  "Aaron Sokoloski <asokoloski@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-web-crawler/2013-01-28/cl-web-crawler-20130128-svn.tgz")))
+    :DEPENDS-ON (:DRAKMA :PURI :CL-PPCRE :CL-HTML-PARSE))))

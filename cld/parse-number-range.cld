@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARSE-NUMBER-RANGE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parse-number-range.cld"
+  :DESCRIPTION
+  "Parses LOOP's convenient \"for-as-arithmetic\" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parse-number-range/2012-11-25/parse-number-range-1.0.tgz")))
+    :DEPENDS-ON (#:MAP-BIND #:CARTESIAN-PRODUCT-SWITCH #:ENHANCED-MULTIPLE-VALUE-BIND))))

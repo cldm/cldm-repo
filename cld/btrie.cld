@@ -1,0 +1,21 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BTRIE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/btrie.cld"
+  :DESCRIPTION
+  "Branch trie - a generic trie implementation with branch widths.
+
+* Implementation is generic: keys can be of sequences of any type.
+* Branch width of a trie node tells how many branches go through that node and
+  can be used to calculate probabilites for different suffixes."
+  :AUTHOR
+  "Peter Hillerström <peter.hillerstrom@gmail.com>"
+  :LICENCE
+  "Simplified BSD license."
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/btrie/2012-09-09/btrie-20120909-git.tgz")))
+    :DEPENDS-ON (:ARNESI :SPLIT-SEQUENCE :LIFT))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOS-DIFF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clos-diff.cld"
+  :AUTHOR
+  "Krzysztof Drewniak <krzysdrewniak <AT> gmail.com>"
+  :LICENCE
+  "GNU GPL version 3 or any larter version"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clos-diff/2011-06-19/clos-diff-20110619-git.tgz"))) :DEPENDS-ON
+    ("closer-mop"))))

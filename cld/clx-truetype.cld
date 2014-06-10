@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLX-TRUETYPE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clx-truetype.cld"
+  :DESCRIPTION
+  "clx-truetype is pure common lisp solution for antialiased TrueType font rendering using CLX and XRender extension."
+  :AUTHOR
+  "Michael Filonenko <filonenko.mikhail@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clx-truetype/2014-05-25/clx-truetype-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CLX #:ZPB-TTF #:CL-VECTORS #:CL-PATHS-TTF #:CL-AA #:CL-FAD #:CL-STORE #:TRIVIAL-FEATURES))))

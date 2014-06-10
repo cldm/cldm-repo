@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TWITTER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-twitter.cld"
+  :DESCRIPTION
+  "An interface to Twitter"
+  :AUTHOR
+  "Ian Eslick"
+  :MAINTAINER
+  "Fons Haffmans"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-twitter/2013-10-03/cl-twitter-20131003-git.tgz"))) :DEPENDS-ON
+    (:CL-JSON :TRIVIAL-HTTP :DRAKMA :ANAPHORA :CL-PPCRE :CLOSER-MOP :CL-OAUTH :URL-REWRITE))))

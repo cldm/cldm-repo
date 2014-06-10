@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-OPENSTACK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-openstack.cld"
+  :DESCRIPTION
+  "Openstack RPC"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-openstack/2012-08-11/cl-openstack-20120811-git.tgz"))) :DEPENDS-ON
+    (:ASDF :DRAKMA :CL-JSON :URI-TEMPLATE :CL-BASE64))))

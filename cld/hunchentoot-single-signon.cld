@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HUNCHENTOOT-SINGLE-SIGNON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hunchentoot-single-signon.cld"
+  :DESCRIPTION
+  "Implementation of SPNEGO authentication for Hunchentoot"
+  :AUTHOR
+  "Elias Martenson <lokedhs@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hunchentoot-single-signon/2013-11-11/hunchentoot-single-signon-20131111-git.tgz"))) :DEPENDS-ON
+    (:HUNCHENTOOT :CL-GSS :SPLIT-SEQUENCE :CL-BASE64))))

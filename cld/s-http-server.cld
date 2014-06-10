@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-HTTP-SERVER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-http-server.cld"
+  :DESCRIPTION
+  "S-HTTP-SERVER is a small standalone Common Lisp HTTP Server"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :LICENCE
+  "Lesser Lisp General Public License (LLGPL)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-http-server/2013-01-28/s-http-server-20130128-git.tgz")))
+    :DEPENDS-ON (:S-UTILS :S-SYSDEPS :S-BASE64 :PURI :SALZA2))))

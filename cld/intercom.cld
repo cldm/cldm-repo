@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INTERCOM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/intercom.cld"
+  :DESCRIPTION
+  "Intercom allows bidirectional message passing between javascript and lisp."
+  :AUTHOR
+  "Aad Versteden <aad@knowified.com>"
+  :MAINTAINER
+  "Aad Versteden <aad@knowified.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/intercom/2013-06-15/intercom-20130615-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::JSOWN ASDF/INTERFACE::HUNCHENTOOT ASDF/INTERFACE::BORDEAUX-THREADS ASDF/INTERFACE::SPLIT-SEQUENCE ASDF/INTERFACE::ALEXANDRIA))))

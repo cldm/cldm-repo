@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RSVG2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-rsvg2.cld"
+  :DESCRIPTION
+  "Bindings for RSVG Library."
+  :AUTHOR
+  "Sasha Kovar <sasha-rsvg@arcocene.org>"
+  :MAINTAINER
+  "Rörd Hinrichsen <roerdhh@gmail.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.4.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rsvg2/2012-01-07/cl-rsvg2-20120107-git.tgz"))) :DEPENDS-ON
+    (#:CFFI #:CL-CAIRO2 #:CL-GTK2-GLIB #:TRIVIAL-GRAY-STREAMS))))

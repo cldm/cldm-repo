@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XARRAY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xarray.cld"
+  :DESCRIPTION
+  ""
+  :AUTHOR
+  "Tamas K Papp"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xarray/2014-01-13/xarray-20140113-git.tgz"))) :DEPENDS-ON
+    (:CL-UTILITIES :ITERATE :METABANG-BIND :ANAPHORA))))

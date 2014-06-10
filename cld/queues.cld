@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY QUEUES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/queues.cld"
+  :DESCRIPTION
+  "A queue interface -- used to create and
+manipulate queue structures from simple-queue, priority-queue,
+or their concurrent versions (cqueue)."
+  :AUTHOR
+  "Eric O'Connor"
+  :MAINTAINER
+  "Eric O'Connor"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/queues/2012-07-03/queues-20120703-git.tgz"))) :DEPENDS-ON NIL)))

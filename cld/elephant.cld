@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ELEPHANT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/elephant.cld"
+  :DESCRIPTION
+  "Object database for Common Lisp"
+  :AUTHOR
+  "Ben Lee <blee@common-lisp.net>"
+  :MAINTAINER
+  "Ian Eslick <ieslick@common-lisp.net, Robert Read <read@robertlread.net>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/elephant/2012-09-09/elephant-20120909-darcs.tgz"))) :DEPENDS-ON
+    (:UFFI :SB-POSIX :CL-BASE64))))

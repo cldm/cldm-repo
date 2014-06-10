@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GRAPH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-graph.cld"
+  :DESCRIPTION
+  "Graph manipulation utilities for Common Lisp"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style License"
+  :VERSIONS
+  ((:VERSION "0.10.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-graph/2014-02-11/cl-graph-20140211-git.tgz"))) :DEPENDS-ON
+    ((:METATILITIES-BASE :VERSION "0.6.0") (:CL-CONTAINERS :VERSION "0.12.0") :METABANG-BIND))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PERCENT-ENCODING
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/percent-encoding.cld"
+  :AUTHOR
+  "Manabu Takayama <learn.libra@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/percent-encoding/2012-10-13/percent-encoding-20121013-git.tgz")))
+    :DEPENDS-ON (:ANAPHORA :BABEL))))

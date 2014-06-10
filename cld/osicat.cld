@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY OSICAT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/osicat.cld"
+  :DESCRIPTION
+  "A lightweight operating system interface"
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@random-state.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/osicat/2014-02-11/osicat-20140211-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI ASDF/INTERFACE::CFFI-GROVEL ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::TRIVIAL-FEATURES))))

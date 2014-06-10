@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HTML-TEMPLATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/html-template.cld"
+  :VERSIONS
+  ((:VERSION "0.9.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/html-template/2010-10-06/html-template-0.9.1.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CHEAT-JS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cheat-js.cld"
+  :DESCRIPTION
+  "Macros for JavaScript. Kinda."
+  :AUTHOR
+  "Miron Brezuleanu"
+  :LICENCE
+  "Simplified BSD License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cheat-js/2012-10-13/cheat-js-20121013-git.tgz")))
+    :DEPENDS-ON (#:FIVEAM #:CL-UGLIFY-JS))))

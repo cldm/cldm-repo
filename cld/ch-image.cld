@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CH-IMAGE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ch-image.cld"
+  :DESCRIPTION
+  "image representation and processing"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.4.10" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/ch-image/2011-04-18/ch-image-20110418-git.tgz")))
+    :DEPENDS-ON
+    (ASDF/INTERFACE::CLEM ASDF/INTERFACE::RETROSPECTIFF ASDF/INTERFACE::ZPNG
+     ASDF/INTERFACE::PNG-READ ASDF/INTERFACE::CL-JPEG))))

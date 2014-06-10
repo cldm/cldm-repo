@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOCAL-PACKAGE-ALIASES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/local-package-aliases.cld"
+  :DESCRIPTION
+  "Allows to define inside of a package aliases to refer other packages.
+Provides a reader macro $ to use the aliases (active only in packages having
+alias mapping, and does not affect other code).
+Portable."
+  :AUTHOR
+  "Anton Vodonosov <avodonosov@yandex.ru>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/local-package-aliases/2013-03-12/local-package-aliases-20130312-git.tgz"))) :DEPENDS-ON NIL)))

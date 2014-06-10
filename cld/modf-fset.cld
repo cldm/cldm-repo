@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MODF-FSET
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/modf-fset.cld"
+  :AUTHOR
+  "Zachary Smith <zachkostsmith@gmail.com>"
+  :LICENCE
+  "Modified BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/modf-fset/2011-06-19/modf-fset-20110619-git.tgz"))) :DEPENDS-ON
+    (:MODF :FSET))))

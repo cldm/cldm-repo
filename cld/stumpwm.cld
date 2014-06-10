@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STUMPWM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stumpwm.cld"
+  :DESCRIPTION
+  "A tiling, keyboard driven window manager"
+  :AUTHOR
+  "Shawn Betts <sabetts@vcn.bc.ca>"
+  :MAINTAINER
+  "Shawn Betts <sabetts@vcn.bc.ca>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stumpwm/2014-05-25/stumpwm-20140525-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :CLX :SB-POSIX))))

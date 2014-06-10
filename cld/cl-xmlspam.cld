@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-XMLSPAM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-xmlspam.cld"
+  :DESCRIPTION
+  "Streaming pattern matching for XML"
+  :AUTHOR
+  "Roger Peppe"
+  :MAINTAINER
+  "Roger Peppe"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-xmlspam/2010-10-06/cl-xmlspam-20101006-http.tgz"))) :DEPENDS-ON
+    ("cxml" "cl-ppcre"))))

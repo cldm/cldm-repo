@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TEEPEEDEE2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/teepeedee2.cld"
+  :DESCRIPTION
+  "Multiprotocol fast networking framework"
+  :AUTHOR
+  "John Fremlin <john@fremlin.org>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/teepeedee2/2014-05-25/teepeedee2-20140525-git.tgz"))) :DEPENDS-ON
+    (:TRIVIAL-GARBAGE :CL-CONT :CFFI :ITERATE :ALEXANDRIA :CL-IRREGSEXP :TRIVIAL-BACKTRACE :PARENSCRIPT))))

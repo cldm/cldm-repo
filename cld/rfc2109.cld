@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RFC2109
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rfc2109.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rfc2109/2014-02-11/rfc2109-20140211-darcs.tgz"))) :DEPENDS-ON
+    (:SPLIT-SEQUENCE))))

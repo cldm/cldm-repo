@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-XML-RPC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-xml-rpc.cld"
+  :DESCRIPTION
+  "Common Lisp XML-RPC Package"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>, Brian Mastenbrook <>, Rudi Schlatte <>"
+  :LICENCE
+  "Lesser Lisp General Public License (LLGPL)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-xml-rpc/2010-10-06/s-xml-rpc-20101006-http.tgz"))) :DEPENDS-ON
+    (:S-XML :SB-BSD-SOCKETS))))

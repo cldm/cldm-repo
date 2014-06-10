@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RMATH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-rmath.cld"
+  :DESCRIPTION
+  "A Common Lisp wrapper for the Rmath library."
+  :AUTHOR
+  "Tamas K. Papp"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rmath/2014-02-11/cl-rmath-20140211-git.tgz"))) :DEPENDS-ON
+    (#:CFFI))))

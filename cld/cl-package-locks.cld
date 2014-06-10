@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PACKAGE-LOCKS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-package-locks.cld"
+  :DESCRIPTION
+  "A library to provide a unified way to work with package locks across supported common lisp implementations."
+  :AUTHOR
+  "Elliott Johnson <elliott@elliottjohnson.net>"
+  :LICENCE
+  "Copyright 2011 Elliott Johnson"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-package-locks/2011-12-03/cl-package-locks-20111203-git.tgz")))
+    :DEPENDS-ON NIL)))

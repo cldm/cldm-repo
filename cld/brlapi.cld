@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BRLAPI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/brlapi.cld"
+  :AUTHOR
+  "Mario Lang <mlang@delysid.org>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/brlapi/2011-06-19/brlapi-20110619-svn.tgz")))
+    :DEPENDS-ON (:CFFI))))

@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PAYPAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-paypal.cld"
+  :DESCRIPTION
+  "A paypal express checkout API in Common Lisp."
+  :AUTHOR
+  "Hans Huebner <hans@huebner.org>, Plato Wu <netawater@gmail.com>"
+  :MAINTAINER
+  "Plato Wu <netawater@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-paypal/2010-10-06/cl-paypal-20101006-git.tgz"))) :DEPENDS-ON
+    (:HUNCHENTOOT :DRAKMA :CL-PPCRE))))

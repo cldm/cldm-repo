@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASDF-PROJECT-HELPER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asdf-project-helper.cld"
+  :DESCRIPTION
+  "A project maintenance helper utilities with ASDF"
+  :AUTHOR
+  "SUZUKI Shingo"
+  :MAINTAINER
+  "SUZUKI Shingo"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.3" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asdf-project-helper/2013-06-15/asdf-project-helper-20130615-git.tgz")))
+    :DEPENDS-ON (:ASDF-UTILS :CL-MARKDOWN))))

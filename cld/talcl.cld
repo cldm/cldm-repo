@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TALCL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/talcl.cld"
+  :DESCRIPTION
+  "TAL in CL"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/talcl/2014-05-25/talcl-20140525-git.tgz"))) :DEPENDS-ON
+    (:BUILDNODE :CXML :ITERATE :ALEXANDRIA :SYMBOL-MUNGER :CL-PPCRE))))

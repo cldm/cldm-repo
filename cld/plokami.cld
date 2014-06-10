@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PLOKAMI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/plokami.cld"
+  :DESCRIPTION
+  "Common Lisp PCAP interface."
+  :AUTHOR
+  "xristos@sdf.lonestar.org"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/plokami/2013-04-20/plokami-20130420-git.tgz"))) :DEPENDS-ON (:CFFI))))

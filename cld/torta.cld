@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TORTA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/torta.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/torta/2014-05-25/torta-20140525-git.tgz"))) :DEPENDS-ON ("gordon"))))

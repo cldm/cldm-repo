@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISP-UNIT2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisp-unit2.cld"
+  :DESCRIPTION
+  "Common Lisp library that supports unit testing."
+  :AUTHOR
+  "Russ Tyndall <russ@acceleration.net>, Acceleration.net,
+           Thomas M. Hermann <thomas.m.hermann@odonata-research.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.2.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisp-unit2/2014-05-25/lisp-unit2-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CL-INTERPOL :ITERATE :SYMBOL-MUNGER))))

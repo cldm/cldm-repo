@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MULTIPLE-VALUE-VARIANTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/multiple-value-variants.cld"
+  :DESCRIPTION
+  "Gives access to multiple-value variants of operators through one macro: MULTIPLE-VALUE. There are built-in variants for some standard operators; it's easy to create your own variants for other operators. The multiple-value mapping operators are especially useful."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/multiple-value-variants/2012-11-25/multiple-value-variants-1.0.tgz"))) :DEPENDS-ON
+    (#:MAP-BIND #:POSITIONAL-LAMBDA #:ENHANCED-MULTIPLE-VALUE-BIND))))

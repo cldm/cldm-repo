@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PROJ
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-proj.cld"
+  :DESCRIPTION
+  "CL-PROJ provides Proj.4 library bindings"
+  :AUTHOR
+  "Victor Anyakin <anyakinvictor@yahoo.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "4.7.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-proj/2013-03-12/cl-proj-20130312-hg.tgz"))) :DEPENDS-ON (:CFFI))))

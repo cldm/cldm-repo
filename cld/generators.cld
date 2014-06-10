@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GENERATORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/generators.cld"
+  :DESCRIPTION
+  "A common lisp package providing python style generators based
+                on delimited continuations"
+  :AUTHOR
+  "<programmers@acceleration.net>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/generators/2013-06-15/generators-20130615-git.tgz"))) :DEPENDS-ON
+    (:CL-CONT :ALEXANDRIA :ITERATE))))

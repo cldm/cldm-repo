@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DRAW-CONS-TREE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/draw-cons-tree.cld"
+  :DESCRIPTION
+  "Makes and ascii picture of a cons tree"
+  :AUTHOR
+  "Ported by:CBaggers - Original Author:Nils M Holm"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/draw-cons-tree/2013-10-03/draw-cons-tree-20131003-git.tgz")))
+    :DEPENDS-ON NIL)))

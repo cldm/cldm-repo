@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MAKE-HASH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/make-hash.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/make-hash/2013-06-15/make-hash-20130615-git.tgz"))) :DEPENDS-ON NIL)))

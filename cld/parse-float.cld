@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARSE-FLOAT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parse-float.cld"
+  :DESCRIPTION
+  "Parse floating point values in strings."
+  :AUTHOR
+  "Sumant Oemrawsingh"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parse-float/2012-11-25/parse-float-20121125-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA))))

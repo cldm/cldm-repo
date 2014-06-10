@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-OAUTH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-oauth.cld"
+  :DESCRIPTION
+  "Common Lisp OAuth implementation"
+  :MAINTAINER
+  "Leslie P. Polzer <polzer@gnu.org>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-oauth/2013-12-11/cl-oauth-20131211-git.tgz"))) :DEPENDS-ON
+    (:IRONCLAD :CL-BASE64 :BABEL :CLOSER-MOP :ALEXANDRIA :ANAPHORA :F-UNDERSCORE :SPLIT-SEQUENCE :TRIVIAL-GARBAGE :DRAKMA :PURI :HUNCHENTOOT))))

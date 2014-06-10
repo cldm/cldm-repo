@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-NUM-UTILS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-num-utils.cld"
+  :DESCRIPTION
+  "Numerical utilities for Common Lisp"
+  :AUTHOR
+  "Tamas K Papp <tkpapp@gmail.com>"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-num-utils/2013-12-11/cl-num-utils-20131211-git.tgz"))) :DEPENDS-ON
+    (#:ANAPHORA #:ALEXANDRIA #:ARRAY-OPERATIONS #:CL-SLICE #:LET-PLUS))))

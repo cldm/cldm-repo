@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PETTOMATO-DEQUE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pettomato-deque.cld"
+  :DESCRIPTION
+  "A set of double-ended queue implementations."
+  :AUTHOR
+  "Austin Haas <austin@pettomato.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pettomato-deque/2012-01-07/pettomato-deque-20120107-git.tgz")))
+    :DEPENDS-ON NIL)))

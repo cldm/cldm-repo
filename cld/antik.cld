@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ANTIK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/antik.cld"
+  :DESCRIPTION
+  "A library providing a foundation for computational mathematics, science, and engineering."
+  :AUTHOR
+  "Liam M. Healy"
+  :LICENCE
+  "GPL v3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/antik/2014-02-11/antik-20140211-git.tgz")))
+    :DEPENDS-ON
+    (#:ITERATE #:ALEXANDRIA #:SPLIT-SEQUENCE #:CL-PPCRE #:CFFI
+     #:TRIVIAL-GARBAGE ASDF/INTERFACE::STATIC-VECTORS #:DRAKMA))))

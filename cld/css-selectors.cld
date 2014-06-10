@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CSS-SELECTORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/css-selectors.cld"
+  :DESCRIPTION
+  "An implementation of css selectors"
+  :AUTHOR
+  "<programmers@acceleration.net>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/css-selectors/2014-01-13/css-selectors-20140113-git.tgz")))
+    :DEPENDS-ON (:ITERATE :YACC :CL-PPCRE :BUILDNODE :ALEXANDRIA :CXML :CL-INTERPOL :SYMBOL-MUNGER))))

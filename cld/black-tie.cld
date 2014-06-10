@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BLACK-TIE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/black-tie.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/black-tie/2010-10-06/black-tie-20101006-git.tgz")))
+    :DEPENDS-ON NIL)))

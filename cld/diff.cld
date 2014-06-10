@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DIFF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/diff.cld"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/diff/2013-08-13/diff-20130813-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :TRIVIAL-GRAY-STREAMS))))

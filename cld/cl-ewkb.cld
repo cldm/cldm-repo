@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-EWKB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ewkb.cld"
+  :DESCRIPTION
+  "cl-ewkb is a geospatial library, based on cl-wkb, that implements the OGC Well-Known Binary geographic geometry data model with PostGIS 3d, 4d extensions, and provides WKB and EWKB encoding and decoding functionality. cl-wkb author is J.P. Larocue."
+  :AUTHOR
+  "Michael Filonenko <filonenko.mikhail@gmail.com>"
+  :MAINTAINER
+  "Michael Filonenko <filonenko.mikhail@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-ewkb/2011-06-19/cl-ewkb-20110619-git.tgz")))
+    :DEPENDS-ON (:IEEE-FLOATS :FLEXI-STREAMS))))

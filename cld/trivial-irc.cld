@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-IRC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-irc.cld"
+  :AUTHOR
+  "Thomas Stenhaug <thomas.stenhaug@gmail.com>"
+  :MAINTAINER
+  "Thomas Stenhaug <thomas.stenhaug@gmail.com>"
+  :VERSIONS
+  ((:VERSION "0.0.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-irc/2012-09-09/trivial-irc-20120909-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:SPLIT-SEQUENCE #:USOCKET))))

@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NET-TELENT-DATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/net-telent-date.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/net-telent-date/2010-10-06/net-telent-date_0.42.tgz"))) :DEPENDS-ON
+    NIL)))

@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-DEVIL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-devil.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-devil/2013-07-20/cl-devil-20130720-git.tgz")))
+    :DEPENDS-ON (#:CFFI #:ALEXANDRIA))))

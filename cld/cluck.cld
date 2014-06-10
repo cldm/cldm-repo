@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLUCK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cluck.cld"
+  :DESCRIPTION
+  "Common Lisp uController Clock Calculator"
+  :MAINTAINER
+  "Kevin M. Rosenberg"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cluck/2010-10-06/cluck-20101006-git.tgz"))) :DEPENDS-ON
+    (CLUCK-SYSTEM::KMRCL))))

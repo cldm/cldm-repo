@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GBBOPEN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/gbbopen.cld"
+  :DESCRIPTION
+  "The GBBopen blackboard-system framework"
+  :AUTHOR
+  "The GBBopen Project <gbbopen@GBBopen.org>"
+  :MAINTAINER
+  "Dan Corkill <corkill@GBBopen.org>"
+  :LICENCE
+  "Licensed under Apache License 2.0 (see LICENSE for license information)."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gbbopen/2014-05-25/gbbopen-20140525-svn.tgz"))) :DEPENDS-ON NIL)))

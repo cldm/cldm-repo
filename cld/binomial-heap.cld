@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BINOMIAL-HEAP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/binomial-heap.cld"
+  :DESCRIPTION
+  "A compact binomial heap implementation."
+  :AUTHOR
+  "Volkan YAZICI <volkan.yazici@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/binomial-heap/2013-04-20/binomial-heap-20130420-git.tgz")))
+    :DEPENDS-ON NIL)))

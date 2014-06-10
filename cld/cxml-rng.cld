@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CXML-RNG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cxml-rng.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cxml-rng/2010-10-06/cxml-rng-2008-11-30.tgz"))) :DEPENDS-ON
+    (:CXML :CL-PPCRE :YACC :PARSE-NUMBER :CL-BASE64))))

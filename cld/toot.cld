@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TOOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/toot.cld"
+  :DESCRIPTION
+  "A minimal web server originally built by stripping down Edi Weitz's Hunchentoot"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/toot/2012-11-25/toot-20121125-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CHUNGA :CL-BASE64 :CL-FAD :CL-PPCRE :FLEXI-STREAMS :CL+SSL :MD5 :TRIVIAL-BACKTRACE :USOCKET :BORDEAUX-THREADS :PURI))))

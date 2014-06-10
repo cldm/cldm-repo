@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY JWACS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/jwacs.cld"
+  :AUTHOR
+  "James Wright <james@chumsley.org> et al"
+  :LICENCE
+  "MIT License <http://www.opensource.org/licenses/mit-license.php>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/jwacs/2013-03-12/jwacs-20130312-darcs.tgz"))) :DEPENDS-ON
+    (JWACS-SYSTEM::CL-PPCRE))))

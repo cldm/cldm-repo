@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GLYPHS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/glyphs.cld"
+  :DESCRIPTION
+  "Glyphs to reduce Common Lisp verbosity"
+  :AUTHOR
+  "Matthew Carter <m@ahungry.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/glyphs/2014-05-25/glyphs-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:PARENSCRIPT #:NAMED-READTABLES))))

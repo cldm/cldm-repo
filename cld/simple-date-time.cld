@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SIMPLE-DATE-TIME
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/simple-date-time.cld"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/simple-date-time/2014-05-25/simple-date-time-20140525-git.tgz")))
+    :DEPENDS-ON (ASDF/INTERFACE::CL-PPCRE))))

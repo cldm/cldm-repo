@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GENDOC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gendoc.cld"
+  :DESCRIPTION
+  "cl-gendoc: Simple component-based documentation generator"
+  :AUTHOR
+  "Ryan Pavlik"
+  :LICENCE
+  "LLGPL, BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-gendoc/2013-08-13/cl-gendoc-20130813-git.tgz")))
+    :DEPENDS-ON (:CL-WHO :3BMD :3BMD-EXT-CODE-BLOCKS))))

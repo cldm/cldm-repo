@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLICKR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clickr.cld"
+  :DESCRIPTION
+  "High-level Flickr interface"
+  :AUTHOR
+  "Mark Probst"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clickr/2012-04-07/clickr-20120407-git.tgz"))) :DEPENDS-ON
+    (:TRIVIAL-HTTP :MD5 :S-XML :S-XML-RPC :CL-PPCRE))))

@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TBNL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/tbnl.cld"
+  :VERSIONS
+  ((:VERSION "0.11.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/tbnl/2010-10-06/tbnl-0.11.4.tgz"))) :DEPENDS-ON
+    (:MD5 :CL-BASE64 :CL-PPCRE :KMRCL :RFC2388 :URL-REWRITE))))

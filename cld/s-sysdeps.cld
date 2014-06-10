@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-SYSDEPS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-sysdeps.cld"
+  :DESCRIPTION
+  "An abstraction layer over platform dependent functionality"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :LICENCE
+  "Lesser Lisp General Public License (LLGPL)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-sysdeps/2013-01-28/s-sysdeps-20130128-git.tgz"))) :DEPENDS-ON NIL)))

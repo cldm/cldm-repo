@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FARE-UTILS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fare-utils.cld"
+  :DESCRIPTION
+  "Basic functions and macros, interfaces, pure and stateful datastructures"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fare-utils/2014-05-25/fare-utils-20140525-git.tgz"))) :DEPENDS-ON
+    NIL)))

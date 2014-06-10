@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY AMAZON-ECS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/amazon-ecs.cld"
+  :DESCRIPTION
+  "Amazon Product Advertising API library for Common Lisp"
+  :AUTHOR
+  "Red Daly <reddaly at gmail>"
+  :LICENCE
+  "LLGPL (Lisp LGPL)"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/amazon-ecs/2011-04-18/amazon-ecs-20110418-git.tgz")))
+    :DEPENDS-ON
+    ("cl-ppcre" "trivial-http" "net-telent-date" "xml-mop" "parse-number"
+     "drakma" "ironclad" "hunchentoot" "bordeaux-threads" "alexandria"))))

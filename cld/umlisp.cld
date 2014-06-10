@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY UMLISP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/umlisp.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/umlisp/2013-04-20/umlisp-20130420-git.tgz"))) :DEPENDS-ON
+    (UMLISP-SYSTEM::CLSQL UMLISP-SYSTEM::CLSQL-MYSQL UMLISP-SYSTEM::KMRCL UMLISP-SYSTEM::HYPEROBJECT))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DATE-CALC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/date-calc.cld"
+  :DESCRIPTION
+  "Package for simple date calculation"
+  :AUTHOR
+  "schroete@iup.physik.uni-bremen.de"
+  :LICENCE
+  "GPL or Artistic"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/date-calc/2010-10-06/date-calc-20101006-http.tgz"))) :DEPENDS-ON
+    NIL)))

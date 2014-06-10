@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LIBPUZZLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-libpuzzle.cld"
+  :DESCRIPTION
+  ""
+  :AUTHOR
+  "Masato Sogame"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-libpuzzle/2013-04-20/cl-libpuzzle-20130420-git.tgz"))) :DEPENDS-ON
+    (:CFFI))))

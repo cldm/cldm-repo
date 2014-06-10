@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ESRAP-LIQUID
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/esrap-liquid.cld"
+  :DESCRIPTION
+  "A Packrat / Parsing Grammar / TDPL parser for Common Lisp."
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/esrap-liquid/2014-05-25/esrap-liquid-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :DEFMACRO-ENHANCE :ITERATE :RUTILS :CL-INDETERMINISM :CL-READ-MACRO-TOKENS #:CL-PPCRE))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MADEIRA-PORT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/madeira-port.cld"
+  :DESCRIPTION
+  "Provides :MADEIRA-PORT file class for ASDF, and an extended #+ and #- syntax."
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@random-state.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/madeira-port/2012-07-03/madeira-port-20120703-git.tgz"))) :DEPENDS-ON
+    NIL)))

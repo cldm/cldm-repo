@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BEANSTALK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-beanstalk.cld"
+  :DESCRIPTION
+  "An interface to the beanstalk queue server"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-beanstalk/2011-06-19/cl-beanstalk-20110619-git.tgz")))
+    :DEPENDS-ON (:USOCKET :FLEXI-STREAMS :SPLIT-SEQUENCE))))

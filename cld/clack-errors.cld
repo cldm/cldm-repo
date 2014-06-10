@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLACK-ERRORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clack-errors.cld"
+  :DESCRIPTION
+  "Error page middleware for Clack."
+  :AUTHOR
+  "Fernando Borretti"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clack-errors/2014-05-25/clack-errors-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLACK :CLOSER-MOP :LOCAL-TIME :TRIVIAL-BACKTRACE :CLOSURE-TEMPLATE :CL-PPCRE))))

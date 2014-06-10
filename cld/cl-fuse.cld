@@ -1,0 +1,22 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-FUSE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-fuse.cld"
+  :DESCRIPTION
+  "CFFI bindings to FUSE (Filesystem in user space)"
+  :AUTHOR
+  "Michael Raskin <fb08af68@rambler.ru>"
+  :MAINTAINER
+  "Michael Raskin <fb08af68@rambler.ru>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-fuse/2013-11-11/cl-fuse-20131111-git.tgz")))
+    :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI ASDF/INTERFACE::CL-UTILITIES
+     ASDF/INTERFACE::BORDEAUX-THREADS ASDF/INTERFACE::TRIVIAL-BACKTRACE
+     ASDF/INTERFACE::ITERATE ASDF/INTERFACE::TRIVIAL-UTF-8))))

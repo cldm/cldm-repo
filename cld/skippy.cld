@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SKIPPY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/skippy.cld"
+  :DESCRIPTION
+  "Read and write GIF files"
+  :AUTHOR
+  "Zachary Beane <xach@xach.com>"
+  :VERSIONS
+  ((:VERSION "1.3.8" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/skippy/2011-12-03/skippy-1.3.8.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CSV
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-csv.cld"
+  :DESCRIPTION
+  "Facilities for reading and writing CSV format files"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-csv/2014-02-11/cl-csv-20140211-git.tgz")))
+    :DEPENDS-ON (:ITERATE :ALEXANDRIA :CL-INTERPOL))))

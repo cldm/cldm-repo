@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SYNTAX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-syntax.cld"
+  :DESCRIPTION
+  "Reader Syntax Coventions for Common Lisp and SLIME"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-syntax/2014-05-25/cl-syntax-20140525-git.tgz"))) :DEPENDS-ON
+    (:TRIVIAL-TYPES :NAMED-READTABLES))))

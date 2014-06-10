@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY KM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/km.cld"
+  :DESCRIPTION
+  "THE KNOWLEDGE MACHINE - INFERENCE ENGINE"
+  :AUTHOR
+  "Peter Clark"
+  :LICENCE
+  "GNU Lesser General Public Licence"
+  :VERSIONS
+  ((:VERSION "2.5.33" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/km/2011-05-22/km-2-5-33.tgz"))) :DEPENDS-ON NIL)))

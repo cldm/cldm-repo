@@ -1,0 +1,21 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ARCHITECTURE.SERVICE-PROVIDER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/architecture.service-provider.cld"
+  :DESCRIPTION
+  "Provides a framework for registering and finding services and providers of these."
+  :AUTHOR
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :MAINTAINER
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :LICENCE
+  "LLGPLv3; see COPYING file for details."
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/architecture.service-provider/2014-05-25/architecture.service-provider-20140525-git.tgz")))
+    :DEPENDS-ON
+    (:ALEXANDRIA (:LET-PLUS :VERSION "0.2")
+     (:MORE-CONDITIONS :VERSION "0.3.0")))))

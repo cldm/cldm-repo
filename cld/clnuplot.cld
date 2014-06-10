@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLNUPLOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clnuplot.cld"
+  :DESCRIPTION
+  "Common Lisp interface to GNUPlot."
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "0.2.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clnuplot/2013-01-28/clnuplot-20130128-darcs.tgz"))) :DEPENDS-ON
+    (:CL-CONTAINERS :CL-MATHSTATS :METABANG-BIND :TRIVIAL-SHELL))))

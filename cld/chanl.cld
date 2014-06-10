@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CHANL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/chanl.cld"
+  :DESCRIPTION
+  "Communicating Sequential Process support for Common Lisp"
+  :AUTHOR
+  "Josh Marchan"
+  :MAINTAINER
+  "Josh Marchan"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/chanl/2014-02-11/chanl-20140211-git.tgz")))
+    :DEPENDS-ON (:BORDEAUX-THREADS))))

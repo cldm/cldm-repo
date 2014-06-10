@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY READABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/readable.cld"
+  :DESCRIPTION
+  "Support 'readable' extensions to Lisp s-expressions"
+  :AUTHOR
+  "David A. Wheeler"
+  :MAINTAINER
+  "David A. Wheeler"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/readable/2013-11-11/readable-20131111-git.tgz"))) :DEPENDS-ON NIL)))

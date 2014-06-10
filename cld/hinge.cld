@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HINGE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hinge.cld"
+  :DESCRIPTION
+  "A synonym for node. Something like an evented framework in and for CL."
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hinge/2012-07-03/hinge-20120703-git.tgz"))) :DEPENDS-ON
+    (:EV :ZMQ :CLOSER-MOP :BORDEAUX-THREADS :ARNESI :LOG5 :ALEXANDRIA :IOLIB :UUID))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PILEUP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pileup.cld"
+  :DESCRIPTION
+  "A portable, performant, and thread-safe binary heap / priority queue."
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@random-state.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pileup/2013-04-20/pileup-20130420-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

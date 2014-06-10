@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-TIMERS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-timers.cld"
+  :DESCRIPTION
+  "Trivial timer library"
+  :AUTHOR
+  "Clinton Ebadi <clinton@unknownlamer.org>"
+  :LICENCE
+  "public domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-timers/2010-10-06/trivial-timers-20101006-http.tgz")))
+    :DEPENDS-ON NIL)))

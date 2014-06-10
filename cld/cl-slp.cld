@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SLP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-slp.cld"
+  :DESCRIPTION
+  "Common Lisp OpenSLP package"
+  :AUTHOR
+  "Frank James <frank.a.james@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-slp/2014-05-25/cl-slp-20140525-git.tgz"))) :DEPENDS-ON (:CFFI))))

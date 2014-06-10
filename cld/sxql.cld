@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SXQL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sxql.cld"
+  :DESCRIPTION
+  "A SQL generator"
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "BSD 3-Clause"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sxql/2014-05-25/sxql-20140525-git.tgz"))) :DEPENDS-ON
+    (:OPTIMA :ITERATE :CL-SYNTAX-ANNOT :TRIVIAL-TYPES :SPLIT-SEQUENCE :ALEXANDRIA))))

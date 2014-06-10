@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HCTSMSL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hctsmsl.cld"
+  :DESCRIPTION
+  "Library for generating human-readable HTML and CSS forms."
+  :AUTHOR
+  "Mark Fedurin <hitecnologys@gmail.com>"
+  :LICENCE
+  "GPL v3"
+  :VERSIONS
+  ((:VERSION "1.7.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hctsmsl/2013-08-13/hctsmsl-20130813-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GSLL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/gsll.cld"
+  :DESCRIPTION
+  "GNU Scientific Library for Lisp."
+  :AUTHOR
+  "Liam M. Healy"
+  :LICENCE
+  "GPL v3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gsll/2014-02-11/gsll-20140211-git.tgz"))) :DEPENDS-ON
+    (#:ANTIK #:CFFI-GROVEL #:TRIVIAL-GARBAGE #:ALEXANDRIA #:METABANG-BIND #:OSICAT))))

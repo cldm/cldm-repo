@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ANSI-TEXT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ansi-text.cld"
+  :DESCRIPTION
+  "ANSI control string characters, focused on color"
+  :AUTHOR
+  "Paul Nathan"
+  :MAINTAINER
+  "Paul Nathan"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-ansi-text/2013-03-12/cl-ansi-text-20130312-git.tgz")))
+    :DEPENDS-ON (#:CL-COLORS #:ALEXANDRIA))))

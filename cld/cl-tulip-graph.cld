@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TULIP-GRAPH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-tulip-graph.cld"
+  :DESCRIPTION
+  "A graph generator that produces files readable by Tulip graph visualizer"
+  :AUTHOR
+  "Eugene Zaikonnikov"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.4.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-tulip-graph/2013-06-15/cl-tulip-graph-20130615-git.tgz")))
+    :DEPENDS-ON NIL)))

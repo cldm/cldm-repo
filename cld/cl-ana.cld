@@ -1,0 +1,25 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ANA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ana.cld"
+  :DESCRIPTION
+  "cl-ana is a free (GPL) data analysis library in Common
+  Lisp providing tabular & binned data analysis along with nonlinear
+  least squares fitting & visualization."
+  :AUTHOR
+  "Gary Hollis"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-ana/2014-05-25/cl-ana-20140525-git.tgz")))
+    :DEPENDS-ON
+    (#:PATHNAME-UTILS #:PACKAGE-UTILS #:GENERIC-MATH #:MATH-FUNCTIONS
+     #:CALCULUS #:BINARY-TREE #:TENSOR #:ERROR-PROPOGATION #:QUANTITY #:TABLE
+     #:TABLE-UTILS #:HDF-TABLE #:NTUPLE-TABLE #:CSV-TABLE #:REUSABLE-TABLE
+     #:LINEAR-ALGEBRA #:LORENTZ #:HISTOGRAM #:FITTING #:FILE-UTILS #:STATISTICS
+     #:PLOTTING #:TABLE-VIEWING #:INT-CHAR #:CLOS-UTILS #:SERIALIZATION
+     #:HASH-TABLE-UTILS #:MAP))))

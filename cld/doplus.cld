@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DOPLUS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/doplus.cld"
+  :DESCRIPTION
+  "DO+ (doplus) is a high-level, extensible iteration construct for Common Lisp with a reasonably simple implementation, which in particular does not use a code walker."
+  :AUTHOR
+  "Alessio Stalla <alessiostalla@gmail.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/doplus/2013-06-15/doplus-20130615-hg.tgz"))) :DEPENDS-ON
+    (:PARSE-DECLARATIONS-1.0))))

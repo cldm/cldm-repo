@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOG5
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/log5.cld"
+  :DESCRIPTION
+  "Log5 is a Common Lisp logging library"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT License (see the fike COPYING for details)"
+  :VERSIONS
+  ((:VERSION "0.3.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/log5/2011-06-19/log5-20110619-git.tgz"))) :DEPENDS-ON NIL)))

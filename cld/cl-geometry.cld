@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GEOMETRY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-geometry.cld"
+  :DESCRIPTION
+  "Two dimensional geometry."
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.3" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-geometry/2012-09-09/cl-geometry-20120909-git.tgz")))
+    :DEPENDS-ON (:ITERATE :TREES))))

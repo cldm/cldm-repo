@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GLU-TESSELLATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/glu-tessellate.cld"
+  :AUTHOR
+  "Andrew Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/glu-tessellate/2013-01-28/glu-tessellate-20130128-git.tgz")))
+    :DEPENDS-ON (#:CFFI))))

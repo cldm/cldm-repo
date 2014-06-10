@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY METHOD-COMBINATION-UTILITIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/method-combination-utilities.cld"
+  :DESCRIPTION
+  "Various method combinations and utilities to make it easy to
+                create new method combinations."
+  :AUTHOR
+  "Greg Pfeil <greg@technomadic.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/method-combination-utilities/2012-04-07/method-combination-utilities-20120407-git.tgz"))) :DEPENDS-ON
+    (METHOD-COMBINATION-UTILITIES.SYSTEM::CLOSER-MOP))))

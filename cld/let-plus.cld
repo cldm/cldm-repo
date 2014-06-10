@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LET-PLUS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/let-plus.cld"
+  :DESCRIPTION
+  "Destructuring extension of LET*."
+  :AUTHOR
+  "Tamas K. Papp <tkpapp@gmail.com>."
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/let-plus/2013-12-11/let-plus-20131211-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA))))

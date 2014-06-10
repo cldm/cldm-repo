@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY WOOKIE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/wookie.cld"
+  :DESCRIPTION
+  "An evented webserver for Common Lisp."
+  :AUTHOR
+  "Andrew Danger Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.3.10" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/wookie/2014-05-25/wookie-20140525-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:CL-ASYNC-FUTURE #:CL-ASYNC #:CL-ASYNC-SSL #:CL-PPCRE #:BABEL #:CHUNGA #:HTTP-PARSE #:PURI #:LOCAL-TIME #:DO-URLENCODE #:CL-FAD
+     #:FLEXI-STREAMS #:LOG4CL))))

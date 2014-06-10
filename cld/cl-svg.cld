@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SVG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-svg.cld"
+  :DESCRIPTION
+  "Produce Scalable Vector Graphics (SVG) files"
+  :AUTHOR
+  "William S. Annis <wm.annis@gmail.com>"
+  :MAINTAINER
+  "William S. Annis <wm.annis@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-svg/2011-03-20/cl-svg-20110320-http.tgz"))) :DEPENDS-ON NIL)))

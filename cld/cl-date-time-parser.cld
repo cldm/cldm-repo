@@ -1,0 +1,20 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-DATE-TIME-PARSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-date-time-parser.cld"
+  :DESCRIPTION
+  "Parse date-time-string, and return (values universal-time fraction).
+Parsable date-time-format: ISO8601, W3CDTF, RFC3339, RFC822, RFC2822, RFC5322, asctime, RFC850, RFC1036."
+  :AUTHOR
+  "Takaya OCHIAI <tkych.repl@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "0.1.3" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-date-time-parser/2014-05-25/cl-date-time-parser-20140525-git.tgz")))
+    :DEPENDS-ON
+    (#:ALEXANDRIA #:SPLIT-SEQUENCE #:ANAPHORA #:CL-PPCRE #:LOCAL-TIME
+     #:PARSE-FLOAT))))

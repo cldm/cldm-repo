@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BACKPORTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/backports.cld"
+  :DESCRIPTION
+  "Clojure, the good parts, ported to Common Lisp."
+  :AUTHOR
+  "Eric Sessoms <eric@nubgames.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/backports/2013-06-15/backports-20130615-git.tgz")))
+    :DEPENDS-ON
+    (#:ALEXANDRIA #:BORDEAUX-THREADS #:CLOSER-MOP #:SB-CONCURRENCY
+     #:TRIVIAL-BACKTRACE))))

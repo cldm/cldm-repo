@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY F2CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/f2cl.cld"
+  :DESCRIPTION
+  "F2CL:  Fortran to Lisp converter"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/f2cl/2013-12-11/f2cl-20131211-hg.tgz"))) :DEPENDS-ON NIL)))

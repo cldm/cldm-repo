@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PLUMBING
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-plumbing.cld"
+  :DESCRIPTION
+  "A few (at least seemingly) missing stream operations in Common Lisp."
+  :AUTHOR
+  "Zachary Smith <zachkostsmith@gmail.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-plumbing/2012-07-03/cl-plumbing-20120703-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :TRIVIAL-GRAY-STREAMS :BORDEAUX-THREADS))))

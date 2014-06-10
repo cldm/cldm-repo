@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FARE-MEMOIZATION
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fare-memoization.cld"
+  :DESCRIPTION
+  "memoizing functions the correct, portable way"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fare-memoization/2014-05-25/fare-memoization-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

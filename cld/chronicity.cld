@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CHRONICITY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/chronicity.cld"
+  :AUTHOR
+  "Chaitanya Gupta"
+  :MAINTAINER
+  "Chaitanya Gupta"
+  :VERSIONS
+  ((:VERSION "0.2.7" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/chronicity/2013-06-15/chronicity-20130615-git.tgz")))
+    :DEPENDS-ON (:CL-PPCRE :CL-INTERPOL :LOCAL-TIME))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLX-CURSOR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clx-cursor.cld"
+  :DESCRIPTION
+  "Pure Common Lisp library for antialiased cursor rendering for clx."
+  :AUTHOR
+  "Michael Filonenko <filonenko.mikhail@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clx-cursor/2012-09-09/clx-cursor-20120909-git.tgz"))) :DEPENDS-ON
+    (#:CLX #:CL-FAD))))

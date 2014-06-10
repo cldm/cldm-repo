@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CRON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-cron.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-cron/2014-05-25/cl-cron-20140525-hg.tgz")))
+    :DEPENDS-ON (:BORDEAUX-THREADS))))

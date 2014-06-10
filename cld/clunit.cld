@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLUNIT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clunit.cld"
+  :DESCRIPTION
+  "CLUnit is a Common Lisp unit testing framework."
+  :AUTHOR
+  "Tapiwa Gutu <tgutu@ml.sun.ac.za>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.2.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clunit/2013-03-12/clunit-20130312-git.tgz"))) :DEPENDS-ON NIL)))

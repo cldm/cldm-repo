@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.STEFIL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.stefil.cld"
+  :DESCRIPTION
+  "A Simple Test Framework In Lisp."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.stefil/2014-05-25/hu.dwim.stefil-20140525-darcs.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MONERIS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-moneris.cld"
+  :DESCRIPTION
+  "An interface to the Moneris payment processing service (HTTP)."
+  :MAINTAINER
+  "Vladimir Sedach <vsedach@gmail.com>"
+  :LICENCE
+  "ISC"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-moneris/2011-04-18/cl-moneris-20110418-git.tgz"))) :DEPENDS-ON
+    (:S-XML :DRAKMA))))

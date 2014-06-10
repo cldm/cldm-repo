@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-DOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-dot.cld"
+  :DESCRIPTION
+  "Render Graphviz graphs from within Lisp"
+  :AUTHOR
+  "Martin Loetzsch"
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-dot/2010-10-06/s-dot-1.2.tgz"))) :DEPENDS-ON NIL)))

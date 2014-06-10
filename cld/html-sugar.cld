@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HTML-SUGAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/html-sugar.cld"
+  :DESCRIPTION
+  "HTML Helper Functions"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/html-sugar/2011-08-29/html-sugar-20110829-http.tgz"))) :DEPENDS-ON
+    (:ASERVE :WEBACTIONS :SCLF :UFFI))))

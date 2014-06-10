@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CARTESIAN-PRODUCT-SWITCH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cartesian-product-switch.cld"
+  :DESCRIPTION
+  "CARTESIAN-PRODUCT-SWITCH is a macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cartesian-product-switch/2012-09-09/cartesian-product-switch-2.0.tgz")))
+    :DEPENDS-ON ("map-bind"))))

@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ANNOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-annot.cld"
+  :DESCRIPTION
+  "Python-like Annotation Syntax for Common Lisp"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-annot/2014-01-13/cl-annot-20140113-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA))))

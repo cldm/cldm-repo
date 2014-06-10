@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.DEFCLASS-STAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.defclass-star.cld"
+  :DESCRIPTION
+  "Simplify class like definitions with defclass* and friends."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.defclass-star/2011-11-05/hu.dwim.defclass-star-20111105-darcs.tgz"))) :DEPENDS-ON NIL)))

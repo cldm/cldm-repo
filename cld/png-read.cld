@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PNG-READ
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/png-read.cld"
+  :DESCRIPTION
+  "A library for reading PNG files."
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "0.3.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/png-read/2013-01-28/png-read-20130128-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :CHIPZ :BABEL))))

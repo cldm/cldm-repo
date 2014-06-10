@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ARCHIVE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/archive.cld"
+  :DESCRIPTION
+  "A package for reading and writing archive (tar, cpio, etc.) files."
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/archive/2013-01-28/archive_0.9.tgz")))
+    :DEPENDS-ON
+    (ARCHIVE-SYSTEM::SB-POSIX ARCHIVE-SYSTEM::TRIVIAL-GRAY-STREAMS
+     ARCHIVE-SYSTEM::CL-FAD))))

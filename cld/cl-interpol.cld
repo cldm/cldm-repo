@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-INTERPOL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-interpol.cld"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-interpol/2010-10-06/cl-interpol-0.2.1.tgz"))) :DEPENDS-ON
+    (:CL-UNICODE))))

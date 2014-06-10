@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EXTERNAL-PROGRAM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/external-program.cld"
+  :AUTHOR
+  "Greg Pfeil <greg@technomadic.org>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.0.6" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/external-program/2013-10-03/external-program-20131003-git.tgz")))
+    :DEPENDS-ON NIL)))

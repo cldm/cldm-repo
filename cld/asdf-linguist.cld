@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASDF-LINGUIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asdf-linguist.cld"
+  :DESCRIPTION
+  ""
+  :AUTHOR
+  "Fernando Borretti <eudoxiahp@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asdf-linguist/2014-05-25/asdf-linguist-20140525-git.tgz")))
+    :DEPENDS-ON (:ASDF))))

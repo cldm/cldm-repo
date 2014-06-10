@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RRT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-rrt.cld"
+  :DESCRIPTION
+  "Common Lisp implementation of RRT (Rapidily exploring Random Tree), a fast probabilistic multidimentional path-plannning algorithm."
+  :AUTHOR
+  "Masataro Asai"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rrt/2013-12-11/cl-rrt-20131211-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :ALEXANDRIA :CL-SYNTAX-ANNOT :ANAPHORA))))

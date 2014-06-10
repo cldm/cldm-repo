@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RFC2047
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-rfc2047.cld"
+  :DESCRIPTION
+  "Implemntation of RFC2047."
+  :AUTHOR
+  "Christian Haselbach"
+  :MAINTAINER
+  "Max Rottenkolber <max@mr.gy>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rfc2047/2013-12-11/cl-rfc2047-20131211-git.tgz"))) :DEPENDS-ON
+    (:CL-BASE64 :BABEL))))

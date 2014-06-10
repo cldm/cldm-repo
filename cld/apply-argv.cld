@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY APPLY-ARGV
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/apply-argv.cld"
+  :DESCRIPTION
+  "Apply-argv is a library for parsing command line arguments."
+  :AUTHOR
+  "Peter von Etter"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/apply-argv/2013-03-12/apply-argv-20130312-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA))))

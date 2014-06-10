@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SASL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-sasl.cld"
+  :DESCRIPTION
+  "SASL library"
+  :AUTHOR
+  "Magnus Henoch <magnus.henoch@gmail.com>"
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "0.3.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-sasl/2011-05-22/cl-sasl_0.3.1.tgz"))) :DEPENDS-ON (:IRONCLAD))))

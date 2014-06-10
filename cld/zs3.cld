@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ZS3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/zs3.cld"
+  :DESCRIPTION
+  "A Common Lisp library for working with Amazon's Simple
+  Storage Service (S3) and CloudFront content delivery service."
+  :AUTHOR
+  "Zach Beane <xach@xach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "1.2.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/zs3/2014-01-13/zs3-1.2.4.tgz"))) :DEPENDS-ON
+    (#:DRAKMA #:CXML #:IRONCLAD #:PURI #:CL-BASE64))))

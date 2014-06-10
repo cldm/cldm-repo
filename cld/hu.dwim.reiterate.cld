@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.REITERATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.reiterate.cld"
+  :DESCRIPTION
+  "Iterator macro inspired by iterate."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.reiterate/2013-03-12/hu.dwim.reiterate-20130312-darcs.tgz")))
+    :DEPENDS-ON
+    (:ALEXANDRIA :ANAPHORA :HU.DWIM.COMMON-LISP :HU.DWIM.DEF :HU.DWIM.DEFCLASS-STAR :HU.DWIM.SYNTAX-SUGAR+HU.DWIM.WALKER :HU.DWIM.UTIL :METABANG-BIND))))

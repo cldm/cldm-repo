@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GENE-SEARCHER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gene-searcher.cld"
+  :DESCRIPTION
+  "A simple interface to a SQLite database for querying information for genes, and DGV Tracks."
+  :AUTHOR
+  "David Thole"
+  :MAINTAINER
+  "David Thole"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-gene-searcher/2011-10-01/cl-gene-searcher-20111001-git.tgz")))
+    :DEPENDS-ON (:CLSQL-SQLITE3))))

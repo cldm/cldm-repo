@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COLLECTORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/collectors.cld"
+  :DESCRIPTION
+  "A library providing various collector type macros
+   pulled from arnesi into its own library and stripped of dependencies"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/collectors/2014-05-25/collectors-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CLOSER-MOP))))

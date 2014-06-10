@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TOWERS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/towers.cld"
+  :DESCRIPTION
+  "Silly geodefense clone wannabe"
+  :AUTHOR
+  "death <github.com/death>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/towers/2013-07-20/towers-20130720-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:CL-OPENGL #:CL-GLU #:CL-GLUT))))

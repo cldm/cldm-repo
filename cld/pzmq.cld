@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PZMQ
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pzmq.cld"
+  :DESCRIPTION
+  "ZeroMQ 3.2+ bindings."
+  :AUTHOR
+  "Orivej Desh <orivej@gmx.fr>"
+  :LICENCE
+  "Unlicense"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pzmq/2014-02-11/pzmq-20140211-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI))))

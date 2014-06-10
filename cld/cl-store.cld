@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-STORE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-store.cld"
+  :DESCRIPTION
+  "Serialization package"
+  :AUTHOR
+  "Sean Ross <sross@common-lisp.net>"
+  :MAINTAINER
+  "Sean Ross <sross@common-lisp.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.8.11" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-store/2013-04-20/cl-store-20130420-git.tgz"))) :DEPENDS-ON NIL)))

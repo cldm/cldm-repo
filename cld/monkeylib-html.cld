@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MONKEYLIB-HTML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/monkeylib-html.cld"
+  :DESCRIPTION
+  "HTML generation"
+  :AUTHOR
+  "Peter Seibel <peter@gigamonkeys.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/monkeylib-html/2012-01-07/monkeylib-html-20120107-git.tgz")))
+    :DEPENDS-ON
+    (:COM.GIGAMONKEYS.MACRO-UTILITIES :COM.GIGAMONKEYS.TEST-FRAMEWORK :COM.GIGAMONKEYS.PATHNAMES :COM.GIGAMONKEYS.UTILITIES :MONKEYLIB-TEXT-OUTPUT
+     :MONKEYLIB-TEXT-LANGUAGES))))

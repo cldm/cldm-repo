@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ZCDB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/zcdb.cld"
+  :DESCRIPTION
+  "Read and write cdb files, as specified in
+  http://cr.yp.to/cdb.html"
+  :AUTHOR
+  "Zach Beane <xach@xach.com>"
+  :VERSIONS
+  ((:VERSION "1.0.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/zcdb/2012-01-07/zcdb-1.0.3.tgz"))) :DEPENDS-ON NIL)))

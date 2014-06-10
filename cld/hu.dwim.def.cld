@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.DEF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.def.cld"
+  :DESCRIPTION
+  "General purpose, homogenous, extensible definer macro."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.def/2014-05-25/hu.dwim.def-20140525-darcs.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :ANAPHORA :ITERATE :METABANG-BIND))))

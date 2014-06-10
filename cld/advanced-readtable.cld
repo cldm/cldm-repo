@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ADVANCED-READTABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/advanced-readtable.cld"
+  :DESCRIPTION
+  "Advanced customizable readtable"
+  :AUTHOR
+  "Roman Klochkov <kalimehtar@mail.ru>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "1.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/advanced-readtable/2013-07-20/advanced-readtable-20130720-git.tgz")))
+    :DEPENDS-ON (#:NAMED-READTABLES))))

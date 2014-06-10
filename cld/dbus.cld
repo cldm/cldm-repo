@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DBUS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/dbus.cld"
+  :DESCRIPTION
+  "A D-BUS client library for Common Lisp"
+  :AUTHOR
+  "death <github.com/death>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/dbus/2014-05-25/dbus-20140525-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:BABEL #:CL-XMLSPAM #:FLEXI-STREAMS #:IOLIB #:IRONCLAD #:SPLIT-SEQUENCE))))

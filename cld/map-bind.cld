@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MAP-BIND
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/map-bind.cld"
+  :DESCRIPTION
+  "MAP-BIND is a macro that allows visual grouping of variables with their corresponding values (not necessarily 1:1) in calls to mapping operators when using an inline LAMBDA. It does so in a way that automatically supports virtually every existing and future mapping operator, all lambda keywords and FUNCALL/APPLY/MULTIPLE-VALUE-CALL variations."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/map-bind/2012-08-11/map-bind-20120811-git.tgz"))) :DEPENDS-ON NIL)))

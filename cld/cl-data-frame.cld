@@ -1,0 +1,21 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-DATA-FRAME
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-data-frame.cld"
+  :DESCRIPTION
+  "Data frames for Common Lisp."
+  :AUTHOR
+  "Tamas Papp <tkpapp@gmail.com>"
+  :MAINTAINER
+  "Tamas Papp <tkpapp@gmail.com>"
+  :LICENCE
+  "BOOST"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-data-frame/2014-05-25/cl-data-frame-20140525-git.tgz")))
+    :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:ARRAY-OPERATIONS #:CL-NUM-UTILS #:CL-SLICE
+     #:LET-PLUS))))

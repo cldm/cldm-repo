@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY WEBLOCKS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/weblocks.cld"
+  :DESCRIPTION
+  "A Common Lisp web framework."
+  :AUTHOR
+  "Slava Akhmechet"
+  :MAINTAINER
+  "Olexiy Zamkoviy, Scott L. Burson"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.10.12" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/weblocks/2014-05-25/weblocks-20140525-git.tgz"))) :DEPENDS-ON
+    (:WEBLOCKS-UTIL :WEBLOCKS-STORES :CLOSER-MOP :HUNCHENTOOT :PURI :CL-JSON :CL-WHO :PARENSCRIPT :CL-FAD :OPTIMA :CL-CONT :METATILITIES :CL-PPCRE :ANAPHORA
+     :F-UNDERSCORE :BORDEAUX-THREADS :SALZA2 :HTML-TEMPLATE :TRIVIAL-TIMEOUT :TRIVIAL-BACKTRACE :PARSE-NUMBER :PRETTY-FUNCTION :BABEL :SPLIT-SEQUENCE))))

@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HH-WEB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hh-web.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hh-web/2014-05-25/hh-web-20140525-git.tgz"))) :DEPENDS-ON
+    (:TRIVIAL-BACKTRACE :LOG5 :BORDEAUX-THREADS (:HUNCHENTOOT :VERSION "1.2") :DRAKMA :CL-FAD :PARENSCRIPT :CL-PPCRE :LOCAL-TIME :VECTO :CL-BASE64 :IRONCLAD
+     :UUID))))

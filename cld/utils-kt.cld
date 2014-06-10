@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY UTILS-KT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/utils-kt.cld"
+  :DESCRIPTION
+  "Kenny's Utilities"
+  :AUTHOR
+  "Kenny Tilton <ktilton@nyc.rr.com>"
+  :MAINTAINER
+  "Kenny Tilton <ktilton@nyc.rr.com>"
+  :LICENCE
+  "MIT Style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/utils-kt/2010-10-06/utils-kt-20101006-git.tgz"))) :DEPENDS-ON NIL)))

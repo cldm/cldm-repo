@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TUPLES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-tuples.cld"
+  :DESCRIPTION
+  "Experimental Tuple Types Facade"
+  :AUTHOR
+  "John Connors"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-tuples/2014-05-25/cl-tuples-20140525-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :ALEXANDRIA))))

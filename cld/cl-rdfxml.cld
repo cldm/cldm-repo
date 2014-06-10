@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RDFXML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-rdfxml.cld"
+  :DESCRIPTION
+  "The CL-RDFXML system provides functionality for processing RDF/XML
+serializations of RDF graphs. RDF/XML processes XML using Closure XML
+(CXML), and handles URIs using PURI."
+  :AUTHOR
+  "Joshua Taylor"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rdfxml/2013-01-28/cl-rdfxml-20130128-git.tgz"))) :DEPENDS-ON
+    (#:CXML #:PURI))))

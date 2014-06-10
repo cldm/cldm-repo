@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PSGRAPH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/psgraph.cld"
+  :DESCRIPTION
+  "PostScript DAG Grapher."
+  :AUTHOR
+  "Joseph Bates, Carnegie Mellon University"
+  :MAINTAINER
+  ""
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/psgraph/2010-10-06/psgraph-1.2.tgz"))) :DEPENDS-ON NIL)))

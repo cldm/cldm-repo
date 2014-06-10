@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOL-RE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lol-re.cld"
+  :DESCRIPTION
+  "Small set of wrappers around CL-PPCRE in spirit of Let Over Lambda."
+  :AUTHOR
+  "Alexander Popolitov <popolit@gmail.com>"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lol-re/2014-05-25/lol-re-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:CL-INTERPOL #:CL-READ-MACRO-TOKENS #:DEFMACRO-ENHANCE #:ALEXANDRIA #:ITERATE #:HU.DWIM.WALKER))))

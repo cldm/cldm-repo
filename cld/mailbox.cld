@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MAILBOX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mailbox.cld"
+  :DESCRIPTION
+  "Simple multithreading mailboxes."
+  :AUTHOR
+  "Lucien Pullen <drurowin@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mailbox/2013-10-03/mailbox-20131003-git.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS))))

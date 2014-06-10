@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XHTMLAMBDA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xhtmlambda.cld"
+  :DESCRIPTION
+  "THe XHTMLambda System.
+
+Another HTML/XHTML/XML generation (and parsing) system in Common Lisp."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xhtmlambda/2014-01-13/xhtmlambda-20140113-git.tgz"))) :DEPENDS-ON
+    ("cl-unicode"))))

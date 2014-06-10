@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TEST-MORE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-test-more.cld"
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-test-more/2014-02-11/cl-test-more-20140211-git.tgz"))) :DEPENDS-ON
+    ("cl-ppcre"))))

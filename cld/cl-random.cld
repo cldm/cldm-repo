@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RANDOM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-random.cld"
+  :DESCRIPTION
+  "Random numbers and distributions."
+  :AUTHOR
+  "Tamas K Papp"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-random/2013-04-20/cl-random-20130420-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:ARRAY-OPERATIONS #:CL-NUM-UTILS #:CL-RMATH #:CL-SLICE #:LET-PLUS #:LLA))))

@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-EMACS-IF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-emacs-if.cld"
+  :DESCRIPTION
+  "Provides Emacs-like IF and WHILE operators"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-emacs-if/2012-03-05/cl-emacs-if-20120305-git.tgz")))
+    :DEPENDS-ON NIL)))

@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SINGLE-THREADED-CCL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/single-threaded-ccl.cld"
+  :LICENCE
+  "LLGPL 2.1"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/single-threaded-ccl/2014-05-25/single-threaded-ccl-20140525-git.tgz"))) :DEPENDS-ON NIL)))

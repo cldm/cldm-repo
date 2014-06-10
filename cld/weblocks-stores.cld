@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY WEBLOCKS-STORES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/weblocks-stores.cld"
+  :DESCRIPTION
+  "A base for weblocks stores"
+  :AUTHOR
+  "Olexiy Zamkoviy"
+  :MAINTAINER
+  "Olexiy Zamkoviy, Scott L. Burson"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.3.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/weblocks-stores/2014-05-25/weblocks-stores-20140525-git.tgz")))
+    :DEPENDS-ON (:CLOSER-MOP :METATILITIES :WEBLOCKS-UTIL))))

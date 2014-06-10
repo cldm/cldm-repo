@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ACCESS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/access.cld"
+  :DESCRIPTION
+  "A library providing functions that unify data-structure access for Common Lisp:
+      access and (setf access)"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/access/2014-05-25/access-20140525-git.tgz")))
+    :DEPENDS-ON (:ITERATE :CLOSER-MOP :ALEXANDRIA :ANAPHORA :CL-INTERPOL))))

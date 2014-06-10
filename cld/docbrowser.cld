@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DOCBROWSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/docbrowser.cld"
+  :DESCRIPTION
+  "Web-based Common Lisp documentation browser"
+  :AUTHOR
+  "Elias Martenson <lokedhs@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/docbrowser/2013-12-11/docbrowser-20131211-git.tgz"))) :DEPENDS-ON
+    (:HUNCHENTOOT :BORDEAUX-THREADS :YACC :PARSE-NUMBER :BABEL :CLOSER-MOP :SWANK :CL-JSON :FLEXI-STREAMS :COLORIZE :SPLIT-SEQUENCE :STRING-CASE))))

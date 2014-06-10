@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COM.CLEARLY-USEFUL.ITERATOR-PROTOCOL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.iterator-protocol.cld"
+  :DESCRIPTION
+  "A simple iterator protocol for Common Lisp."
+  :AUTHOR
+  "Jason Aeschliman <j.aeschliman@gmail.com>"
+  :LICENCE
+  "revised BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL "http://beta.quicklisp.org/archive/com.clearly-useful.iterator-protocol/2013-03-12/com.clearly-useful.iterator-protocol-20130312-git.tgz")))
+    :DEPENDS-ON (#:COM.CLEARLY-USEFUL.PROTOCOLS #:COM.CLEARLY-USEFUL.GENERIC-COLLECTION-INTERFACE))))

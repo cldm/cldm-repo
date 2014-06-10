@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PREVALENCE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-prevalence.cld"
+  :DESCRIPTION
+  "Common Lisp Prevalence Package"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>, Leslie P. Polzer <polzer@gnu.org>"
+  :LICENCE
+  "Lesser Lisp General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-prevalence/2013-07-20/cl-prevalence-20130720-hg.tgz")))
+    :DEPENDS-ON (:S-XML :S-SYSDEPS :CLOSER-MOP))))

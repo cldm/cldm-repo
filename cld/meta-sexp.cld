@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY META-SEXP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/meta-sexp.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/meta-sexp/2010-10-06/meta-sexp-0.1.6.tgz"))) :DEPENDS-ON NIL)))

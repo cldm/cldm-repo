@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BT-SEMAPHORE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/bt-semaphore.cld"
+  :DESCRIPTION
+  "A simple semaphore class for bordeaux-threads inspired by SBCL's semaphore."
+  :AUTHOR
+  "Ralph Möritz"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.6.2" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/bt-semaphore/2013-10-03/bt-semaphore-20131003-git.tgz")))
+    :DEPENDS-ON (:BORDEAUX-THREADS))))

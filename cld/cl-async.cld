@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ASYNC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-async.cld"
+  :DESCRIPTION
+  "Asynchronous operations for Common Lisp."
+  :AUTHOR
+  "Andrew Danger Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.4.3" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-async/2014-05-25/cl-async-20140525-git.tgz")))
+    :DEPENDS-ON
+    (#:CFFI #:TRIVIAL-FEATURES #:CL-LIBEVENT2 #:CL-ASYNC-BASE #:CL-ASYNC-UTIL
+     #:CL-ASYNC-FUTURE #:BABEL #:CL-PPCRE #:TRIVIAL-GRAY-STREAMS #:PURI))))

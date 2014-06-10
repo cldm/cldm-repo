@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TOADSTOOL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/toadstool.cld"
+  :DESCRIPTION
+  "Pattern matcher"
+  :AUTHOR
+  "Stanislaw Halik"
+  :LICENCE
+  "MIT/X11"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/toadstool/2013-06-15/toadstool-20130615-git.tgz"))) :DEPENDS-ON
+    (#:CLOSER-MOP #:SB-CLTL2))))

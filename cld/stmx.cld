@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STMX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stmx.cld"
+  :DESCRIPTION
+  "Composable Software Transactional Memory"
+  :AUTHOR
+  "Massimiliano Ghilardi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "1.3.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stmx/2013-11-11/stmx-stable-ef96af7a-git.tgz"))) :DEPENDS-ON
+    (:LOG4CL :CLOSER-MOP :BORDEAUX-THREADS :TRIVIAL-GARBAGE))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY IE3FP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ie3fp.cld"
+  :DESCRIPTION
+  "IEEE 754 en/de-coder"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ie3fp/2010-10-06/ie3fp-20101006-http.tgz"))) :DEPENDS-ON NIL)))

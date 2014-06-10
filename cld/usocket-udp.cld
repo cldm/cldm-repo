@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY USOCKET-UDP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/usocket-udp.cld"
+  :DESCRIPTION
+  "UDP support for the USOCKET project"
+  :AUTHOR
+  "Chun Tian (binghe) <binghe.lisp@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/usocket-udp/2010-10-06/usocket-udp-2.6.tgz"))) :DEPENDS-ON
+    (:USOCKET))))

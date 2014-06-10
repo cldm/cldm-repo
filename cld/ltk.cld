@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LTK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ltk.cld"
+  :DESCRIPTION
+  "LTK"
+  :AUTHOR
+  "Peter Herth"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "0.8.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ltk/2012-08-11/ltk-0.98.tgz"))) :DEPENDS-ON NIL)))

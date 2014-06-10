@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY METATILITIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/metatilities.cld"
+  :DESCRIPTION
+  "These are the rest of metabang.com's Common Lisp utilities"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style license"
+  :VERSIONS
+  ((:VERSION "0.6.18" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/metatilities/2014-02-11/metatilities-20140211-darcs.tgz")))
+    :DEPENDS-ON ((:METATILITIES-BASE :VERSION "0.6.0") :MOPTILITIES :CL-CONTAINERS :METABANG-BIND :ASDF-SYSTEM-CONNECTIONS))))

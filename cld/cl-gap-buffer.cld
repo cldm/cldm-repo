@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GAP-BUFFER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gap-buffer.cld"
+  :DESCRIPTION
+  "Gap buffers in Common Lisp."
+  :AUTHOR
+  "Robert Smith"
+  :MAINTAINER
+  "Robert Smith"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-gap-buffer/2012-03-05/cl-gap-buffer-20120305-hg.tgz")))
+    :DEPENDS-ON NIL)))

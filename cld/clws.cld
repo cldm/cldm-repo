@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLWS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clws.cld"
+  :DESCRIPTION
+  "CLWS implement the WebSocket Protocol as described by
+RFC6455[1] (as well as some older drafts implemented by recent
+browsers [2][3][4][5]).  Only a WebSockets server implementation is
+provided.
+
+[1]http://tools.ietf.org/html/rfc6455
+[2] http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-17
+[3] http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-08
+[4] http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-07
+[5] http://tools.ietf.org/html/draft-ietf-hybi-thewebsocketprotocol-00"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clws/2013-08-13/clws-20130813-git.tgz"))) :DEPENDS-ON
+    ("sb-concurrency" "iolib" "ironclad" "chunga" "cl-base64" "flexi-streams" "split-sequence"))))

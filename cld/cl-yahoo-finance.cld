@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-YAHOO-FINANCE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-yahoo-finance.cld"
+  :DESCRIPTION
+  "CL interface to Yahoo's finance API"
+  :AUTHOR
+  "Paul Nathan"
+  :MAINTAINER
+  "Paul Nathan"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-yahoo-finance/2013-03-12/cl-yahoo-finance-20130312-git.tgz")))
+    :DEPENDS-ON (#:DRAKMA #:BABEL #:CL-CSV #:YASON #:URL-REWRITE))))

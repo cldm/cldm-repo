@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STRINGPREP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stringprep.cld"
+  :DESCRIPTION
+  "Provides implementations of RFC-3454 and XEP-0106."
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stringprep/2013-07-20/stringprep-20130720-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:CL-PPCRE))))

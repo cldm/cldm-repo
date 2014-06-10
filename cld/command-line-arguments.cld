@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COMMAND-LINE-ARGUMENTS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/command-line-arguments.cld"
+  :DESCRIPTION
+  "small library to deal with command-line arguments"
+  :AUTHOR
+  ("Francois-Rene Rideau")
+  :MAINTAINER
+  "Francois-Rene Rideau"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/command-line-arguments/2014-01-13/command-line-arguments-20140113-git.tgz"))) :DEPENDS-ON NIL)))

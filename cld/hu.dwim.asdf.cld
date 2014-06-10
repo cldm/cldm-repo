@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.ASDF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.asdf.cld"
+  :DESCRIPTION
+  "Various ASDF extensions such as attached test and documentation system, explicit development support, etc."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.asdf/2014-02-11/hu.dwim.asdf-20140211-darcs.tgz")))
+    :DEPENDS-ON (:ASDF))))

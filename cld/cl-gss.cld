@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GSS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gss.cld"
+  :DESCRIPTION
+  "Common Lisp interface to GSSAPI"
+  :AUTHOR
+  "Elias Martenson <lokedhs@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-gss/2013-12-11/cl-gss-20131211-git.tgz"))) :DEPENDS-ON
+    (:CFFI :CFFI-GROVEL :TRIVIAL-GARBAGE :TRIVIAL-UTF-8))))

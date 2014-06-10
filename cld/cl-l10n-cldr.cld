@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-L10N-CLDR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-l10n-cldr.cld"
+  :DESCRIPTION
+  "The necessary CLDR files for cl-l10n packaged in a QuickLisp friendly way."
+  :VERSIONS
+  ((:VERSION "1.8.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-l10n-cldr/2012-09-09/cl-l10n-cldr-20120909-darcs.tgz")))
+    :DEPENDS-ON NIL)))

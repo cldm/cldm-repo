@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY KMRCL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/kmrcl.cld"
+  :AUTHOR
+  "Kevin M. Rosenberg <kevin@rosenberg.net>"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/kmrcl/2013-04-20/kmrcl-20130420-git.tgz"))) :DEPENDS-ON
+    (KMRCL-SYSTEM::SB-POSIX))))

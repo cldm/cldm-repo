@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MORE-CONDITIONS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/more-conditions.cld"
+  :DESCRIPTION
+  "This system provides some generic condition classes in
+                conjunction with support functions and macros."
+  :AUTHOR
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :MAINTAINER
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :LICENCE
+  "LLGPLv3; see COPYING file for details."
+  :VERSIONS
+  ((:VERSION "0.4.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/more-conditions/2014-05-25/more-conditions-20140525-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA (:CLOSER-MOP :VERSION "1.0.0")))))

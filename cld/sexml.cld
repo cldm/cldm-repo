@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SEXML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sexml.cld"
+  :DESCRIPTION
+  "s-expressions for xml is a library which provides a sugar-sweet s-expression syntax for spitting out xml documents based on a DTD"
+  :AUTHOR
+  "Aad Versteden <madnificent@gmail.com>"
+  :MAINTAINER
+  "Aad Versteden <madnificent@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sexml/2013-12-11/sexml-20131211-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CL-PPCRE ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::CXML ASDF/INTERFACE::CONTEXTL ASDF/INTERFACE::MACROEXPAND-DAMMIT))))

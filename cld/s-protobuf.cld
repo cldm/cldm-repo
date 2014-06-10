@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-PROTOBUF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-protobuf.cld"
+  :DESCRIPTION
+  "Protocol Buffer compiler and runtime"
+  :VERSIONS
+  ((:VERSION "0.0.20090927" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-protobuf/2011-07-30/s-protobuf-20110730-git.tgz")))
+    :DEPENDS-ON (:CFFI))))

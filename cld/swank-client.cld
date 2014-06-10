@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SWANK-CLIENT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/swank-client.cld"
+  :DESCRIPTION
+  "Client side of the Swank protocol."
+  :AUTHOR
+  "Robert Brown"
+  :LICENCE
+  "GPL version 2.  See the copyright messages in individual files."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/swank-client/2014-05-25/swank-client-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::BORDEAUX-THREADS ASDF/INTERFACE::COM.GOOGLE.BASE ASDF/INTERFACE::SWANK ASDF/INTERFACE::USOCKET))))

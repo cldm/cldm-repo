@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLAWK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clawk.cld"
+  :DESCRIPTION
+  "Common Lisp AWK"
+  :AUTHOR
+  "Michael Parker <mparker762@hotmail.com>"
+  :MAINTAINER
+  "Zach Beane <xach@xach.com>"
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clawk/2011-11-05/clawk-20111105-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::REGEX))))

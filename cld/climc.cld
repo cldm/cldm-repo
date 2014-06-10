@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLIMC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/climc.cld"
+  :DESCRIPTION
+  "A common lisp Instant Messaging client."
+  :AUTHOR
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :MAINTAINER
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/climc/2014-05-25/climc-20140525-git.tgz"))) :DEPENDS-ON
+    (:MCCLIM :CL-XMPP-TLS :CL-PPCRE))))

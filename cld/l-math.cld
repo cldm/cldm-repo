@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY L-MATH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/l-math.cld"
+  :DESCRIPTION
+  "A simple math library focused on linear algebra."
+  :AUTHOR
+  "Rudolph Neeser <rudy.neeser@gmail.com>"
+  :LICENCE
+  "GPLv3 with Classpath Exception"
+  :VERSIONS
+  ((:VERSION "0.4.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/l-math/2013-11-11/l-math-20131111-git.tgz"))) :DEPENDS-ON NIL)))

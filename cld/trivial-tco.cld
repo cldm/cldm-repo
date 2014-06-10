@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-TCO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-tco.cld"
+  :DESCRIPTION
+  "A library to assist in ensuring certain code is executed with tail call optimizations enabled."
+  :AUTHOR
+  "Ralph Möritz"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-tco/2013-10-03/trivial-tco-20131003-git.tgz"))) :DEPENDS-ON
+    NIL)))

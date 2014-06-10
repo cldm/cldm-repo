@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-tk.cld"
+  :DESCRIPTION
+  "Minimal bridge to Tcl/Tk"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-tk/2012-04-07/cl-tk-20120407-git.tgz"))) :DEPENDS-ON (:CFFI))))

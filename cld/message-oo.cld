@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MESSAGE-OO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/message-oo.cld"
+  :DESCRIPTION
+  "Message-passing Smalltalk-style object system"
+  :AUTHOR
+  "Roman Klochkov <kalimehtar@mail.ru>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.9.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/message-oo/2013-06-15/message-oo-20130615-git.tgz"))) :DEPENDS-ON
+    NIL)))

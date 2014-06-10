@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ESCALATOR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/escalator.cld"
+  :AUTHOR
+  "Elliott Slaughter <elliottslaughter@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/escalator/2012-05-20/escalator-20120520-hg.tgz"))) :DEPENDS-ON
+    (:ITERATE))))

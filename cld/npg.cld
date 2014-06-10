@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NPG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/npg.cld"
+  :DESCRIPTION
+  "NPG a Naive Parser Generator"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "Lesser General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/npg/2011-03-20/npg-20110320-http.tgz"))) :DEPENDS-ON NIL)))

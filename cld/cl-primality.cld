@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PRIMALITY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-primality.cld"
+  :AUTHOR
+  "Zach Kost-Smith <zachkostsmith@gmail.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-primality/2012-09-09/cl-primality-20120909-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ITERATE))))

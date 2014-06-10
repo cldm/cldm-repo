@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INFIX-DOLLAR-READER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/infix-dollar-reader.cld"
+  :DESCRIPTION
+  "Infix $ operator for reducing redundant parenthesis"
+  :AUTHOR
+  "SUZUKI Shingo"
+  :MAINTAINER
+  "SUZUKI Shingo"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.3.0" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/infix-dollar-reader/2012-10-13/infix-dollar-reader-20121013-git.tgz"))) :DEPENDS-ON (:CL-SYNTAX))))

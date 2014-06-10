@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MONAD-MACROS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-monad-macros.cld"
+  :DESCRIPTION
+  "Monad Macros for Common Lisp."
+  :AUTHOR
+  "David Sorokin <david.sorokin@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-monad-macros/2011-06-19/cl-monad-macros-20110619-svn.tgz")))
+    :DEPENDS-ON NIL)))

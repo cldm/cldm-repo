@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISP-INTERFACE-LIBRARY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisp-interface-library.cld"
+  :DESCRIPTION
+  "Long name alias for lil"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisp-interface-library/2014-05-25/lisp-interface-library-20140525-git.tgz"))) :DEPENDS-ON NIL)))

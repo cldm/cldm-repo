@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TEXT-QUERY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/text-query.cld"
+  :DESCRIPTION
+  "A general text-based system for querying the user."
+  :AUTHOR
+  "Mark Kantrowitz"
+  :MAINTAINER
+  "Peter Scott <sketerpot@gmail.com>"
+  :LICENCE
+  "Free use, modification, and distribution. Copyright 1993 by Mark Kantrowitz."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/text-query/2011-11-05/text-query-1.1.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STP-QUERY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stp-query.cld"
+  :DESCRIPTION
+  "A jQuery-like API for manipulating and traversing STP documents."
+  :AUTHOR
+  "Eric Sessoms <eric@nubgames.com>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stp-query/2013-06-15/stp-query-20130615-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:ANAPHORA #:ARNESI #:CL-INTERPOL #:CL-PPCRE #:CXML-STP #:ITERATE #:SPLIT-SEQUENCE #:SYMBOL-MUNGER #:YACC))))

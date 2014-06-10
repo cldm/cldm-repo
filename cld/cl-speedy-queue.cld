@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SPEEDY-QUEUE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-speedy-queue.cld"
+  :DESCRIPTION
+  "cl-speedy-queue is a portable, non-consing, optimized queue implementation."
+  :AUTHOR
+  "Adlai Chandrasekhar <munchking@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-speedy-queue/2011-10-01/cl-speedy-queue-20111001-git.tgz")))
+    :DEPENDS-ON NIL)))

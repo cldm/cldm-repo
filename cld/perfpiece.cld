@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PERFPIECE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/perfpiece.cld"
+  :DESCRIPTION
+  "CL:TIME on steroids."
+  :AUTHOR
+  "Luis Oliveira <loliveira@common-lisp.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/perfpiece/2012-02-08/perfpiece-20120208-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::CFFI))))

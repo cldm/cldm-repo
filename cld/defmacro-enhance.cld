@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFMACRO-ENHANCE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defmacro-enhance.cld"
+  :DESCRIPTION
+  "Deformation of defmacro to defmacro!, macrolet to macrolet! etc. in spirit of let-over-lambda."
+  :AUTHOR
+  "Alexander Popolitov <popolit@itep.ru>"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defmacro-enhance/2014-05-25/defmacro-enhance-20140525-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA :ITERATE :CL-SPLICING-MACRO))))

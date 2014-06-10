@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PRIORITY-QUEUE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/priority-queue.cld"
+  :DESCRIPTION
+  "A priority queue for Common Lisp."
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/priority-queue/2012-02-08/priority-queue-20120208-git.tgz")))
+    :DEPENDS-ON NIL)))

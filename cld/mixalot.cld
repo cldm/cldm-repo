@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MIXALOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mixalot.cld"
+  :DESCRIPTION
+  "Mixalot mixer for ALSA/libao"
+  :AUTHOR
+  "Andy Hefner <ahefner@gmail.com>"
+  :LICENCE
+  "MIT-style license"
+  :VERSIONS
+  ((:VERSION "0.0.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mixalot/2013-11-11/mixalot-20131111-git.tgz"))) :DEPENDS-ON
+    (:CFFI :BORDEAUX-THREADS :ALEXANDRIA))))

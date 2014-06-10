@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CONSPACK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-conspack.cld"
+  :DESCRIPTION
+  "CONSPACK implementation for Common Lisp"
+  :AUTHOR
+  "Ryan Pavlik"
+  :LICENCE
+  "NewBSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-conspack/2014-05-25/cl-conspack-20140525-git.tgz")))
+    :DEPENDS-ON
+    (:CLOSER-MOP :ALEXANDRIA :IEEE-FLOATS :TRIVIAL-UTF-8 :FAST-IO
+     :TRIVIAL-GARBAGE))))

@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TELNETLIB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/telnetlib.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/telnetlib/2012-09-09/telnetlib-20120909-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE))))

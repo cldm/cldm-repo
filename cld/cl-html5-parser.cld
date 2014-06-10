@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-HTML5-PARSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-html5-parser.cld"
+  :DESCRIPTION
+  "A HTML5 parser for Common Lisp"
+  :AUTHOR
+  "Thomas Bakketun <thomas.bakketun@copyleft.no>"
+  :LICENCE
+  "GNU Lesser General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-html5-parser/2014-05-25/cl-html5-parser-20140525-git.tgz")))
+    :DEPENDS-ON (:CL-PPCRE :FLEXI-STREAMS :STRING-CASE))))

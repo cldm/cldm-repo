@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SDL2KIT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sdl2kit.cld"
+  :DESCRIPTION
+  "A utility kit for SDL2"
+  :AUTHOR
+  "Chip Collier <photex@lofidelitygames.com>, Ryan Pavlik <rpavlik@gmail.com>, Peter Keller <psilord@cs.wisc.edu>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sdl2kit/2014-05-25/sdl2kit-20140525-git.tgz"))) :DEPENDS-ON
+    (:SDL2 :TRIVIAL-BACKTRACE))))

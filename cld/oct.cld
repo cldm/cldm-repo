@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY OCT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/oct.cld"
+  :DESCRIPTION
+  "A portable implementation of quad-double arithmetic.  See <http://www.common-lisp.net/project/oct>."
+  :AUTHOR
+  "Raymond Toy"
+  :MAINTAINER
+  "See <http://www.common-lisp.net/project/oct>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/oct/2011-02-19/oct-20110219-cvs.tgz"))) :DEPENDS-ON NIL)))

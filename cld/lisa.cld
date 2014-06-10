@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisa.cld"
+  :DESCRIPTION
+  "The Lisa expert system shell"
+  :AUTHOR
+  "David E. Young"
+  :MAINTAINER
+  "David E. Young"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisa/2012-04-07/lisa-20120407-git.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-STRING-COMPLETE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-string-complete.cld"
+  :DESCRIPTION
+  "Simple string completion in Common Lisp."
+  :AUTHOR
+  "Robert Smith"
+  :MAINTAINER
+  "Robert Smith"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-string-complete/2012-01-07/cl-string-complete-20120107-hg.tgz")))
+    :DEPENDS-ON NIL)))

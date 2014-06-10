@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GROWL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-growl.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-growl/2013-03-12/cl-growl-20130312-git.tgz"))) :DEPENDS-ON
+    (#:TRIVIAL-UTF-8 #:USOCKET-UDP #:FLEXI-STREAMS #:IRONCLAD))))

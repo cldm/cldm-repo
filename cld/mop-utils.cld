@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MOP-UTILS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mop-utils.cld"
+  :DESCRIPTION
+  "A set of Metaobject Protocol utilities."
+  :AUTHOR
+  "Ryszard Szopa"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mop-utils/2012-08-11/mop-utils-20120811-http.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLITE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clite.cld"
+  :DESCRIPTION
+  "Lite weight testing framework"
+  :AUTHOR
+  "Andreas Wild <lispy.stuff@gmail.com>"
+  :LICENCE
+  "ISC"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clite/2013-06-15/clite-20130615-git.tgz"))) :DEPENDS-ON NIL)))

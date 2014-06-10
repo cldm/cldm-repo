@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SYNONYMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/synonyms.cld"
+  :DESCRIPTION
+  "A package containing useful synonyms to Common Lisp functionalities."
+  :AUTHOR
+  "Robert Smith"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/synonyms/2012-08-11/synonyms-20120811-hg.tgz"))) :DEPENDS-ON NIL)))

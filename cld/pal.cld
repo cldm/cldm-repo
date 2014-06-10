@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pal.cld"
+  :DESCRIPTION
+  "Pixel Art Library"
+  :AUTHOR
+  "Tomi Neste"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pal/2011-12-03/pal-20111203-cvs.tgz"))) :DEPENDS-ON ("cffi"))))

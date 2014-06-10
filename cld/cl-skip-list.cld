@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SKIP-LIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-skip-list.cld"
+  :DESCRIPTION
+  "Concurrent lock-free skip list."
+  :AUTHOR
+  "Kevin Raison <last name @ chatsubo dot net>"
+  :MAINTAINER
+  "Kevin Raison"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-skip-list/2013-06-15/cl-skip-list-20130615-git.tgz"))) :DEPENDS-ON
+    (:CFFI))))

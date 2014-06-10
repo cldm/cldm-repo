@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PARSE-NUMBER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/parse-number.cld"
+  :AUTHOR
+  "Matthew Danish"
+  :MAINTAINER
+  "Sharp Lispers <sharplispers@googlegroups.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/parse-number/2012-07-03/parse-number-1.3.tgz"))) :DEPENDS-ON NIL)))

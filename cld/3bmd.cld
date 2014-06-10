@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY 3BMD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/3bmd.cld"
+  :DESCRIPTION
+  "markdown processor in CL using esrap parser."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/3bmd/2014-05-25/3bmd-20140525-git.tgz")))
+    :DEPENDS-ON
+    (ASDF/INTERFACE::ESRAP ASDF/INTERFACE::SPLIT-SEQUENCE
+     ASDF/INTERFACE::ALEXANDRIA))))

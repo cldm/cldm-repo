@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASDF-FINALIZERS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asdf-finalizers.cld"
+  :DESCRIPTION
+  "Enforced calling of finalizers for Lisp code"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asdf-finalizers/2013-06-15/asdf-finalizers-20130615-git.tgz")))
+    :DEPENDS-ON NIL)))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRACK-BEST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/track-best.cld"
+  :DESCRIPTION
+  "Macros/functions for tracking the best items.  See the README.md for more details."
+  :AUTHOR
+  "Patrick Stein <pat@nklein.com>"
+  :LICENCE
+  "Free"
+  :VERSIONS
+  ((:VERSION "0.1.20130509" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/track-best/2013-06-15/track-best-20130615-git.tgz")))
+    :DEPENDS-ON NIL)))

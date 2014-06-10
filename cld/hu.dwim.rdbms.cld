@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.RDBMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.rdbms.cld"
+  :DESCRIPTION
+  "Relational database independent RDBMS and SQL abstractions."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.rdbms/2014-02-11/hu.dwim.rdbms-20140211-darcs.tgz")))
+    :DEPENDS-ON
+    (:BABEL :HU.DWIM.DEFCLASS-STAR+HU.DWIM.DEF :HU.DWIM.LOGGER :HU.DWIM.SYNTAX-SUGAR+HU.DWIM.WALKER :HU.DWIM.UTIL :HU.DWIM.UTIL.ERROR-HANDLING :HU.DWIM.WALKER
+     :IRONCLAD :LOCAL-TIME))))

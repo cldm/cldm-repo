@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOSURE-COMMON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/closure-common.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/closure-common/2010-11-07/closure-common-20101107-git.tgz")))
+    :DEPENDS-ON (:TRIVIAL-GRAY-STREAMS :BABEL))))

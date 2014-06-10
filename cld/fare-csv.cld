@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FARE-CSV
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fare-csv.cld"
+  :DESCRIPTION
+  "Robust CSV parser and printer"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fare-csv/2012-09-09/fare-csv-20120909-git.tgz"))) :DEPENDS-ON NIL)))

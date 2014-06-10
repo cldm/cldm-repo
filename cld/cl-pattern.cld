@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PATTERN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-pattern.cld"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-pattern/2014-05-25/cl-pattern-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CL-ANNOT :CL-SYNTAX :CL-SYNTAX-ANNOT))))

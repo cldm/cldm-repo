@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GEARMAN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gearman.cld"
+  :DESCRIPTION
+  "Common Lisp Library for the Gearman distributed job system."
+  :AUTHOR
+  "Takayuki Sato"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-gearman/2013-03-12/cl-gearman-20130312-git.tgz")))
+    :DEPENDS-ON (:USOCKET :SPLIT-SEQUENCE :BABEL :ALEXANDRIA))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EAGER-FUTURE2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/eager-future2.cld"
+  :AUTHOR
+  "Vladimir Sedach <vsedach@gmail.com>"
+  :LICENCE
+  "LLGPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/eager-future2/2011-03-20/eager-future2-0.2.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS :TRIVIAL-GARBAGE))))

@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SIMPLE-FINALIZER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/simple-finalizer.cld"
+  :DESCRIPTION
+  "A simple Common Lisp finalizer for foreign objects when using CFFI and TRIVIAL-GARBAGE."
+  :AUTHOR
+  "Luke Crook <luke@balooga.com>"
+  :MAINTAINER
+  "Luke Crook <luke@balooga.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/simple-finalizer/2010-10-06/simple-finalizer-20101006-git.tgz")))
+    :DEPENDS-ON (SIMPLE-FINALIZER-SYSTEM::CFFI SIMPLE-FINALIZER-SYSTEM::TRIVIAL-GARBAGE))))

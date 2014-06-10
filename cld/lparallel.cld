@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LPARALLEL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lparallel.cld"
+  :DESCRIPTION
+  "Parallelism for Common Lisp"
+  :AUTHOR
+  "James M. Lawrence <llmjjmll@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "2.7.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lparallel/2014-05-25/lparallel-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :BORDEAUX-THREADS))))

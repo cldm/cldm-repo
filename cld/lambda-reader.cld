@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LAMBDA-READER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lambda-reader.cld"
+  :DESCRIPTION
+  "Use unicode character λ for LAMBDA in reader and printer"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lambda-reader/2014-05-25/lambda-reader-20140525-git.tgz")))
+    :DEPENDS-ON (:NAMED-READTABLES))))

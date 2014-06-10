@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-REDIS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-redis.cld"
+  :DESCRIPTION
+  "A fast and robust Common Lisp client for Redis"
+  :AUTHOR
+  "Vsevolod Dyomkin <vseloved@gmail.com>, Oleksandr Manzyuk <manzyuk@gmail.com>"
+  :MAINTAINER
+  "Vsevolod Dyomkin <vseloved@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "2.3.7" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-redis/2014-02-11/cl-redis-20140211-git.tgz"))) :DEPENDS-ON
+    (#:RUTILS #:CL-PPCRE #:USOCKET #:FLEXI-STREAMS))))

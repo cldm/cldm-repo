@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LLA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lla.cld"
+  :DESCRIPTION
+  "Lisp Linear Algebra"
+  :AUTHOR
+  "Tamas K Papp <tkpapp@gmail.com>, Gábor Melis <mega@retes.hu>"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lla/2014-05-25/lla-20140525-git.tgz"))) :DEPENDS-ON
+    (#:ANAPHORA #:ALEXANDRIA #:CFFI #:CL-NUM-UTILS #:CL-SLICE #:LET-PLUS))))

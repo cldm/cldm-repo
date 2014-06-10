@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ESRAP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/esrap.cld"
+  :DESCRIPTION
+  "A Packrat / Parsing Grammar / TDPL parser for Common Lisp."
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@random-state.net>"
+  :MAINTAINER
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/esrap/2014-01-13/esrap-20140113-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

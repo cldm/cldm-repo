@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BASE58
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-base58.cld"
+  :DESCRIPTION
+  "An implementation of base58 for Common Lisp"
+  :AUTHOR
+  "Fernando Borretti"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-base58/2014-05-25/cl-base58-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

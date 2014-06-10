@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BPLUSTREE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-bplustree.cld"
+  :DESCRIPTION
+  "In-memory B+ tree"
+  :AUTHOR
+  "Francisco Soto <ebobby@ebobby.org>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-bplustree/2013-03-12/cl-bplustree-20130312-git.tgz")))
+    :DEPENDS-ON NIL)))

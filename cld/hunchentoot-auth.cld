@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HUNCHENTOOT-AUTH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hunchentoot-auth.cld"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hunchentoot-auth/2014-01-13/hunchentoot-auth-20140113-git.tgz")))
+    :DEPENDS-ON (COMMON-LISP-USER::HUNCHENTOOT COMMON-LISP-USER::CL-WHO COMMON-LISP-USER::CL-STORE COMMON-LISP-USER::BORDEAUX-THREADS))))

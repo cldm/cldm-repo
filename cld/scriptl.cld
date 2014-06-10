@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SCRIPTL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/scriptl.cld"
+  :DESCRIPTION
+  "Scripting, Common Lisp style"
+  :AUTHOR
+  "Ryan Pavlik"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/scriptl/2014-05-25/scriptl-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :BORDEAUX-THREADS :IOLIB :OSICAT :TRIVIAL-UTF-8 :TRIVIAL-GRAY-STREAMS :TRIVIAL-BACKTRACE))))

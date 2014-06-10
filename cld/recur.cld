@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RECUR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/recur.cld"
+  :DESCRIPTION
+  "A simple alternative to Scheme's named-LET."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "Public Domain. See LICENSE."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/recur/2012-09-09/recur-20120909-hg.tgz"))) :DEPENDS-ON NIL)))

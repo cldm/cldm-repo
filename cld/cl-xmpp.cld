@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-XMPP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-xmpp.cld"
+  :DESCRIPTION
+  "Common Lisp XMPP client implementation"
+  :AUTHOR
+  "Erik Enge"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-xmpp/2010-10-06/cl-xmpp-0.8.1.tgz"))) :DEPENDS-ON
+    (:USOCKET :CXML :IRONCLAD))))

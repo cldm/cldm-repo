@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-AUTOWRAP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-autowrap.cld"
+  :DESCRIPTION
+  "Import c2ffi specs and generate CFFI wrappers"
+  :AUTHOR
+  "Ryan Pavlik"
+  :LICENCE
+  "BSD-2-Clause"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-autowrap/2014-05-25/cl-autowrap-20140525-git.tgz")))
+    :DEPENDS-ON
+    (:ALEXANDRIA :CFFI :CL-JSON :CL-PPCRE :EXTERNAL-PROGRAM :CL-FAD
+     :TRIVIAL-FEATURES))))

@@ -1,0 +1,20 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GDATA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gdata.cld"
+  :DESCRIPTION
+  "Common Lisp interface to the Google GData API's"
+  :AUTHOR
+  "Elias Martenson <lokedhs@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-gdata/2013-12-11/cl-gdata-20131211-git.tgz")))
+    :DEPENDS-ON
+    (:SPLIT-SEQUENCE :DRAKMA :CXML :XPATH :URL-REWRITE :FLEXI-STREAMS
+     :PARSE-NUMBER :CL-PPCRE :GZIP-STREAM :CLOSER-MOP :CL-FAD :TRIVIAL-UTF-8
+     :ALEXANDRIA :STRING-CASE :LOCAL-TIME :CL-JSON))))

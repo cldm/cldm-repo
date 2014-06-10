@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ESRAP-PEG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/esrap-peg.cld"
+  :DESCRIPTION
+  "A wrapper around Esrap to allow generating Esrap grammars from PEG definitions"
+  :AUTHOR
+  "Michael Raskin"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/esrap-peg/2013-11-11/esrap-peg-20131111-git.tgz"))) :DEPENDS-ON
+    (:ESRAP :ITERATE :CL-UNIFICATION :ALEXANDRIA))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SNMP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/snmp.cld"
+  :DESCRIPTION
+  "Simple Network Management Protocol"
+  :AUTHOR
+  "Chun Tian (binghe) <binghe.lisp@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "6.0.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/snmp/2013-11-11/snmp-6.0.3.tgz"))) :DEPENDS-ON
+    (:IRONCLAD :USOCKET :TRIVIAL-GRAY-STREAMS))))

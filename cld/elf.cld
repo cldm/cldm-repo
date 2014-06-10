@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ELF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/elf.cld"
+  :DESCRIPTION
+  "Common Lisp library for manipulation of ELF files."
+  :AUTHOR
+  "Eric Schulte <schulte.eric@gmail.com>"
+  :LICENCE
+  "GPL V3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/elf/2014-05-25/elf-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::COM.GIGAMONKEYS.BINARY-DATA ASDF/INTERFACE::METABANG-BIND ASDF/INTERFACE::SPLIT-SEQUENCE
+     ASDF/INTERFACE::TRIVIAL-SHELL ASDF/INTERFACE::CL-PPCRE ASDF/INTERFACE::FLEXI-STREAMS))))

@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-DUMP-CORE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-dump-core.cld"
+  :DESCRIPTION
+  "trivial-dump-core: Wrapper that allows the saving of the
+current lisp image as a \"core\" or as an \"executable\" across
+implementations."
+  :AUTHOR
+  "Rolando Pereira <rolando_pereira_2@hotmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-dump-core/2012-10-13/trivial-dump-core-20121013-git.tgz")))
+    :DEPENDS-ON NIL)))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XMLS-TOOLS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xmls-tools.cld"
+  :AUTHOR
+  "Robert Marlow <bobstopper@bobturf.org>"
+  :MAINTAINER
+  "Robert Marlow <bobstopper@bobturf.org>"
+  :VERSIONS
+  ((:VERSION "0.2.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xmls-tools/2011-03-20/xmls-tools-20110320-http.tgz"))) :DEPENDS-ON
+    (:XMLS))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY METAFS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/metafs.cld"
+  :DESCRIPTION
+  "Meta-Data File System"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/metafs/2012-09-09/metafs-20120909-http.tgz"))) :DEPENDS-ON (:SCLF))))

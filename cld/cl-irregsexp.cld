@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-IRREGSEXP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-irregsexp.cld"
+  :DESCRIPTION
+  "More powerful and prettier way of doing text matching, not using regular expressions"
+  :AUTHOR
+  "John Fremlin <john@fremlin.org>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-irregsexp/2012-09-09/cl-irregsexp-20120909-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

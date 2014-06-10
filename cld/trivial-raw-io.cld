@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-RAW-IO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-raw-io.cld"
+  :DESCRIPTION
+  "Helpers for doing raw POSIX I/O"
+  :AUTHOR
+  "Brit Butler <redline6561@gmail.com>"
+  :MAINTAINER
+  "Brit Butler <redline6561@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-raw-io/2013-04-20/trivial-raw-io-20130420-git.tgz")))
+    :DEPENDS-ON (:ALEXANDRIA))))

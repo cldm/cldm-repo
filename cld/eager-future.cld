@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EAGER-FUTURE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/eager-future.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/eager-future/2010-10-06/eager-future-20101006-darcs.tgz")))
+    :DEPENDS-ON (:BORDEAUX-THREADS))))

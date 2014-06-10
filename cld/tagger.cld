@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TAGGER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/tagger.cld"
+  :DESCRIPTION
+  "The Xerox Part-of-Speech Tagger Version 1.2"
+  :AUTHOR
+  "Doug Cutting and Jan Pedersen of the Xerox Palo Alto Research Center"
+  :LICENCE
+  "Use, reproduction, and distribution of this software is permitted, but only for non-commercial research or educational purposes. see the tagger/COPYRIGHT file for more information."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/tagger/2014-05-25/tagger-20140525-git.tgz"))) :DEPENDS-ON
+    (:FIVEAM :CLOSER-MOP))))

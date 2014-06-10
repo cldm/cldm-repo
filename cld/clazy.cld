@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLAZY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clazy.cld"
+  :DESCRIPTION
+  "The CLAZY System."
+  :AUTHOR
+  "Marco Antoniotti"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clazy/2013-01-28/clazy-20130128-cvs.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GREEN-THREADS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/green-threads.cld"
+  :DESCRIPTION
+  "A lightweight threading / cooperative multitasking library."
+  :AUTHOR
+  "Stephen A. Goss"
+  :LICENCE
+  "Modified BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/green-threads/2013-04-20/green-threads-20130420-git.tgz")))
+    :DEPENDS-ON (:CL-CONT :CL-ASYNC-FUTURE))))

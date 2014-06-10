@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY QMYND
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/qmynd.cld"
+  :DESCRIPTION
+  "MySQL Native Driver"
+  :AUTHOR
+  "Alejandro Sedeño"
+  :MAINTAINER
+  '("Alejandro Sedeño")
+  :LICENCE
+  "MIT-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/qmynd/2014-05-25/qmynd-20140525-git.tgz"))) :DEPENDS-ON
+    (:BABEL :FLEXI-STREAMS :IRONCLAD :LIST-OF :TRIVIAL-GRAY-STREAMS :USOCKET :CL+SSL :CHIPZ :SALZA2))))

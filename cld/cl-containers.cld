@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CONTAINERS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-containers.cld"
+  :DESCRIPTION
+  "A generic container library for Common Lisp"
+  :AUTHOR
+  "Brendan Burns, Andrew Hannon, Brent Heeringa, Gary King, Joshua Moody, Charles Sutton, Louis Theran, David Westbrook, and other former students and staff of EKSL."
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style License"
+  :VERSIONS
+  ((:VERSION "0.12.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-containers/2014-02-11/cl-containers-20140211-git.tgz")))
+    :DEPENDS-ON ((:METATILITIES-BASE :VERSION "0.6.6")))))

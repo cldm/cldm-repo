@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MONKEYLIB-TEXT-OUTPUT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/monkeylib-text-output.cld"
+  :DESCRIPTION
+  "Formatted text output."
+  :AUTHOR
+  "Peter Seibel <peter@gigamonkeys.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/monkeylib-text-output/2011-12-03/monkeylib-text-output-20111203-git.tgz"))) :DEPENDS-ON
+    (:COM.GIGAMONKEYS.MACRO-UTILITIES :COM.GIGAMONKEYS.TEST-FRAMEWORK :COM.GIGAMONKEYS.PATHNAMES :COM.GIGAMONKEYS.UTILITIES))))

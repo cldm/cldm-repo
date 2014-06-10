@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-VARIATES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-variates.cld"
+  :DESCRIPTION
+  "Portable Common Lisp Random Number Generation."
+  :AUTHOR
+  "Gary King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style License"
+  :VERSIONS
+  ((:VERSION "0.9.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-variates/2014-02-11/cl-variates-20140211-darcs.tgz"))) :DEPENDS-ON
+    NIL)))

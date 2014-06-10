@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-UNICODE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-unicode.cld"
+  :DESCRIPTION
+  "Portable Unicode Library"
+  :VERSIONS
+  ((:VERSION "0.1.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-unicode/2012-07-03/cl-unicode-0.1.4.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE))))

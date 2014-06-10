@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-HEAP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-heap.cld"
+  :DESCRIPTION
+  "An implementation of heap and priority queue data structures."
+  :AUTHOR
+  "Rudy Neeser <rudy.neeser@gmail.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "0.1.6" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-heap/2013-03-12/cl-heap-0.1.6.tgz"))) :DEPENDS-ON NIL)))

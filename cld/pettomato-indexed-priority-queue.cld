@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PETTOMATO-INDEXED-PRIORITY-QUEUE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pettomato-indexed-priority-queue.cld"
+  :DESCRIPTION
+  "A binary heap based priority queue implementation with efficient support for find, update, replace, and delete operations."
+  :AUTHOR
+  "Austin Haas <austin@pettomato.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.3" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pettomato-indexed-priority-queue/2012-09-09/pettomato-indexed-priority-queue-20120909-git.tgz")))
+    :DEPENDS-ON NIL)))

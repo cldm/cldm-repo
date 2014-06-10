@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASDF-DEPENDENCY-GROVEL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asdf-dependency-grovel.cld"
+  :DESCRIPTION
+  "Analyse the dependencies in an ASDF system"
+  :VERSIONS
+  ((:VERSION "1.108" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asdf-dependency-grovel/2014-05-25/asdf-dependency-grovel-20140525-git.tgz")))
+    :DEPENDS-ON (:ASDF))))

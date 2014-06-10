@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TEMPLATE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-template.cld"
+  :DESCRIPTION
+  "A simple output-agnostic templating system for Common Lisp."
+  :AUTHOR
+  "Peter Cannici <turkchess123@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-template/2013-06-15/cl-template-20130615-git.tgz"))) :DEPENDS-ON
+    NIL)))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SCLF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sclf.cld"
+  :DESCRIPTION
+  "Stray Common Lisp Functions"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sclf/2014-02-11/sclf-20140211-http.tgz"))) :DEPENDS-ON (:SB-POSIX))))

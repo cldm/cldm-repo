@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY METHOD-VERSIONS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/method-versions.cld"
+  :DESCRIPTION
+  "method-versions: package for creating versioned methods"
+  :AUTHOR
+  "Patrick Stein <pat@nklein.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/method-versions/2011-05-22/method-versions_0.1.2011.05.18.tgz")))
+    :DEPENDS-ON NIL)))

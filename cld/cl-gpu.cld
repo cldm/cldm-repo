@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GPU
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-gpu.cld"
+  :DESCRIPTION
+  "A library for writing GPU kernels in a subset of CL"
+  :AUTHOR
+  ("Alexander Gavrilov <angavrilov@gmail.com>")
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-gpu/2012-03-05/cl-gpu-20120305-git.tgz"))) :DEPENDS-ON
+    (:CL-GPU.CORE))))

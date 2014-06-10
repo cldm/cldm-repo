@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FARE-MOP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fare-mop.cld"
+  :DESCRIPTION
+  "Utilities using the MOP; notably make informative pretty-printing trivial"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fare-mop/2013-06-15/fare-mop-20130615-git.tgz"))) :DEPENDS-ON
+    ((:FARE-UTILS :VERSION "1.0.0") :CLOSER-MOP))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY 3B-SWF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/3b-swf.cld"
+  :DESCRIPTION
+  "Common Lisp .swf file manipulation library"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/3b-swf/2012-01-07/3b-swf-20120107-git.tgz")))
+    :DEPENDS-ON
+    ("ieee-floats" "flexi-streams" "alexandria" "chipz" "salza2" "cl-jpeg"
+     "vecto" "cxml" "zpng"))))

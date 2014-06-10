@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CTRNN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ctrnn.cld"
+  :AUTHOR
+  "Øyvin Halfdan Thuv"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-ctrnn/2010-10-06/cl-ctrnn_1.0.0.tgz")))
+    :DEPENDS-ON NIL)))

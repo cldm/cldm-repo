@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SIMPSAMP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/simpsamp.cld"
+  :DESCRIPTION
+  "Fast algorithms for simple random sampling from sets,
+without replacement."
+  :AUTHOR
+  "J.P. Larocque"
+  :MAINTAINER
+  "J.P. Larocque"
+  :LICENCE
+  "ISC-style permissive"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/simpsamp/2010-10-06/simpsamp-0.1.tgz"))) :DEPENDS-ON
+    (("jpl-util" :VERSION "0.2")))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLACHE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clache.cld"
+  :AUTHOR
+  "Tomohiro Matsuyama"
+  :MAINTAINER
+  "Olexiy Zamkoviy"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clache/2014-05-25/clache-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :TRIVIAL-GARBAGE :BABEL :IRONCLAD :CL-FAD :CL-STORE :CL-ANNOT :CL-SYNTAX :CL-SYNTAX-ANNOT))))

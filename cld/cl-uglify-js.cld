@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-UGLIFY-JS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-uglify-js.cld"
+  :DESCRIPTION
+  "JavaScript compressor/beautifier on top of PARSE-JS"
+  :AUTHOR
+  "Mihai Bazon <mihai.bazon@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-uglify-js/2011-11-05/cl-uglify-js-20111105-git.tgz"))) :DEPENDS-ON
+    (#:PARSE-JS #:CL-PPCRE #:CL-PPCRE-UNICODE #:PARSE-NUMBER #:ITERATE))))

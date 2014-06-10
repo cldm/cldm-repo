@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BUILDNODE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/buildnode.cld"
+  :DESCRIPTION
+  "Tool for building up an xml dom nicely."
+  :AUTHOR
+  "http://www.acceleration.net"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/buildnode/2014-01-13/buildnode-20140113-git.tgz")))
+    :DEPENDS-ON
+    (:CXML :ALEXANDRIA :ITERATE :FLEXI-STREAMS :SPLIT-SEQUENCE :SWANK
+     :CL-INTERPOL :COLLECTORS :CLOSURE-HTML :CL-PPCRE :SYMBOL-MUNGER))))

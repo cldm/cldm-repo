@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COMPUTABLE-REALS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/computable-reals.cld"
+  :DESCRIPTION
+  "Computable real numbers."
+  :AUTHOR
+  "Michael Stoll"
+  :MAINTAINER
+  "Robert Smith <quad@symbo1ics.com>"
+  :VERSIONS
+  ((:VERSION "1.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/computable-reals/2013-03-12/computable-reals-20130312-hg.tgz")))
+    :DEPENDS-ON NIL)))

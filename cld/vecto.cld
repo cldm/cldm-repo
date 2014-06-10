@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY VECTO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/vecto.cld"
+  :DESCRIPTION
+  "Create vector graphics in PNG files."
+  :AUTHOR
+  "Zach Beane <xach@xach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "1.4.7" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/vecto/2014-01-13/vecto-1.4.7.tgz"))) :DEPENDS-ON
+    (#:CL-VECTORS #:ZPNG #:ZPB-TTF))))

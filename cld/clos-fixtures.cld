@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOS-FIXTURES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clos-fixtures.cld"
+  :DESCRIPTION
+  "ASDF-loadable fixtures for CLOS classes"
+  :AUTHOR
+  "Fernando Borretti"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clos-fixtures/2014-05-25/clos-fixtures-20140525-git.tgz")))
+    :DEPENDS-ON (:ASDF))))

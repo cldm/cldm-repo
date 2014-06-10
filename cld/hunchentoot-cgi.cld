@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HUNCHENTOOT-CGI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hunchentoot-cgi.cld"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hunchentoot-cgi/2014-02-11/hunchentoot-cgi-20140211-git.tgz")))
+    :DEPENDS-ON (ASDF/INTERFACE::HUNCHENTOOT ASDF/INTERFACE::PURI))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ENHANCED-MULTIPLE-VALUE-BIND
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/enhanced-multiple-value-bind.cld"
+  :DESCRIPTION
+  "Provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &rest and &key much more lightweight and convenient. A MULTIPLE-VALUE-&BIND alias is supported."
+  :AUTHOR
+  "Jean-Philippe Paradis <hexstream@gmail.com>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "1.0.1" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/enhanced-multiple-value-bind/2012-11-25/enhanced-multiple-value-bind-1.0.1.tgz"))) :DEPENDS-ON NIL)))

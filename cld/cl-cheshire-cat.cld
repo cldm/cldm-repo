@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CHESHIRE-CAT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-cheshire-cat.cld"
+  :DESCRIPTION
+  "Cheshire Cat HTTP Redirection Server"
+  :AUTHOR
+  "Mathieu Lemoine <mlemoine@mentel.com>, Mentel Inc."
+  :LICENCE
+  "3-clause BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-cheshire-cat/2012-11-25/cl-cheshire-cat-20121125-git.tgz")))
+    :DEPENDS-ON
+    ("cl-ppcre" "hunchentoot" "cl-store" "alexandria" "usocket"
+     "split-sequence" "cl-fad"))))

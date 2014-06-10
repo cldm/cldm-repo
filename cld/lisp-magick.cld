@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISP-MAGICK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisp-magick.cld"
+  :DESCRIPTION
+  "ImageMagick binding"
+  :AUTHOR
+  "Hans Bulfone"
+  :MAINTAINER
+  "Hans Bulfone <jsb@nil.at>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisp-magick/2010-10-06/lisp-magick-0.71.tgz"))) :DEPENDS-ON
+    ("cffi"))))

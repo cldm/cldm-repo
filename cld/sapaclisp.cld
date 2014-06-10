@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SAPACLISP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sapaclisp.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sapaclisp/2012-05-20/sapaclisp-1.0a.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-DROPBOX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-dropbox.cld"
+  :DESCRIPTION
+  "Common Lisp Client for the Dropbox API."
+  :AUTHOR
+  "Jose Pereira <jsmpereira@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-dropbox/2013-03-12/cl-dropbox-20130312-git.tgz")))
+    :DEPENDS-ON (#:DRAKMA #:CL-JSON #:CL-OAUTH #:CL-PPCRE))))

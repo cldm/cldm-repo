@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CHARMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-charms.cld"
+  :DESCRIPTION
+  "Bindings for curses"
+  :AUTHOR
+  "Abhishek Reddy <abhishek@abhishek.geek.nz>"
+  :MAINTAINER
+  "Abhishek Reddy"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-charms/2014-05-25/cl-charms-20140525-git.tgz")))
+    :DEPENDS-ON (:CFFI :ALEXANDRIA))))

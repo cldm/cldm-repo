@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DSO-UTIL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/dso-util.cld"
+  :DESCRIPTION
+  "David Owen's utilities."
+  :AUTHOR
+  "David Owen"
+  :LICENCE
+  "LGPL-2.1"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/dso-util/2011-01-10/dso-util-0.1.2.tgz"))) :DEPENDS-ON (#:CL-PPCRE))))

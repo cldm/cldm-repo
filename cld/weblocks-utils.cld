@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY WEBLOCKS-UTILS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/weblocks-utils.cld"
+  :DESCRIPTION
+  "Utils for weblocks framework"
+  :AUTHOR
+  "Olexiy Zamkoviy"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/weblocks-utils/2014-05-25/weblocks-utils-20140525-git.tgz")))
+    :DEPENDS-ON (:WEBLOCKS :ALEXANDRIA :WEBLOCKS-STORES :CLACHE :WEBLOCKS-CUSTOM :WEBLOCKS-TREE-WIDGET :ARNESI :CL-FAD :DRAKMA :CL-TIDY :UIOP))))

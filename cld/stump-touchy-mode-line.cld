@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STUMP-TOUCHY-MODE-LINE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/stump-touchy-mode-line.cld"
+  :DESCRIPTION
+  "Easily make areas of modeline behave like buttons"
+  :AUTHOR
+  "Alexandr Popolitov <popolit@gmail.com>"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stump-touchy-mode-line/2013-12-11/stump-touchy-mode-line-20131211-git.tgz"))) :DEPENDS-ON
+    (#:STUMPWM #:ITERATE #:DEFMACRO-ENHANCE))))

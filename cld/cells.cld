@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CELLS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cells.cld"
+  :DESCRIPTION
+  "Cells"
+  :AUTHOR
+  "Kenny Tilton <kentilton@gmail.com>"
+  :MAINTAINER
+  "Kenny Tilton <kentilton@gmail.com>"
+  :LICENCE
+  "Lisp LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cells/2014-05-25/cells-20140525-git.tgz")))
+    :DEPENDS-ON (:UTILS-KT))))

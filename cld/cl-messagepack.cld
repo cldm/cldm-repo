@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MESSAGEPACK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-messagepack.cld"
+  :DESCRIPTION
+  "A Common-Lisp implementation of Message Pack serialization."
+  :AUTHOR
+  "Miron Brezuleanu"
+  :LICENCE
+  "Simplified BSD License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-messagepack/2013-12-11/cl-messagepack-20131211-git.tgz")))
+    :DEPENDS-ON (:FLEXI-STREAMS :BABEL :CL-JSON :FIVEAM))))

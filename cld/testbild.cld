@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TESTBILD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/testbild.cld"
+  :DESCRIPTION
+  "Universal test output production and consumption facility"
+  :AUTHOR
+  "Alexander Kahl <e-user@fsfe.org>"
+  :LICENCE
+  "GPLv3+"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/testbild/2010-12-07/testbild-20101207-git.tgz"))) :DEPENDS-ON
+    (:GRAYLEX :CL-PPCRE))))

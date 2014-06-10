@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FIVEAM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fiveam.cld"
+  :DESCRIPTION
+  "A simple regression testing framework"
+  :AUTHOR
+  "Edward Marco Baringer <mb@bese.it>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fiveam/2013-11-11/fiveam-1.2.tgz"))) :DEPENDS-ON (:ALEXANDRIA))))

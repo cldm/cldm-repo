@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BINASCII
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/binascii.cld"
+  :DESCRIPTION
+  "A library of ASCII encoding schemes for binary data"
+  :AUTHOR
+  "Nathan Froyd <froydnj@gmail.com>"
+  :MAINTAINER
+  "Nathan Froyd <froydnj@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/binascii/2012-10-13/binascii-20121013-git.tgz")))
+    :DEPENDS-ON NIL)))

@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY AYAH-CAPTCHA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ayah-captcha.cld"
+  :DESCRIPTION
+  "A simple interface to the API of the play-thru captcha of areYouAHuman.com"
+  :AUTHOR
+  "Andy Peterson <andy.arvid@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/ayah-captcha/2013-11-11/ayah-captcha-20131111-git.tgz")))
+    :DEPENDS-ON (#:DRAKMA #:CL-JSON))))

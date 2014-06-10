@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LETREC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/letrec.cld"
+  :DESCRIPTION
+  "A simple alternative to Scheme's LETREC."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "Public Domain. See LICENSE."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/letrec/2013-11-11/letrec-20131111-hg.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFSTAR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defstar.cld"
+  :DESCRIPTION
+  "defstar: macros allowing easy inline type declarations for
+variables and and function return values."
+  :AUTHOR
+  "Paul Sexton <eeeickythump@gmail.com>"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defstar/2014-05-25/defstar-20140525-git.tgz"))) :DEPENDS-ON NIL)))

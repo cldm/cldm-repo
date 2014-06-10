@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY INFERIOR-SHELL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/inferior-shell.cld"
+  :DESCRIPTION
+  "spawn local or remote processes and shell pipes"
+  :VERSIONS
+  ((:VERSION "2.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/inferior-shell/2014-05-25/inferior-shell-20140525-git.tgz")))
+    :DEPENDS-ON (("asdf" :VERSION "3.0.3") "sb-posix" "alexandria" "optima" "fare-utils" "fare-quasiquote-extras" "fare-mop"))))

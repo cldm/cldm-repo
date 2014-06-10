@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NAPA-FFT3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/napa-fft3.cld"
+  :DESCRIPTION
+  "Fast Fourier Transforms via generated split-radix"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/napa-fft3/2012-09-09/napa-fft3-20120909-git.tgz"))) :DEPENDS-ON NIL)))

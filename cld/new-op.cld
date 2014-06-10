@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NEW-OP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/new-op.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/new-op/2014-01-13/new-op-20140113-git.tgz"))) :DEPENDS-ON NIL)))

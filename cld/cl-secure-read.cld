@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SECURE-READ
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-secure-read.cld"
+  :DESCRIPTION
+  "Secure lisp reader in spirit of Let over Lambda"
+  :AUTHOR
+  "Alexander Popolitov <popolit@gmail.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-secure-read/2013-11-11/cl-secure-read-20131111-git.tgz")))
+    :DEPENDS-ON (#:DEFMACRO-ENHANCE #:RUTILS #:NAMED-READTABLES #:ITERATE #:YACLANAPHT #:ALEXANDRIA))))

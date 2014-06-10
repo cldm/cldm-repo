@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SYSLOG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-syslog.cld"
+  :DESCRIPTION
+  "Common Lisp syslog interface"
+  :AUTHOR
+  "Erik Enge, Mike Maul"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-syslog/2014-05-25/cl-syslog-20140525-git.tgz"))) :DEPENDS-ON
+    (:CFFI :USOCKET :SIMPLE-DATE-TIME))))

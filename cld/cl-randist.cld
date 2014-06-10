@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RANDIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-randist.cld"
+  :DESCRIPTION
+  "Random Distribution Generation"
+  :AUTHOR
+  "Leonardo Varuzza <varuzza@gmail.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "0.4.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-randist/2014-05-25/cl-randist-20140525-git.tgz"))) :DEPENDS-ON
+    NIL)))

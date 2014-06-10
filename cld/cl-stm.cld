@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-STM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-stm.cld"
+  :DESCRIPTION
+  "Software Transactional Memory"
+  :AUTHOR
+  "Hoan Ton-That <hoan@ton-that.org>"
+  :MAINTAINER
+  "Hoan Ton-That <hoan@ton-that.org>"
+  :LICENCE
+  ""
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-stm/2010-12-07/cl-stm-20101207-http.tgz"))) :DEPENDS-ON
+    (:ARNESI :BORDEAUX-THREADS :CLOSER-MOP))))

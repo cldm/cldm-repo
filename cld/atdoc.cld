@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ATDOC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/atdoc.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/atdoc/2012-03-05/atdoc-20120305-git.tgz")))
+    :DEPENDS-ON
+    (:CXML :SPLIT-SEQUENCE :SWANK :XURIELLA :CLOSER-MOP :CL-PPCRE))))

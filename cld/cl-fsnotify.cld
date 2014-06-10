@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-FSNOTIFY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-fsnotify.cld"
+  :DESCRIPTION
+  "File system notifications"
+  :AUTHOR
+  "Chris Howey <chris@howey.me>"
+  :LICENCE
+  "ISC"
+  :VERSIONS
+  ((:VERSION "0.2.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-fsnotify/2012-05-20/cl-fsnotify-20120520-git.tgz")))
+    :DEPENDS-ON (#:CFFI #:CFFI-GROVEL))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-HAML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-haml.cld"
+  :DESCRIPTION
+  "Haml like XHTML generator."
+  :AUTHOR
+  "Hiroyuki Tokunaga <inuzini.jiro@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "1.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-haml/2013-01-28/cl-haml-20130128-git.tgz"))) :DEPENDS-ON
+    (:CL-WHO))))

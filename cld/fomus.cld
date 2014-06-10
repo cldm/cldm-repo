@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FOMUS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fomus.cld"
+  :DESCRIPTION
+  "Lisp music notation formatter"
+  :AUTHOR
+  "David Psenicka"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.2.28" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fomus/2012-09-09/fomus-20120909-svn.tgz"))) :DEPENDS-ON NIL)))

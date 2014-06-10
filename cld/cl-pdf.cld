@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PDF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-pdf.cld"
+  :DESCRIPTION
+  "Common Lisp PDF Generation Library"
+  :AUTHOR
+  "Marc Battyani <marc.battyani@fractalconcept.com>"
+  :MAINTAINER
+  "Marc Battyani <marc.battyani@fractalconcept.com>"
+  :LICENCE
+  "BSD like licence"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-pdf/2013-11-11/cl-pdf-20131111-git.tgz"))) :DEPENDS-ON
+    (:ITERATE :ZPB-TTF))))

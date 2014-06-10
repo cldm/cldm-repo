@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY THNAPPY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/thnappy.cld"
+  :DESCRIPTION
+  "Common Lisp bindings to Google's Snappy compression library."
+  :AUTHOR
+  "Markus Flambard <mflambard@common-lisp.net>"
+  :LICENCE
+  "BSD License"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/thnappy/2014-05-25/thnappy-20140525-git.tgz"))) :DEPENDS-ON (:CFFI))))

@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FORMLETS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/formlets.cld"
+  :DESCRIPTION
+  "Validating formlets for Hunchentoot"
+  :AUTHOR
+  "leo.zovic@gmail.com"
+  :MAINTAINER
+  "leo.zovic@gmail.com"
+  :LICENCE
+  "MIT-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/formlets/2013-01-28/formlets-20130128-git.tgz"))) :DEPENDS-ON
+    (:CL-WHO :DRAKMA :HUNCHENTOOT :CL-PPCRE))))

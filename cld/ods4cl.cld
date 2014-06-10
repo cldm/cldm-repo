@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ODS4CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ods4cl.cld"
+  :DESCRIPTION
+  "Open Document Spreadsheet library"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ods4cl/2010-10-06/ods4cl-20101006-http.tgz"))) :DEPENDS-ON (:SCLF))))

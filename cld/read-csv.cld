@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY READ-CSV
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/read-csv.cld"
+  :DESCRIPTION
+  "A library for reading CSV data from streams."
+  :AUTHOR
+  "Warren Wilkinson <warrenwilkinson@gmail.com>"
+  :LICENCE
+  "lgpl2"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/read-csv/2013-01-28/read-csv-20130128-git.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FSVD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/fsvd.cld"
+  :DESCRIPTION
+  "Simon Funk's quasi SVD"
+  :AUTHOR
+  "Gabor Melis"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/fsvd/2013-12-11/fsvd-20131211-git.tgz"))) :DEPENDS-ON NIL)))

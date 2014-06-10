@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GITHUB-V3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-github-v3.cld"
+  :DESCRIPTION
+  "github V3 API library"
+  :AUTHOR
+  "Hans Huebner"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-github-v3/2013-03-12/cl-github-v3-20130312-git.tgz")))
+    :DEPENDS-ON (:DRAKMA :YASON :ALEXANDRIA))))

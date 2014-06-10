@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DRAKMA-ASYNC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/drakma-async.cld"
+  :DESCRIPTION
+  "An asynchronous port of the Drakma HTTP client."
+  :AUTHOR
+  "Andrew Danger Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/drakma-async/2014-05-25/drakma-async-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CL-ASYNC-SSL #:ALEXANDRIA #:FLEXI-STREAMS #:HTTP-PARSE #:DRAKMA))))

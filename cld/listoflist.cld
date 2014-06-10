@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISTOFLIST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/listoflist.cld"
+  :DESCRIPTION
+  "makes listoflist an xarray'able data structure."
+  :AUTHOR
+  "AJ Rossini"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/listoflist/2013-12-11/listoflist-20131211-git.tgz"))) :DEPENDS-ON
+    (:XARRAY :LIFT))))

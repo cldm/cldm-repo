@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FEMLISP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/femlisp.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/femlisp/2014-05-25/femlisp-20140525-git.tgz"))) :DEPENDS-ON
+    ("femlisp-basic" "femlisp-matlisp" "infix"))))

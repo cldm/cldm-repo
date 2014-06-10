@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-TIDY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-tidy.cld"
+  :DESCRIPTION
+  "FFI bindings for HTML Tidy"
+  :AUTHOR
+  "Red Daly <reddaly at gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-tidy/2013-11-11/cl-tidy-20131111-git.tgz"))) :DEPENDS-ON ("cffi"))))

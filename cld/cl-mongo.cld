@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MONGO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mongo.cld"
+  :DESCRIPTION
+  "lisp system to interact with mongodb, a non-sql db"
+  :AUTHOR
+  "Fons Haffmans; fons.haffmans@gmail.com"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mongo/2013-10-03/cl-mongo-20131003-git.tgz"))) :DEPENDS-ON
+    (:UUID :BABEL :BORDEAUX-THREADS :DOCUMENTATION-TEMPLATE :LISP-UNIT :PARENSCRIPT :SPLIT-SEQUENCE :USOCKET))))

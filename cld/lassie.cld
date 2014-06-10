@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LASSIE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lassie.cld"
+  :DESCRIPTION
+  "Library for Latent Semantic Indexing."
+  :AUTHOR
+  "Gabor Melis"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lassie/2014-05-25/lassie-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::FSVD))))

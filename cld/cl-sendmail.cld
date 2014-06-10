@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SENDMAIL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-sendmail.cld"
+  :AUTHOR
+  "Robert Marlow <rob@bobturf.org>"
+  :MAINTAINER
+  "Utz-Uwe Haus <lisp@uuhaus.de>"
+  :VERSIONS
+  ((:VERSION "0.6.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-sendmail/2014-05-25/cl-sendmail-20140525-git.tgz"))) :DEPENDS-ON
+    (:CL-MIME (:CL-QPRINT :VERSION "0.9") :CL-BASE64 :BABEL-STREAMS :EXTERNAL-PROGRAM :XMLS :XMLS-TOOLS :TRIVIAL-GRAY-STREAMS))))

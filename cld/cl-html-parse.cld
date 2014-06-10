@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-HTML-PARSE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-html-parse.cld"
+  :DESCRIPTION
+  "HTML Parser"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style license for the packaging, AllegroServe license for the code."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-html-parse/2014-01-13/cl-html-parse-20140113-git.tgz")))
+    :DEPENDS-ON NIL)))

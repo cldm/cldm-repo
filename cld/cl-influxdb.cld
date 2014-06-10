@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-INFLUXDB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-influxdb.cld"
+  :DESCRIPTION
+  "Common lisp binding for InfluxDB"
+  :AUTHOR
+  "Mike Maul <mike.maul@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-influxdb/2014-05-25/cl-influxdb-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CL-JSON #:DRAKMA #:DO-URLENCODE #:CL-ANNOT #:FLEXI-STREAMS))))

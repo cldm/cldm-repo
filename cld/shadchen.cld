@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SHADCHEN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/shadchen.cld"
+  :DESCRIPTION
+  "A pattern matching library."
+  :AUTHOR
+  "Vincent Toups"
+  :MAINTAINER
+  "Vincent Toups"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/shadchen/2013-10-03/shadchen-20131003-git.tgz"))) :DEPENDS-ON NIL)))

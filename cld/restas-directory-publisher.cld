@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RESTAS-DIRECTORY-PUBLISHER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/restas-directory-publisher.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/restas-directory-publisher/2013-01-28/restas-directory-publisher-20130128-git.tgz"))) :DEPENDS-ON
+    (#:RESTAS #:LOCAL-TIME))))

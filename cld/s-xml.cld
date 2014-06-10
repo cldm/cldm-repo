@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY S-XML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/s-xml.cld"
+  :DESCRIPTION
+  "Simple Common Lisp XML Parser"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>, Brian Mastenbrook <>, Rudi Schlatte <>"
+  :LICENCE
+  "Lisp Lesser General Public License (LLGPL)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/s-xml/2012-09-09/s-xml-20120909-cvs.tgz"))) :DEPENDS-ON NIL)))

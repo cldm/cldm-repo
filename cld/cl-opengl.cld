@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-OPENGL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-opengl.cld"
+  :DESCRIPTION
+  "Common Lisp bindings to OpenGL."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-opengl/2013-10-03/cl-opengl-20131003-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::CFFI ASDF/INTERFACE::ALEXANDRIA))))

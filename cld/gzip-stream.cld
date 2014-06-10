@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GZIP-STREAM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/gzip-stream.cld"
+  :VERSIONS
+  ((:VERSION "0.2.8" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gzip-stream/2010-10-06/gzip-stream_0.2.8.tgz"))) :DEPENDS-ON
+    (:SALZA2 :FLEXI-STREAMS :TRIVIAL-GRAY-STREAMS))))

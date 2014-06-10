@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.WALKER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.walker.cld"
+  :DESCRIPTION
+  "Common Lisp form walker and unwalker (to and from CLOS instances)."
+  :AUTHOR
+  ("Attila Lendvai <attila.lendvai@gmail.com>" "Levente Mészáros <levente.meszaros@gmail.com>")
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.walker/2013-11-11/hu.dwim.walker-20131111-darcs.tgz")))
+    :DEPENDS-ON
+    (:ALEXANDRIA :ANAPHORA :CONTEXTL :CLOSER-MOP :HU.DWIM.COMMON-LISP :HU.DWIM.DEF+CONTEXTL :HU.DWIM.DEFCLASS-STAR+HU.DWIM.DEF :HU.DWIM.UTIL :METABANG-BIND))))

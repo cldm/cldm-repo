@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-COLORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-colors.cld"
+  :DESCRIPTION
+  "Simple color library for Common Lisp"
+  :AUTHOR
+  "Tamas K Papp <tkpapp@gmail.com>"
+  :LICENCE
+  "Boost Software License - Version 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-colors/2014-05-25/cl-colors-20140525-git.tgz")))
+    :DEPENDS-ON (#:ALEXANDRIA #:LET-PLUS))))

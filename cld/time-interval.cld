@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TIME-INTERVAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/time-interval.cld"
+  :DESCRIPTION
+  "A library for representing intervals of time"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/time-interval/2012-05-20/time-interval-20120520-git.tgz")))
+    :DEPENDS-ON (ASDF/INTERFACE::CL-PPCRE ASDF/INTERFACE::LOCAL-TIME))))

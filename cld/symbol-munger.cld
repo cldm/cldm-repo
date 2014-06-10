@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SYMBOL-MUNGER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/symbol-munger.cld"
+  :DESCRIPTION
+  "Functions to convert between the spacing and
+  capitalization conventions of various environments"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/symbol-munger/2014-05-25/symbol-munger-20140525-git.tgz")))
+    :DEPENDS-ON (:ITERATE :ALEXANDRIA))))

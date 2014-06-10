@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-HTTP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-http.cld"
+  :DESCRIPTION
+  "Simple support for HTTP GET, POST and more."
+  :AUTHOR
+  "Brian Mastenbrook and Gary King"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "1.3.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-http/2011-02-19/trivial-http-20110219-http.tgz"))) :DEPENDS-ON
+    (:USOCKET))))

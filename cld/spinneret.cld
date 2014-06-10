@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SPINNERET
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/spinneret.cld"
+  :DESCRIPTION
+  "Common Lisp HTML5 generator."
+  :AUTHOR
+  "Paul M. Rodriguez <pmr@ruricolist.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/spinneret/2014-05-25/spinneret-20140525-git.tgz"))) :DEPENDS-ON
+    (#:TRIVIAL-GARBAGE #:CL-MARKDOWN #:PARENSCRIPT #:ALEXANDRIA #:OPTIMA #:CL-PPCRE))))

@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MYSQL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mysql.cld"
+  :DESCRIPTION
+  "Common Lisp MySQL library bindings"
+  :AUTHOR
+  "Steve Knight <stkni@yahoo.com>"
+  :MAINTAINER
+  "Steve Knight <stkni@yahoo.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mysql/2012-02-08/cl-mysql-20120208-git.tgz"))) :DEPENDS-ON
+    (#:CFFI))))

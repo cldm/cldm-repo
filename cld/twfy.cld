@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TWFY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/twfy.cld"
+  :DESCRIPTION
+  "TheyWorkForYou API bindings"
+  :AUTHOR
+  "James Thompson <james@jamtho.com>"
+  :LICENCE
+  "BSD-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/twfy/2013-04-20/twfy-20130420-git.tgz"))) :DEPENDS-ON
+    (:DRAKMA :CL-JSON))))

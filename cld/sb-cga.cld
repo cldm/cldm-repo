@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SB-CGA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sb-cga.cld"
+  :DESCRIPTION
+  "Computer graphic algebra for SBCL."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sb-cga/2012-09-09/sb-cga-20120909-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA))))

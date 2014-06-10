@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PLPLOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-plplot.cld"
+  :DESCRIPTION
+  "Interface to the PLplot Scientific Plotting Library"
+  :AUTHOR
+  "Hazen Babcock <hbabcock@mac.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.7.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-plplot/2014-05-25/cl-plplot-20140525-git.tgz"))) :DEPENDS-ON
+    (:CFFI))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-DOWNLOAD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-download.cld"
+  :DESCRIPTION
+  "Download files from Common Lisp"
+  :AUTHOR
+  "Fernando Borretti"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-download/2014-02-11/trivial-download-20140211-git.tgz")))
+    :DEPENDS-ON (:DRAKMA))))

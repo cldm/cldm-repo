@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LOWLIGHT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lowlight.cld"
+  :DESCRIPTION
+  "A simple and flexible syntax highlighter"
+  :AUTHOR
+  "Christoph Finkensiep <chfin@freenet.de>"
+  :LICENCE
+  "MIT/X11"
+  :VERSIONS
+  ((:VERSION "0.99.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lowlight/2013-12-11/lowlight-20131211-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:ALEXANDRIA #:SPINNERET #:CL-WHO #:GRAYLEX #:YACC))))

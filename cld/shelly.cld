@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SHELLY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/shelly.cld"
+  :DESCRIPTION
+  "Run Common Lisp from shell easily."
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "BSD 2-Clause"
+  :VERSIONS
+  ((:VERSION "0.6.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/shelly/2014-05-25/shelly-20140525-git.tgz"))) :DEPENDS-ON
+    (:CL-ANNOT :SWANK :CL-PPCRE :CL-FAD :BORDEAUX-THREADS))))

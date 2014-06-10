@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SOUNDEX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/soundex.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/soundex/2010-10-06/soundex-1.0.tgz"))) :DEPENDS-ON NIL)))

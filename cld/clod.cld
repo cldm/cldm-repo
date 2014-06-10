@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLOD
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clod.cld"
+  :DESCRIPTION
+  "Common Lisp Autodoc generator"
+  :AUTHOR
+  "Paul Sexton"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clod/2012-04-07/clod-20120407-hg.tgz"))) :DEPENDS-ON
+    ("iterate" "closer-mop" "cl-ppcre"))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XLUNIT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xlunit.cld"
+  :DESCRIPTION
+  "Extreme Lisp Testing Suite"
+  :AUTHOR
+  "Kevin Rosenberg based on work by Craig Brozensky"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xlunit/2010-10-06/xlunit-20101006-git.tgz"))) :DEPENDS-ON NIL)))

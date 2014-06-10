@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-L10N
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-l10n.cld"
+  :DESCRIPTION
+  "Portable CL Locale Support"
+  :AUTHOR
+  "Sean Ross <sross@common-lisp.net>"
+  :MAINTAINER
+  "Sean Ross <sross@common-lisp.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-l10n/2013-04-20/cl-l10n-20130420-darcs.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CL-L10N-CLDR :ITERATE :CL-PPCRE :METABANG-BIND :CL-FAD :FLEXI-STREAMS :CXML :LOCAL-TIME :CLOSER-MOP))))

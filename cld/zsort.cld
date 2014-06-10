@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ZSORT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/zsort.cld"
+  :DESCRIPTION
+  "zsort is a collection of portable sorting algorithms."
+  :AUTHOR
+  "Jorge Tavares <jorge.tavares@ieee.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/zsort/2012-05-20/zsort-20120520-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA))))

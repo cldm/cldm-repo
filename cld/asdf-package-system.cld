@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ASDF-PACKAGE-SYSTEM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/asdf-package-system.cld"
+  :DESCRIPTION
+  "ASDF extension for a style where each file's dependencies are deduced from its defpackage"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/asdf-package-system/2014-05-25/asdf-package-system-20140525-git.tgz")))
+    :DEPENDS-ON ((:ASDF :VERSION "3")))))

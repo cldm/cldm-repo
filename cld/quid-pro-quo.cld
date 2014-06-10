@@ -1,0 +1,18 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY QUID-PRO-QUO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/quid-pro-quo.cld"
+  :DESCRIPTION
+  "A contract programming library for Common Lisp in the style of
+                Eiffel's Design by Contract."
+  :AUTHOR
+  "Matthias Hoelzl <tc@gauss.muc.de>"
+  :MAINTAINER
+  "Greg Pfeil <greg@technomadic.org>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/quid-pro-quo/2014-05-25/quid-pro-quo-20140525-git.tgz"))) :DEPENDS-ON
+    (QUID-PRO-QUO.SYSTEM::CLOSER-MOP QUID-PRO-QUO.SYSTEM::METHOD-COMBINATION-UTILITIES QUID-PRO-QUO.SYSTEM::ASDF-SYSTEM-CONNECTIONS
+     QUID-PRO-QUO.SYSTEM::ALEXANDRIA QUID-PRO-QUO.SYSTEM::SB-INTROSPECT))))

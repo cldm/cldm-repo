@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MIME4CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mime4cl.cld"
+  :DESCRIPTION
+  "MIME primitives for Common Lisp"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "LGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mime4cl/2013-06-15/mime4cl-20130615-http.tgz"))) :DEPENDS-ON
+    (:NPG :SCLF))))

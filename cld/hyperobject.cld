@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HYPEROBJECT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hyperobject.cld"
+  :AUTHOR
+  "Kevin M. Rosenberg <kevin@rosenberg.net>"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "BSD-like License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hyperobject/2013-04-20/hyperobject-20130420-git.tgz"))) :DEPENDS-ON
+    (:KMRCL :CLSQL))))

@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FLEXICHAIN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/flexichain.cld"
+  :VERSIONS
+  ((:VERSION "1.5.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/flexichain/2010-10-06/flexichain_1.5.1.tgz"))) :DEPENDS-ON NIL)))

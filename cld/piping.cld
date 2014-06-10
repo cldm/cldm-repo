@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PIPING
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/piping.cld"
+  :DESCRIPTION
+  "A library to enable simple message pipelines."
+  :AUTHOR
+  "Nicolas Hafner <shinmera@tymoon.eu>"
+  :LICENCE
+  "Artistic"
+  :VERSIONS
+  ((:VERSION "2.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/piping/2014-05-25/piping-20140525-git.tgz"))) :DEPENDS-ON NIL)))

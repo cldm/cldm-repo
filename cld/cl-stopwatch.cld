@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-STOPWATCH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-stopwatch.cld"
+  :DESCRIPTION
+  "Timing and clocking in Common Lisp."
+  :AUTHOR
+  "Robert Smith"
+  :LICENCE
+  "BSD 3-clause. See LICENSE."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-stopwatch/2012-04-07/cl-stopwatch-20120407-hg.tgz"))) :DEPENDS-ON
+    NIL)))

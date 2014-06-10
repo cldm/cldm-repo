@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XML.LOCATION
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xml.location.cld"
+  :DESCRIPTION
+  "This system provides a convenient interface for
+ manipulating XML data. It is inspired by the xmltio library."
+  :AUTHOR
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :MAINTAINER
+  "Jan Moringen <jmoringe@techfak.uni-bielefeld.de>"
+  :LICENCE
+  "LLGPLv3; see COPYING file for details."
+  :VERSIONS
+  ((:VERSION "0.2.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xml.location/2014-05-25/xml.location-20140525-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :SPLIT-SEQUENCE :ITERATE (:LET-PLUS :VERSION "0.2") :MORE-CONDITIONS :CLOSER-MOP :CXML-STP :XPATH))))

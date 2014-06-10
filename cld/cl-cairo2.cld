@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CAIRO2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-cairo2.cld"
+  :DESCRIPTION
+  "Cairo bindings"
+  :AUTHOR
+  "Tamas K Papp, Kei Suzuki"
+  :LICENCE
+  "BOOST 1.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-cairo2/2013-11-11/cl-cairo2-20131111-git.tgz")))
+    :DEPENDS-ON
+    (:CFFI :CL-COLORS :CL-UTILITIES :TRIVIAL-GARBAGE :TRIVIAL-FEATURES
+     :METABANG-BIND))))

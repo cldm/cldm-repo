@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFMEMO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defmemo.cld"
+  :DESCRIPTION
+  "Memoizing defun"
+  :AUTHOR
+  "Orivej Desh <orivej@gmx.fr>"
+  :LICENCE
+  "Unlicense <http://unlicense.org/UNLICENSE>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defmemo/2012-04-07/defmemo-20120407-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::TRIVIAL-GARBAGE))))

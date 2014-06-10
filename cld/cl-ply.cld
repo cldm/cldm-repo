@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PLY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-ply.cld"
+  :DESCRIPTION
+  "A library to handle PLY file format which is known as the Polygon File Format or the Stanford Triangle Format in Common Lisp."
+  :AUTHOR
+  "Masayuki Takagi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-ply/2013-10-03/cl-ply-20131003-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CL-PPCRE))))

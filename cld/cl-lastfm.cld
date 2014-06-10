@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LASTFM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-lastfm.cld"
+  :DESCRIPTION
+  "Common Lisp wrapper for the Last.fm web service."
+  :AUTHOR
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :MAINTAINER
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :LICENCE
+  "MIT License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-lastfm/2014-05-25/cl-lastfm-0.2.1.tgz"))) :DEPENDS-ON
+    (:DRAKMA :CXML-STP :URL-REWRITE :TRIVIAL-UTF-8))))

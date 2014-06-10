@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GRACE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-grace.cld"
+  :DESCRIPTION
+  "CL-GRACE: an interface to the Grace plotting program."
+  :AUTHOR
+  "Paul Onions"
+  :LICENCE
+  "MIT-style"
+  :VERSIONS
+  ((:VERSION "0.7.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-grace/2013-10-03/cl-grace-20131003-hg.tgz"))) :DEPENDS-ON
+    (:CL-FAD))))

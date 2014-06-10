@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MONGO-ID
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mongo-id.cld"
+  :AUTHOR
+  "Andrew Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mongo-id/2013-01-28/cl-mongo-id-20130128-git.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS :MD5 :LOCAL-TIME))))

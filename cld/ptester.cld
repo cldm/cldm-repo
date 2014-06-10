@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PTESTER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ptester.cld"
+  :DESCRIPTION
+  "Portable test harness package"
+  :AUTHOR
+  "Kevin Layer, Franz, Inc / Kevin Rosenberg"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ptester/2010-10-06/ptester-20101006-git.tgz"))) :DEPENDS-ON NIL)))

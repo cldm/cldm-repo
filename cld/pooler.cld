@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY POOLER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pooler.cld"
+  :DESCRIPTION
+  "A generic pooler library."
+  :AUTHOR
+  "Abhijit Rao"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pooler/2013-11-11/pooler-20131111-git.tgz"))) :DEPENDS-ON
+    (:SB-CONCURRENCY))))

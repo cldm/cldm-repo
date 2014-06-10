@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SB-FASTCGI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sb-fastcgi.cld"
+  :DESCRIPTION
+  "FastCGI wrapper for SBCL"
+  :AUTHOR
+  "KDr2 <killy.draw@gmail.com>"
+  :LICENCE
+  "BSD License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sb-fastcgi/2014-01-13/sb-fastcgi-20140113-git.tgz"))) :DEPENDS-ON
+    (#:SB-BSD-SOCKETS))))

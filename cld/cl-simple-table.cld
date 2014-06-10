@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-SIMPLE-TABLE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-simple-table.cld"
+  :DESCRIPTION
+  "Simple in-memory tabular data structure and utility methods."
+  :AUTHOR
+  "Francisco Soto <ebobby@ebobby.org>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-simple-table/2013-03-12/cl-simple-table-20130312-git.tgz")))
+    :DEPENDS-ON NIL)))

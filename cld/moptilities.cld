@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MOPTILITIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/moptilities.cld"
+  :DESCRIPTION
+  "Common Lisp MOP utilities"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style license"
+  :VERSIONS
+  ((:VERSION "0.3.13" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/moptilities/2014-01-13/moptilities-20140113-git.tgz"))) :DEPENDS-ON
+    (:CLOSER-MOP))))

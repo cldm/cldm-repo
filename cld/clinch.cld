@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLINCH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clinch.cld"
+  :DESCRIPTION
+  "Describe CLinch here"
+  :AUTHOR
+  "Brad Beer (WarWeasle)"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clinch/2014-05-25/clinch-20140525-git.tgz"))) :DEPENDS-ON
+    (#:CL-OPENGL #:SB-CGA #:TRIVIAL-GARBAGE))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MARCHING-CUBES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/marching-cubes.cld"
+  :DESCRIPTION
+  "A marching cubes algorithm implementation in Common Lisp based on Paul Bourke's (http://paulbourke.net/geometry/polygonise/)"
+  :AUTHOR
+  "Masayuki Takagi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/marching-cubes/2013-10-03/marching-cubes-20131003-git.tgz")))
+    :DEPENDS-ON NIL)))

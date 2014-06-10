@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CRANE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/crane.cld"
+  :DESCRIPTION
+  "An ORM for Common Lisp."
+  :AUTHOR
+  "Fernando Borretti <eudoxiahp@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/crane/2014-05-25/crane-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLOSER-MOP :ANAPHORA :SXQL :DBI :ITERATE :CL-ANNOT :CL-FAD :CLOS-FIXTURES))))

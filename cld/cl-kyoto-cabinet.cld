@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-KYOTO-CABINET
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-kyoto-cabinet.cld"
+  :AUTHOR
+  "Kevin Raison <last name @ chatsubo dot net>"
+  :LICENCE
+  "New BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-kyoto-cabinet/2012-05-20/cl-kyoto-cabinet-20120520-git.tgz")))
+    :DEPENDS-ON ((:CFFI :VERSION "0.10.3")))))

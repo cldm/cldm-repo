@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pg.cld"
+  :AUTHOR
+  "Eric Marsden"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pg/2012-03-05/pg-20120305-cvs.tgz"))) :DEPENDS-ON
+    (:SB-BSD-SOCKETS :SB-ROTATE-BYTE))))

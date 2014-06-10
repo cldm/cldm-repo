@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.COMMON-LISP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.common-lisp.cld"
+  :DESCRIPTION
+  "A redefinition of the standard Common Lisp package that includes a number of renames and shadows."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.common-lisp/2011-02-19/hu.dwim.common-lisp-20110219-darcs.tgz"))) :DEPENDS-ON NIL)))

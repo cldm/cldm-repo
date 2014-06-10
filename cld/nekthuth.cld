@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NEKTHUTH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/nekthuth.cld"
+  :DESCRIPTION
+  "Connection with a Lisp"
+  :AUTHOR
+  "Frank Duncan (frank@nekthuth.com)"
+  :MAINTAINER
+  "Frank Duncan (frank@nekthuth.com)"
+  :LICENCE
+  "Lisp Lesser General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/nekthuth/2011-02-19/nekthuth_0.3.4.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :CL-HTML-PARSE))))

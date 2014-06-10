@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CONDUIT-PACKAGES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/conduit-packages.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/conduit-packages/2013-11-11/conduit-packages-20131111-http.tgz")))
+    :DEPENDS-ON NIL)))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY ITERATE-CLSQL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/iterate-clsql.cld"
+  :DESCRIPTION
+  "Extension for iterate to support iterate over clsql queries"
+  :AUTHOR
+  "Kalyanov Dmitry <mo3r@nm.ru>"
+  :LICENCE
+  "Public Domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/iterate-clsql/2013-03-12/iterate-clsql-20130312-http.tgz")))
+    :DEPENDS-ON (:CLSQL :ITERATE))))

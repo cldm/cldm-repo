@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-WEBDAV
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-webdav.cld"
+  :DESCRIPTION
+  "A WebDAV server written in Common Lisp"
+  :VERSIONS
+  ((:VERSION "0.2.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-webdav/2014-02-11/cl-webdav-0.2.1.tgz"))) :DEPENDS-ON
+    (:HUNCHENTOOT :CXML :CL-FAD))))

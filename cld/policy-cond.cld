@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY POLICY-COND
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/policy-cond.cld"
+  :DESCRIPTION
+  "Some tools to insert code based on compiler policy."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :MAINTAINER
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "Public Domain (See UNLICENSE)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/policy-cond/2014-05-25/policy-cond-20140525-hg.tgz"))) :DEPENDS-ON
+    NIL)))

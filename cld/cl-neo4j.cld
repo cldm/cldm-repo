@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-NEO4J
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-neo4j.cld"
+  :DESCRIPTION
+  "neo4j RESTful Client Interface"
+  :AUTHOR
+  "Kevin Raison <last name @ chatsubo dot net>"
+  :MAINTAINER
+  "Mikhail Novikov <freiksenet@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-neo4j/2013-01-28/cl-neo4j-release-b8ad637a-git.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :ANAPHORA :SPLIT-SEQUENCE :DRAKMA :BABEL :CL-JSON :CL-PPCRE))))

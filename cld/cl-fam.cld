@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-FAM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-fam.cld"
+  :DESCRIPTION
+  "Wraps libfam (File access monitor) API. Needs gamin-devel or fam-devel package"
+  :AUTHOR
+  "Max Mikhanosha <max@openchat.com>"
+  :LICENCE
+  "Apache"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-fam/2012-11-25/cl-fam-20121125-git.tgz")))
+    :DEPENDS-ON (#:CFFI #:CFFI-GROVEL #:TRIVIAL-GARBAGE))))

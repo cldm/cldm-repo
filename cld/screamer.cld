@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SCREAMER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/screamer.cld"
+  :DESCRIPTION
+  "Nondeterministic programming and constraint propagation."
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/screamer/2011-11-05/screamer-20111105-git.tgz"))) :DEPENDS-ON NIL)))

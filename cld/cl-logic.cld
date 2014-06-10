@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-LOGIC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-logic.cld"
+  :DESCRIPTION
+  "Boolean algebra package"
+  :AUTHOR
+  "Mikhail Klementyev <jollheef@riseup.net>"
+  :LICENCE
+  "GNU GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-logic/2014-05-25/cl-logic-20140525-git.tgz"))) :DEPENDS-ON
+    (:QUINE-MCCLUSKEY :ALEXANDRIA))))

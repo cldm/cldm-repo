@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY METACOPY
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/metacopy.cld"
+  :DESCRIPTION
+  "Flexible Common Lisp shallow/deep copy mechanism."
+  :AUTHOR
+  "Originally by BBN, modified by EKSL and by Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "MIT Style License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/metacopy/2013-03-12/metacopy-20130312-darcs.tgz"))) :DEPENDS-ON
+    (METACOPY-SYSTEM::MOPTILITIES))))

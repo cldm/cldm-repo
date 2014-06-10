@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TRIVIAL-LDAP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/trivial-ldap.cld"
+  :DESCRIPTION
+  "TRIVIAL-LDAP is a one file, all Common Lisp client implementation of parts of RFC 2261."
+  :AUTHOR
+  "Kevin Montuori"
+  :MAINTAINER
+  "Raymond Wiker <rwiker@gmail.com>"
+  :LICENCE
+  "Clarified Artistic License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-ldap/2014-05-25/trivial-ldap-20140525-git.tgz"))) :DEPENDS-ON
+    (#:USOCKET #:CL+SSL #:YACC))))

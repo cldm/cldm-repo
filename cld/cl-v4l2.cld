@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-V4L2
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-v4l2.cld"
+  :DESCRIPTION
+  "Video4Linux2 bindings"
+  :AUTHOR
+  "Vitaly Mayatskikh <v.mayatskih@gmail.com>"
+  :LICENCE
+  "GPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-v4l2/2010-11-07/cl-v4l2-20101107-git.tgz"))) :DEPENDS-ON NIL)))

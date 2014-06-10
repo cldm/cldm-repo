@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BINAURAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-binaural.cld"
+  :DESCRIPTION
+  "Utilities to generate binaural sound from mono"
+  :AUTHOR
+  "Alexander Popolitov <popolit@gmail.com>"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-binaural/2013-10-03/cl-binaural-20131003-git.tgz")))
+    :DEPENDS-ON (#:MIXALOT #:ITERATE))))

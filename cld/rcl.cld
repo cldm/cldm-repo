@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RCL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rcl.cld"
+  :DESCRIPTION
+  "http://common-lisp.net/project/rcl"
+  :AUTHOR
+  "Carlos Ungil <ungil@mac.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rcl/2013-10-03/rcl-20131003-http.tgz"))) :DEPENDS-ON
+    (:CFFI :TRIVIAL-GARBAGE :BORDEAUX-THREADS :SB-POSIX))))

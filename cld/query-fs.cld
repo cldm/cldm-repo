@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY QUERY-FS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/query-fs.cld"
+  :DESCRIPTION
+  "High-level virtual FS using CL-Fuse-Meta-FS to represent results of queries"
+  :AUTHOR
+  "Michael Raskin <fb08af68@rambler.ru>"
+  :MAINTAINER
+  "Michael Raskin <fb08af68@rambler.ru>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/query-fs/2013-06-15/query-fs-20130615-git.tgz"))) :DEPENDS-ON
+    (:CL-FUSE :CL-FUSE-META-FS :ITERATE :CL-PPCRE :BORDEAUX-THREADS :TRIVIAL-BACKTRACE :COMMAND-LINE-ARGUMENTS))))

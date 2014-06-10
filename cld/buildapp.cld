@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BUILDAPP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/buildapp.cld"
+  :DESCRIPTION
+  "Buildapp is an application for SBCL that configures
+  and saves an executable Common Lisp image or non-executable core."
+  :AUTHOR
+  "Zach Beane <xach@xach.com>"
+  :VERSIONS
+  ((:VERSION "1.5.2" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/buildapp/2014-02-11/buildapp-1.5.2.tgz")))
+    :DEPENDS-ON NIL)))

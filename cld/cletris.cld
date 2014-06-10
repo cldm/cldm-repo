@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLETRIS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cletris.cld"
+  :DESCRIPTION
+  "A tetris game."
+  :AUTHOR
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :MAINTAINER
+  "Nicolas Lamirault <nicolas.lamirault@gmail.com>"
+  :LICENCE
+  "Lisp Lesser GNU General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cletris/2014-05-25/cletris-20140525-git.tgz"))) :DEPENDS-ON
+    (:PAL :CL-PPCRE))))

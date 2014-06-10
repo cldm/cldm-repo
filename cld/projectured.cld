@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PROJECTURED
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/projectured.cld"
+  :DESCRIPTION
+  "A generic purpose projectional editor."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/projectured/2014-05-25/projectured-quicklisp-6e300bae-git.tgz")))
+    :DEPENDS-ON
+    (:HU.DWIM.COMMON :HU.DWIM.COMPUTED-CLASS+HU.DWIM.DEFCLASS-STAR :HU.DWIM.DEF :HU.DWIM.LOGGER :HU.DWIM.SERIALIZER :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL
+     :PARSE-NUMBER))))

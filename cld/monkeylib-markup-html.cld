@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MONKEYLIB-MARKUP-HTML
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/monkeylib-markup-html.cld"
+  :DESCRIPTION
+  "Library for generating HTML from Markup formatted text."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/monkeylib-markup-html/2012-02-08/monkeylib-markup-html-20120208-git.tgz"))) :DEPENDS-ON
+    (:COM.GIGAMONKEYS.MACRO-UTILITIES :ALEXANDRIA :COM.GIGAMONKEYS.MARKUP :COM.GIGAMONKEYS.UTILITIES :MONKEYLIB-HTML))))

@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BIG-STRING
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/big-string.cld"
+  :DESCRIPTION
+  "Big strings, similar to Java's StringBuilder."
+  :AUTHOR
+  "Robert Smith <quad@symbo1ics.com>"
+  :LICENCE
+  "BSD 3-clause (see LICENSE)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/big-string/2013-06-15/big-string-20130615-hg.tgz")))
+    :DEPENDS-ON NIL)))

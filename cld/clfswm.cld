@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CLFSWM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/clfswm.cld"
+  :DESCRIPTION
+  "CLFSWM: Fullscreen Window Manager"
+  :AUTHOR
+  "Philippe Brochard  <hocwp@free.fr>"
+  :LICENCE
+  "GNU Public License (GPL)"
+  :VERSIONS
+  ((:VERSION "1209.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clfswm/2014-05-25/clfswm-20140525-git.tgz"))) :DEPENDS-ON
+    (:CLX :SB-POSIX))))

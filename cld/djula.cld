@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DJULA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/djula.cld"
+  :DESCRIPTION
+  "An implementation of Django templates for Common Lisp."
+  :AUTHOR
+  "Nick Allen <nallen05@gmail.com>"
+  :MAINTAINER
+  "Eric Sessoms <eric@nubgames.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/djula/2014-05-25/djula-20140525-git.tgz"))) :DEPENDS-ON
+    (#:ACCESS #:ALEXANDRIA #:ARNESI #:BABEL #:CL-PPCRE #:CL-FAD #:SPLIT-SEQUENCE))))

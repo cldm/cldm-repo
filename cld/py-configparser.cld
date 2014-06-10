@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PY-CONFIGPARSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/py-configparser.cld"
+  :DESCRIPTION
+  "Common Lisp implementation of the Python ConfigParser module"
+  :AUTHOR
+  "Erik Huelsmann"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/py-configparser/2013-10-03/py-configparser-20131003-svn.tgz")))
+    :DEPENDS-ON (#:PARSE-NUMBER))))

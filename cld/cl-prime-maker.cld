@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PRIME-MAKER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-prime-maker.cld"
+  :DESCRIPTION
+  "
+A simple library to generate big prime numbers in a fast way. But in some cases, the generated number is not a prime number (these are called pseudo-primes).
+\"The probability of mis-classifying a number is approximately 2^-100. So we can be fairly sure that the classification is correct.\"
+"
+  :AUTHOR
+  "Xiaofeng Yang <n.akr.akiiya at gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-prime-maker/2014-05-25/cl-prime-maker-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

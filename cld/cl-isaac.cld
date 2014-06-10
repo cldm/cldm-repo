@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ISAAC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-isaac.cld"
+  :DESCRIPTION
+  "Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators."
+  :AUTHOR
+  "Doug Hoyte <doug@hoytech.com>"
+  :MAINTAINER
+  "\"the Phoeron\" Colin J.E. Lupton <sysop@thephoeron.com>"
+  :LICENCE
+  "BSD Simplified"
+  :VERSIONS
+  ((:VERSION "1.0.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-isaac/2014-05-25/cl-isaac-20140525-git.tgz"))) :DEPENDS-ON NIL)))

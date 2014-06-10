@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-DOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-dot.cld"
+  :DESCRIPTION
+  "Generate Dot Output from Arbitrary Lisp Data"
+  :AUTHOR
+  "Juho Snellman <jsnell@iki.fi>"
+  :MAINTAINER
+  "Michael Weber <michaelw@foldr.org>"
+  :VERSIONS
+  ((:VERSION "0.8.0" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-dot/2013-10-03/cl-dot-20131003-git.tgz")))
+    :DEPENDS-ON NIL)))

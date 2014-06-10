@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY OPTICL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/opticl.cld"
+  :DESCRIPTION
+  "A library for representing and processing images"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/opticl/2013-11-11/opticl-20131111-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::RETROSPECTIFF ASDF/INTERFACE::ZPNG ASDF/INTERFACE::PNG-READ ASDF/INTERFACE::CL-JPEG ASDF/INTERFACE::SKIPPY))))

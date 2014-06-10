@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISP-MATRIX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisp-matrix.cld"
+  :DESCRIPTION
+  "linear algebra library"
+  :AUTHOR
+  "Mark Hoemmen <mhoemmen@cs.berkeley.edu>"
+  :LICENCE
+  "BSD sans advertising clause"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisp-matrix/2014-05-25/lisp-matrix-20140525-git.tgz"))) :DEPENDS-ON
+    (:CFFI :CL-UTILITIES :XARRAY :LIFT :ORG.MIDDLEANGLE.FOREIGN-NUMERIC-VECTOR :ORG.MIDDLEANGLE.CL-BLAPACK :FFA))))

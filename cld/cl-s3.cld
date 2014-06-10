@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-S3
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-s3.cld"
+  :DESCRIPTION
+  "A Common Lisp Amazon S3 client interface package"
+  :AUTHOR
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :MAINTAINER
+  "Sven Van Caekenberghe <svc@mac.com>"
+  :LICENCE
+  "Lesser Lisp General Public License (LLGPL)"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-s3/2013-01-28/cl-s3-20130128-git.tgz"))) :DEPENDS-ON
+    (:S-HTTP-CLIENT :S-XML :S-UTILS :S-BASE64 :IRONCLAD))))

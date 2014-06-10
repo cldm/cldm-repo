@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HTML-ENCODE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/html-encode.cld"
+  :DESCRIPTION
+  "A library for encoding text in various web-savvy encodings."
+  :AUTHOR
+  "Brian Mastenbrook"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/html-encode/2010-10-06/html-encode-1.2.tgz"))) :DEPENDS-ON NIL)))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY THREAD.COMM.RENDEZVOUS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/thread.comm.rendezvous.cld"
+  :DESCRIPTION
+  "Rendezvous thread synchronization"
+  :AUTHOR
+  "Kazuo Koga"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "11.10.2" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/thread.comm.rendezvous/2012-10-13/thread.comm.rendezvous-20121013-git.tgz"))) :DEPENDS-ON
+    (:CL-ANNOT :BORDEAUX-THREADS))))

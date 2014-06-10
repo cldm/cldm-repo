@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-API
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-api.cld"
+  :DESCRIPTION
+  "Simple API HTML generator"
+  :AUTHOR
+  "Andrea Chiumenti"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-api/2011-06-19/cl-api-20110619-http.tgz")))
+    :DEPENDS-ON (:CLOSER-MOP :ALEXANDRIA :CL-PPCRE))))

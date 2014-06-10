@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PERSISTENT-TABLES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/persistent-tables.cld"
+  :DESCRIPTION
+  "Persistent tables."
+  :AUTHOR
+  "Vincent Toups"
+  :MAINTAINER
+  "Vincent Toups"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/persistent-tables/2012-02-08/persistent-tables-20120208-git.tgz")))
+    :DEPENDS-ON (#:RANDOM-ACCESS-LISTS #:LISP-UNIT))))

@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PCALL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/pcall.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pcall/2010-10-06/pcall-0.3.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS :PCALL-QUEUE))))

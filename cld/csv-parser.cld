@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CSV-PARSER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/csv-parser.cld"
+  :DESCRIPTION
+  "CSV parsing/writing utilities, a la Microsoft Excel"
+  :AUTHOR
+  "Alain Picard <alain.picard@memetrics.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/csv-parser/2013-12-11/csv-parser-20131211-git.tgz"))) :DEPENDS-ON
+    NIL)))

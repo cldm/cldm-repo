@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CONSIX
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/consix.cld"
+  :DESCRIPTION
+  "Lispy Qix-like game in 7 days"
+  :AUTHOR
+  "death <github.com/death>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/consix/2013-07-20/consix-20130720-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:CL-OPENGL #:CL-GLU #:CL-GLUT))))

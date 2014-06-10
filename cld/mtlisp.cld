@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MTLISP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mtlisp.cld"
+  :DESCRIPTION
+  "MT's Common Lisp utilities."
+  :AUTHOR
+  "Mike Travers <mt@hyperphor.com>"
+  :LICENCE
+  "Lesser Lisp General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mtlisp/2013-06-15/mtlisp-20130615-git.tgz"))) :DEPENDS-ON
+    (:ACL-COMPAT))))

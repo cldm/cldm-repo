@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY TINAA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/tinaa.cld"
+  :AUTHOR
+  "Gary Warren King <gwking@metabang.com>"
+  :MAINTAINER
+  "Gary Warren King <gwking@metabang.com>"
+  :LICENCE
+  "Basically BSD, see file COPYING for details"
+  :VERSIONS
+  ((:VERSION "0.5.11" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/tinaa/2014-02-11/tinaa-20140211-git.tgz"))) :DEPENDS-ON
+    ((:DEFSYSTEM-COMPATIBILITY :VERSION "0.1.2") (:METATILITIES :VERSION "0.6.6") :LML2 :TRIVIAL-SHELL :CL-GRAPH :ANAPHORA :DYNAMIC-CLASSES
+     (:CL-CONTAINERS :VERSION "0.11.5")))))

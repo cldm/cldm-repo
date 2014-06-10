@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DAEMON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/daemon.cld"
+  :DESCRIPTION
+  "Process daemonization for some common lisp."
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/daemon/2013-11-11/daemon-20131111-git.tgz"))) :DEPENDS-ON NIL)))

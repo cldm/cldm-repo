@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MICMAC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/micmac.cld"
+  :AUTHOR
+  "Gabor Melis"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/micmac/2011-01-10/micmac-0.0.2.tgz"))) :DEPENDS-ON NIL)))

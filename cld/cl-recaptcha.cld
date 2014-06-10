@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-RECAPTCHA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-recaptcha.cld"
+  :DESCRIPTION
+  "Trivial support for the recaptcha service"
+  :AUTHOR
+  "Aad Versteden <madnificent@gmail.com>"
+  :MAINTAINER
+  "Aad Versteden <madnificent@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-recaptcha/2011-03-20/cl-recaptcha-20110320-git.tgz"))) :DEPENDS-ON
+    (:DRAKMA :SPLIT-SEQUENCE :CL-PPCRE))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MW
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-mw.cld"
+  :DESCRIPTION
+  "CL-MW: A Master/Slave Library"
+  :AUTHOR
+  "Peter Keller <psilord@cs.wisc.edu>"
+  :LICENCE
+  "Apache License, Version 2.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-mw/2012-04-07/cl-mw-20120407-git.tgz"))) :DEPENDS-ON
+    (#:HU.DWIM.SERIALIZER #:ALEXANDRIA #:IOLIB #:CFFI #:CL-PPCRE))))

@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY WEBLOCKS-TREE-WIDGET
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/weblocks-tree-widget.cld"
+  :DESCRIPTION
+  "A tree widget for weblocks"
+  :AUTHOR
+  "Olexiy Zamkoviy <olexiy.z@gmail.com>"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.3.4" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/weblocks-tree-widget/2013-12-11/weblocks-tree-widget-20131211-git.tgz"))) :DEPENDS-ON
+    (#:WEBLOCKS #:YACLML #:ALEXANDRIA))))

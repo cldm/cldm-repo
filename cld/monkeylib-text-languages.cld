@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MONKEYLIB-TEXT-LANGUAGES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/monkeylib-text-languages.cld"
+  :DESCRIPTION
+  "Compiler for text-based languages."
+  :AUTHOR
+  "Peter Seibel <peter@gigamonkeys.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/monkeylib-text-languages/2011-12-03/monkeylib-text-languages-20111203-git.tgz"))) :DEPENDS-ON
+    (:MONKEYLIB-TEXT-OUTPUT :COM.GIGAMONKEYS.MACRO-UTILITIES))))

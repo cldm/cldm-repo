@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY OPEN-VRP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/open-vrp.cld"
+  :DESCRIPTION
+  "open-vrp"
+  :AUTHOR
+  "Marc Kuo"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "0.6.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/open-vrp/2013-11-11/open-vrp-20131111-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::VECTO ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::FIVEAM ASDF/INTERFACE::OPEN-VRP-LIB))))

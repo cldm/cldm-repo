@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-CSS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-css.cld"
+  :DESCRIPTION
+  "Simple inline CSS generator"
+  :AUTHOR
+  "leo.zovic@gmail.com"
+  :MAINTAINER
+  "leo.zovic@gmail.com"
+  :LICENCE
+  "MIT-style"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-css/2014-01-13/cl-css-20140113-git.tgz")))
+    :DEPENDS-ON NIL)))

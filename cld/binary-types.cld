@@ -1,0 +1,19 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BINARY-TYPES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/binary-types.cld"
+  :DESCRIPTION
+  "A library for reading and writing binary records."
+  :AUTHOR
+  "Frode V. Fjeld"
+  :MAINTAINER
+  "ffjeld@common-lisp.net"
+  :LICENCE
+  "BSD-like, see accopanying file COPYING."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/binary-types/2013-06-15/binary-types-20130615-git.tgz")))
+    :DEPENDS-ON NIL)))

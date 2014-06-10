@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CONIUM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/conium.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/conium/2010-10-06/conium-20101006-git.tgz"))) :DEPENDS-ON
+    (:CLOSER-MOP))))

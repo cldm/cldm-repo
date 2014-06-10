@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SMACKJACK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/smackjack.cld"
+  :DESCRIPTION
+  "A small Ajax framework for hunchentoot using parenscript"
+  :AUTHOR
+  "Andy Peterson <andy.arvid@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/smackjack/2014-02-11/smackjack-20140211-git.tgz"))) :DEPENDS-ON
+    (#:ALEXANDRIA #:HUNCHENTOOT #:CL-JSON #:PARENSCRIPT #:CL-CONTAINERS :SB-INTROSPECT))))

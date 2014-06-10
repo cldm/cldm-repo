@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-PERFORMANCE-TUNING-HELPER
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-performance-tuning-helper.cld"
+  :DESCRIPTION
+  "A simple performance tuning helper tool box for Common Lisp"
+  :AUTHOR
+  "SUZUKI Shingo"
+  :MAINTAINER
+  "SUZUKI Shingo"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.3.0" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-performance-tuning-helper/2013-06-15/cl-performance-tuning-helper-20130615-git.tgz"))) :DEPENDS-ON
+    NIL)))

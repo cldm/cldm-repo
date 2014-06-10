@@ -1,0 +1,18 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-GEOIP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-geoip.cld"
+  :DESCRIPTION
+  "Wrapper around libGeoIP"
+  :AUTHOR
+  "(let ((n \"Christoph-Simon Senjak\")) (format nil \"~A ~
+  <~C~C~C~C~A>\" n (elt n 0) (elt n 10) (elt n 16) #\\@ \"uxul.de\"))"
+  :LICENCE
+  "WTFPL 2.0"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-geoip/2013-06-15/cl-geoip-20130615-git.tgz")))
+    :DEPENDS-ON (:CFFI))))

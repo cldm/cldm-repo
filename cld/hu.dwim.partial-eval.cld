@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HU.DWIM.PARTIAL-EVAL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.partial-eval.cld"
+  :DESCRIPTION
+  "Extensible partial evaluator."
+  :AUTHOR
+  ("Levente Mészáros <levente.meszaros@gmail.com>")
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.partial-eval/2011-10-01/hu.dwim.partial-eval-20111001-darcs.tgz"))) :DEPENDS-ON
+    (:HU.DWIM.COMMON :HU.DWIM.DEF :HU.DWIM.DEFCLASS-STAR+HU.DWIM.DEF+CONTEXTL :HU.DWIM.LOGGER :HU.DWIM.SYNTAX-SUGAR :HU.DWIM.UTIL :HU.DWIM.UTIL.SOURCE
+     :HU.DWIM.WALKER :SWANK))))

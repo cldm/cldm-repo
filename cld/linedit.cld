@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LINEDIT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/linedit.cld"
+  :DESCRIPTION
+  "Readline-style library."
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@sb-studio.net>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.17.5" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/linedit/2012-07-03/linedit-20120703-git.tgz"))) :DEPENDS-ON
+    (:UFFI :TERMINFO :OSICAT :ALEXANDRIA))))

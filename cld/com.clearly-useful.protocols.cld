@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COM.CLEARLY-USEFUL.PROTOCOLS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.protocols.cld"
+  :DESCRIPTION
+  "Simple protocol implementation for Common Lisp inspired by clojure."
+  :AUTHOR
+  "Jason Aeschliman <j.aeschliman@gmail.com>"
+  :LICENCE
+  "revised BSD"
+  :VERSIONS
+  ((:VERSION "0.1.2" :REPOSITORIES
+    ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/com.clearly-useful.protocols/2013-03-12/com.clearly-useful.protocols-20130312-git.tgz"))) :DEPENDS-ON
+    (#:ITERATE))))

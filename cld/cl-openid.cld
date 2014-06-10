@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-OPENID
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-openid.cld"
+  :DESCRIPTION
+  "cl-openid"
+  :AUTHOR
+  "Maciej Pasternacki"
+  :MAINTAINER
+  "Maciej Pasternacki"
+  :LICENCE
+  "LLGPL, see http://opensource.franz.com/preamble.html for details"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-openid/2013-03-12/cl-openid-20130312-darcs.tgz"))) :DEPENDS-ON
+    (#:DRAKMA #:IRONCLAD #:XMLS #:SPLIT-SEQUENCE #:PURI #:CL-HTML-PARSE #:CL-BASE64 #:TRIVIAL-UTF-8 #:BORDEAUX-THREADS #:SECURE-RANDOM))))

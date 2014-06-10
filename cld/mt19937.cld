@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MT19937
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/mt19937.cld"
+  :DESCRIPTION
+  "Portable MT19937 Mersenne Twister random number generator"
+  :AUTHOR
+  "Douglas T. Crosher and Raymond Toy"
+  :LICENCE
+  "Public domain"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mt19937/2011-02-19/mt19937-1.1.1.tgz"))) :DEPENDS-ON NIL)))

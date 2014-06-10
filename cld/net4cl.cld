@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NET4CL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/net4cl.cld"
+  :DESCRIPTION
+  "NET4CL a Common Lisp library to handle e-mail"
+  :AUTHOR
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :MAINTAINER
+  "Walter C. Pelissero <walter@pelissero.de>"
+  :LICENCE
+  "Lesser General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/net4cl/2011-08-29/net4cl-20110829-http.tgz"))) :DEPENDS-ON
+    (:SCLF :SB-BSD-SOCKETS))))

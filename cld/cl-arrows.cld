@@ -1,0 +1,15 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-ARROWS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-arrows.cld"
+  :DESCRIPTION
+  "Implements the -> and ->> from clojure"
+  :AUTHOR
+  "Sage Imel"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-arrows/2013-03-12/cl-arrows-20130312-git.tgz")))
+    :DEPENDS-ON NIL)))

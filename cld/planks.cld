@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PLANKS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/planks.cld"
+  :AUTHOR
+  "Drew Crampsie <drewc@tech.coop>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/planks/2011-05-22/planks-20110522-git.tgz"))) :DEPENDS-ON
+    (:RUCKSACK :IRONCLAD :BORDEAUX-THREADS :TRIVIAL-GARBAGE :BABEL :CLOSER-MOP))))

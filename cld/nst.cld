@@ -1,0 +1,13 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY NST
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/nst.cld"
+  :DESCRIPTION
+  "The NST unit/regression testing system"
+  :AUTHOR
+  "John Maraist <lisper@maraist.org>"
+  :LICENCE
+  "LLGPL 3.latest"
+  :VERSIONS
+  ((:VERSION "4.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/nst/2014-05-25/nst-4.0.2.tgz"))) :DEPENDS-ON (:CLOSER-MOP :DEFDOC))))

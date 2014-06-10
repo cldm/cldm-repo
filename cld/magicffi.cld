@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MAGICFFI
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/magicffi.cld"
+  :DESCRIPTION
+  "cffi interface to libmagic(3)"
+  :AUTHOR
+  "Desmond O. Chang <dochang+magicffi@gmail.com>"
+  :MAINTAINER
+  "Desmond O. Chang <dochang+magicffi@gmail.com>"
+  :LICENCE
+  "Simplified BSD License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/magicffi/2012-07-03/magicffi-20120703-git.tgz"))) :DEPENDS-ON
+    (:CFFI :CL-PPCRE))))

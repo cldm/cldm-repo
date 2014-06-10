@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEOXYBYTE-SYSTEMS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/deoxybyte-systems.cld"
+  :AUTHOR
+  "Keith James"
+  :LICENCE
+  "New BSD"
+  :VERSIONS
+  ((:VERSION "1.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/deoxybyte-systems/2014-01-13/deoxybyte-systems-20140113-git.tgz")))
+    :DEPENDS-ON ((:CL-FAD :VERSION "0.6.2")))))

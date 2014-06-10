@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EXT-BLOG
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ext-blog.cld"
+  :DESCRIPTION
+  "A BLOG engine which supports custom theme"
+  :AUTHOR
+  "Kevin Lynx <kevinlynx@gmail.com>"
+  :VERSIONS
+  ((:VERSION "0.9.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ext-blog/2013-03-12/ext-blog-20130312-git.tgz"))) :DEPENDS-ON
+    (#:RESTAS #:CL-STORE #:CLOSURE-TEMPLATE #:LOCAL-TIME #:KL-VERIFY #:IMAGE #:RESTAS.FILE-PUBLISHER #:S-XML-RPC #:CL-FAD))))

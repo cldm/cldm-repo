@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LET-OVER-LAMBDA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/let-over-lambda.cld"
+  :DESCRIPTION
+  "The Production version code from letoverlambda.com, conveniently wrapped in an ASDF System for Quicklisp."
+  :AUTHOR
+  "Doug Hoyte <doug@hoytech.com>"
+  :MAINTAINER
+  "\"the Phoeron\" Colin J.E. Lupton <sysop@thephoeron.com>"
+  :LICENCE
+  "BSD Simplified"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/let-over-lambda/2014-01-13/let-over-lambda-20140113-git.tgz")))
+    :DEPENDS-ON (#:CL-PPCRE))))

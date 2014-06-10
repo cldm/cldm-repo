@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-POPEN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-popen.cld"
+  :MAINTAINER
+  "Moskvitin Andrey <archimag@gmail.com>"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-popen/2011-01-10/cl-popen-20110110-git.tgz"))) :DEPENDS-ON
+    (#:IOLIB.STREAMS))))

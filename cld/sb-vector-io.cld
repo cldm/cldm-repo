@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SB-VECTOR-IO
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/sb-vector-io.cld"
+  :DESCRIPTION
+  "Raw vector IO for SBCL."
+  :AUTHOR
+  "Nikodemus Siivola <nikodemus@sb-studio.net>"
+  :LICENCE
+  "0-clause MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/sb-vector-io/2011-08-29/sb-vector-io-20110829-git.tgz"))) :DEPENDS-ON
+    NIL)))

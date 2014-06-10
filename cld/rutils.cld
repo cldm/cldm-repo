@@ -1,0 +1,20 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY RUTILS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/rutils.cld"
+  :DESCRIPTION
+  "A collection of basic utilities for syntactic
+   extension and basic data structure hadling,
+   developed over the years of CL history by efforts of different individuals,
+   and gathered under the unbrella of a hierarchy of packages
+   which can be used on-demand."
+  :AUTHOR
+  "Vsevolod Dyomkin <vseloved@gmail.com>"
+  :MAINTAINER
+  "Vsevolod Dyomkin <vseloved@gmail.com>"
+  :LICENCE
+  "3-clause MIT licence"
+  :VERSIONS
+  ((:VERSION "3.1.5" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rutils/2014-05-25/rutils-20140525-git.tgz"))) :DEPENDS-ON
+    (#:NAMED-READTABLES))))

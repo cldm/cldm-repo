@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY SWANK-CREW
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/swank-crew.cld"
+  :DESCRIPTION
+  "Distributed master/worker computing framework."
+  :AUTHOR
+  "Robert Brown"
+  :LICENCE
+  "New BSD license.  See the copyright messages in individual files."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/swank-crew/2014-05-25/swank-crew-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::BORDEAUX-THREADS ASDF/INTERFACE::COM.GOOGLE.BASE ASDF/INTERFACE::COM.GOOGLE.FLAG ASDF/INTERFACE::OSICAT ASDF/INTERFACE::SWANK-CLIENT))))

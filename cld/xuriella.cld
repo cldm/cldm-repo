@@ -1,0 +1,8 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY XURIELLA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/xuriella.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xuriella/2012-03-05/xuriella-20120305-git.tgz"))) :DEPENDS-ON
+    (:CXML :CXML-STP :CLOSURE-HTML :XPATH :SPLIT-SEQUENCE))))

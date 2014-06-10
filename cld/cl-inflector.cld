@@ -1,0 +1,12 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-INFLECTOR
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-inflector.cld"
+  :DESCRIPTION
+  "Functions to pluralize and singularize english languages words"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-inflector/2014-01-13/cl-inflector-20140113-git.tgz"))) :DEPENDS-ON
+    (:CL-PPCRE :ALEXANDRIA))))

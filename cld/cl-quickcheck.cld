@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-QUICKCHECK
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-quickcheck.cld"
+  :DESCRIPTION
+  "Common Lisp port of the QuickCheck unit test framework"
+  :AUTHOR
+  "Andrew Pennebaker <andrew.pennebaker@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-quickcheck/2014-05-25/cl-quickcheck-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

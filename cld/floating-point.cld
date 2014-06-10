@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FLOATING-POINT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/floating-point.cld"
+  :DESCRIPTION
+  "Floating point functions."
+  :AUTHOR
+  "Thomas M. Hermann <thomas.m.hermann@odonata-research.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/floating-point/2012-08-11/floating-point-20120811-git.tgz")))
+    :DEPENDS-ON NIL)))

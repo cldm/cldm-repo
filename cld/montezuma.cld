@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY MONTEZUMA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/montezuma.cld"
+  :DESCRIPTION
+  "Montezuma is a port of the Lucene text search engine library."
+  :AUTHOR
+  "John Wiseman <jjwiseman@yahoo.com> et al."
+  :MAINTAINER
+  "Leslie P. Polzer <polzer@gnu.org>"
+  :LICENCE
+  "MIT/Expat"
+  :VERSIONS
+  ((:VERSION "0.1.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/montezuma/2014-02-11/montezuma-20140211-git.tgz"))) :DEPENDS-ON
+    (#:CL-PPCRE #:CL-FAD #:BABEL))))

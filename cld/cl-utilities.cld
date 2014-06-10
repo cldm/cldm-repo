@@ -1,0 +1,9 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-UTILITIES
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-utilities.cld"
+  :AUTHOR
+  "Maintained by Peter Scott"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-utilities/2010-10-06/cl-utilities-1.2.4.tgz"))) :DEPENDS-ON NIL)))

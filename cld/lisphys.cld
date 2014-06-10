@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LISPHYS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/lisphys.cld"
+  :DESCRIPTION
+  "Describe lisphys here"
+  :AUTHOR
+  "Guillaume <guillaume.saupin@gmail.com>"
+  :LICENCE
+  "Specify license here"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lisphys/2013-12-11/lisphys-20131211-git.tgz"))) :DEPENDS-ON
+    (#:CLUNIT #:ALEXANDRIA #:CL-OPENGL #:CL-GLU #:LISPBUILDER-SDL))))

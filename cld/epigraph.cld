@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EPIGRAPH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/epigraph.cld"
+  :DESCRIPTION
+  "A library for representing and processing graphs (nodes and edges)"
+  :AUTHOR
+  "Cyrus Harmon <ch-lisp@bobobeach.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.0.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/epigraph/2013-08-13/epigraph-20130813-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA))))

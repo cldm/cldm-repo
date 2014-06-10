@@ -1,0 +1,7 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY LEVENSHTEIN
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/levenshtein.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/levenshtein/2010-10-06/levenshtein-1.0.tgz"))) :DEPENDS-ON NIL)))

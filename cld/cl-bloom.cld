@@ -1,0 +1,17 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-BLOOM
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-bloom.cld"
+  :DESCRIPTION
+  "Simple Bloom filters with efficient hashing."
+  :AUTHOR
+  "Paul M. Rodriguez <pmr@ruricolist.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-bloom/2013-12-11/cl-bloom-20131211-git.tgz")))
+    :DEPENDS-ON (#:CL-MURMURHASH))))

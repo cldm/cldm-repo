@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY IOLIB
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/iolib.cld"
+  :DESCRIPTION
+  "I/O library."
+  :AUTHOR
+  "Stelian Ionescu <sionescu@cddr.org>"
+  :MAINTAINER
+  "Stelian Ionescu <sionescu@cddr.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/iolib/2014-05-25/iolib-20140525-git.tgz"))) :DEPENDS-ON
+    (:IOLIB/BASE :IOLIB/MULTIPLEX :IOLIB/STREAMS :IOLIB/SOCKETS))))

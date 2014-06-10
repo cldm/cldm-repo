@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY VAS-STRING-METRICS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/vas-string-metrics.cld"
+  :DESCRIPTION
+  "Jaro-Winkler and Levenshtein string distance algorithms."
+  :AUTHOR
+  "Vladimir Sedach <vsedach@gmail.com>"
+  :LICENCE
+  "LLGPLv3"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/vas-string-metrics/2011-02-19/vas-string-metrics-20110219-git.tgz")))
+    :DEPENDS-ON NIL)))

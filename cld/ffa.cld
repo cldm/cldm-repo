@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY FFA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/ffa.cld"
+  :DESCRIPTION
+  "Foreign friendly arrays"
+  :AUTHOR
+  "Tamas K Papp"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ffa/2010-10-06/ffa-20101006-git.tgz"))) :DEPENDS-ON
+    (:CFFI :CL-UTILITIES :METABANG-BIND :ITERATE))))

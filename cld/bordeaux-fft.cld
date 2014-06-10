@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY BORDEAUX-FFT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/bordeaux-fft.cld"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/bordeaux-fft/2010-10-06/bordeaux-fft-20101006-http.tgz")))
+    :DEPENDS-ON NIL)))

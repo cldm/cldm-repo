@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY STATIC-VECTORS
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/static-vectors.cld"
+  :DESCRIPTION
+  "Create vectors allocated in static memory."
+  :AUTHOR
+  "Stelian Ionescu <sionescu@cddr.org>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/static-vectors/2014-05-25/static-vectors-1.6.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :CFFI))))

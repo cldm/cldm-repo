@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY YASON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/yason.cld"
+  :DESCRIPTION
+  "JSON parser/encoder"
+  :AUTHOR
+  "Hans Huebner <hans@huebner.org>"
+  :MAINTAINER
+  "Hans Huebner <hans@huebner.org>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "0.6.5" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/yason/2013-12-11/yason-0.6.5.tgz"))) :DEPENDS-ON
+    (:ALEXANDRIA :TRIVIAL-GRAY-STREAMS))))

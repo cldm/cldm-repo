@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY POSTOFFICE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/postoffice.cld"
+  :DESCRIPTION
+  "Franz's Post Office Package"
+  :AUTHOR
+  "Franz, Inc"
+  :MAINTAINER
+  "Kevin M. Rosenberg <kmr@debian.org>"
+  :LICENCE
+  "GNU Lesser General Public License"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/postoffice/2012-09-09/postoffice-20120909-git.tgz"))) :DEPENDS-ON
+    (:ACL-COMPAT))))

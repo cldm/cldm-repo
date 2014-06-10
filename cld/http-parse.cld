@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY HTTP-PARSE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/http-parse.cld"
+  :DESCRIPTION
+  "A library for parsing HTTP requests/responses (synchronous or asynchronous)."
+  :AUTHOR
+  "Andrew Danger Lyon <orthecreedence@gmail.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "0.1.10" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/http-parse/2014-05-25/http-parse-20140525-git.tgz"))) :DEPENDS-ON
+    (#:BABEL #:CL-PPCRE))))

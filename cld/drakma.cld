@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DRAKMA
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/drakma.cld"
+  :DESCRIPTION
+  "Full-featured http/https client based on usocket"
+  :VERSIONS
+  ((:VERSION "1.3.9" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/drakma/2014-05-25/drakma-1.3.9.tgz"))) :DEPENDS-ON
+    (:PURI :CL-BASE64 :CHUNGA :FLEXI-STREAMS :CL-PPCRE :USOCKET :CL+SSL))))

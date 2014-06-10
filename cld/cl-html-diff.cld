@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-HTML-DIFF
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-html-diff.cld"
+  :AUTHOR
+  "John Wiseman <jjwiseman@yahoo.com>"
+  :MAINTAINER
+  "John Wiseman <jjwiseman@yahoo.com>"
+  :LICENCE
+  "MIT"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-html-diff/2013-01-28/cl-html-diff-20130128-git.tgz"))) :DEPENDS-ON
+    (:CL-DIFFLIB))))

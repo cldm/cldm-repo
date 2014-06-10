@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY PATRON
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/patron.cld"
+  :DESCRIPTION
+  "A compact thread pool implementation."
+  :AUTHOR
+  "Volkan YAZICI <volkan.yazici@gmail.com>"
+  :LICENCE
+  "BSD"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/patron/2013-04-20/patron-20130420-git.tgz"))) :DEPENDS-ON
+    (:BORDEAUX-THREADS))))

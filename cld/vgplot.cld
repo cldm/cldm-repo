@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY VGPLOT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/vgplot.cld"
+  :DESCRIPTION
+  "Interface to gnuplot"
+  :AUTHOR
+  "Volker Sarodnick"
+  :LICENCE
+  "GPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/vgplot/2014-05-25/vgplot-20140525-git.tgz"))) :DEPENDS-ON
+    (:LTK :CL-FAD :CL-PPCRE))))

@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY DEFVARIANT
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/defvariant.cld"
+  :DESCRIPTION
+  "Variants in Common Lisp."
+  :AUTHOR
+  "Frederic Peschanski (format nil \"<frederic~Apeschanski~Awork~Agmail~Acom>\" \".\" \".\" \"@\" \".\")"
+  :LICENCE
+  "BSD 2-Clause. See LICENSE."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/defvariant/2014-05-25/defvariant-20140525-git.tgz"))) :DEPENDS-ON
+    NIL)))

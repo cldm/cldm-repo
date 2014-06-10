@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY EVOL
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/evol.cld"
+  :DESCRIPTION
+  "evol - entrenched virtues of lisp / love reversed. Multi-purpose build system."
+  :AUTHOR
+  "Alexander Kahl <e-user@fsfe.org>"
+  :LICENCE
+  "GPLv3+"
+  :VERSIONS
+  ((:VERSION "0.0.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/evol/2010-10-06/evol-20101006-git.tgz"))) :DEPENDS-ON
+    (:EXTERNAL-PROGRAM :CL-FAD :CL-PPCRE :ALEXANDRIA :UNIX-OPTIONS :BORDEAUX-THREADS :PATRON))))

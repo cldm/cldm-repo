@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY COM.GOOGLE.BASE
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/com.google.base.cld"
+  :DESCRIPTION
+  "Universally useful Lisp code."
+  :AUTHOR
+  "Robert Brown"
+  :LICENCE
+  "New BSD license.  See the copyright messages in individual files."
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/com.google.base/2014-05-25/com.google.base-20140525-git.tgz")))
+    :DEPENDS-ON NIL)))

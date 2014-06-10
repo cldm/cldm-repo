@@ -1,0 +1,11 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CL-MARKUP
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cl-markup.cld"
+  :AUTHOR
+  "Eitarow Fukamachi"
+  :LICENCE
+  "LLGPL"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-markup/2013-10-03/cl-markup-20131003-git.tgz"))) :DEPENDS-ON NIL)))

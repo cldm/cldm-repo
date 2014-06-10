@@ -1,0 +1,10 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY CXML-RPC
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/cxml-rpc.cld"
+  :DESCRIPTION
+  "An XML-RPC interface for Common Lisp"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cxml-rpc/2012-10-13/cxml-rpc-20121013-git.tgz"))) :DEPENDS-ON
+    (#:CXML #:CL-BASE64 #:DRAKMA #:HUNCHENTOOT #:PARSE-NUMBER))))

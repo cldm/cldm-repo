@@ -1,0 +1,14 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(DEFLIBRARY GRAPH
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/graph.cld"
+  :DESCRIPTION
+  "simple library for building and manipulating graphs"
+  :AUTHOR
+  ("Eric Schulte <schulte.eric@gmail.com>" "Thomas Dye")
+  :LICENCE
+  "GPL V3"
+  :VERSIONS
+  ((:VERSION "0.0.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/graph/2014-05-25/graph-20140525-git.tgz"))) :DEPENDS-ON
+    (ASDF/INTERFACE::ALEXANDRIA ASDF/INTERFACE::METABANG-BIND ASDF/INTERFACE::CURRY-COMPOSE-READER-MACROS))))
