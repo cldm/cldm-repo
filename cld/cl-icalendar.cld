@@ -1,0 +1,16 @@
+;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+
+(cldm:deflibrary cl-icalendar
+  :CLD
+  "http://mmontone.github.io/cldm-repo/cld/babel.cld"
+  :DESCRIPTION
+  "An (incomplete) Common Lisp implementation of the iCalendar RFC5545 specification"
+  :AUTHOR
+  "David Vazquez"
+  :licence "GPLv3+"
+  :VERSIONS
+  ((:VERSION "0.0.0"
+	     :REPOSITORIES
+	     ((:github (:git "https://github.com/davazp/cl-icalendar.git")))
+    :DEPENDS-ON (:trivial-gray-streams :cl-base64 :uuid :babel))))
+
