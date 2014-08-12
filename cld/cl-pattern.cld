@@ -9,4 +9,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-pattern/2014-05-25/cl-pattern-20140525-git.tgz"))) :DEPENDS-ON
-    (:ALEXANDRIA :CL-ANNOT :CL-SYNTAX :CL-SYNTAX-ANNOT))))
+    (:ALEXANDRIA :CL-ANNOT :CL-SYNTAX))))

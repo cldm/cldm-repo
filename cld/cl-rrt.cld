@@ -11,4 +11,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-rrt/2013-12-11/cl-rrt-20131211-git.tgz"))) :DEPENDS-ON
-    (:ITERATE :ALEXANDRIA :CL-SYNTAX-ANNOT :ANAPHORA))))
+    (:ITERATE :ALEXANDRIA :CL-SYNTAX :ANAPHORA))))

@@ -11,4 +11,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-locale/2012-09-09/cl-locale-20120909-git.tgz"))) :DEPENDS-ON
-    (:ANAPHORA :ARNESI :CL-ANNOT :CL-SYNTAX :CL-SYNTAX-ANNOT))))
+    (:ANAPHORA :ARNESI :CL-ANNOT :CL-SYNTAX))))

@@ -11,4 +11,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/ningle/2014-05-25/ningle-20140525-git.tgz"))) :DEPENDS-ON
-    (:CLACK :CL-SYNTAX :CL-SYNTAX-ANNOT))))
+    (:CLACK :CL-SYNTAX))))

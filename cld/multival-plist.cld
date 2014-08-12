@@ -11,4 +11,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/multival-plist/2012-03-05/multival-plist-20120305-git.tgz")))
-    :DEPENDS-ON (:CL-ANNOT :CL-SYNTAX-ANNOT :TRIVIAL-TYPES :ALEXANDRIA))))
+    :DEPENDS-ON (:CL-ANNOT :CL-SYNTAX :TRIVIAL-TYPES :ALEXANDRIA))))
