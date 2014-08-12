@@ -1,0 +1,15 @@
+(CLDM:DEFLIBRARY CL-YACC
+  :CLD
+  "http://cldm.github.io/cldm-repo/cld/cl-yacc.cld"
+  :DESCRIPTION
+  "A LALR(1) parser generator for Common Lisp"
+  :AUTHOR
+  "Juliusz Chroboczek <jch@pps.jussieu.fr>"
+  :LICENCE
+  "MIT/X11"
+  :VERSIONS
+  ((:VERSION "latest" :REPOSITORIES
+    ((:QUICKLISP
+      (:URL
+       "http://beta.quicklisp.org/archive/cl-yacc/2010-10-06/cl-yacc-20101006-darcs.tgz")))
+    :DEPENDS-ON NIL)))
