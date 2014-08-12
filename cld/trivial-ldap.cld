@@ -13,4 +13,4 @@
   "Clarified Artistic License"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-ldap/2014-05-25/trivial-ldap-20140525-git.tgz"))) :DEPENDS-ON
-    (#:USOCKET #:CL+SSL #:YACC))))
+    (#:USOCKET #:CL+SSL #:CL-YACC))))

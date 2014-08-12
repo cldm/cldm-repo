@@ -11,4 +11,4 @@
   "GNU Lesser General Public Licence 3.0"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gettext/2013-10-03/gettext-20131003-git.tgz"))) :DEPENDS-ON
-    (:SPLIT-SEQUENCE :YACC :FLEXI-STREAMS))))
+    (:SPLIT-SEQUENCE :CL-YACC :FLEXI-STREAMS))))

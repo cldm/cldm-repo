@@ -11,4 +11,4 @@
   "MIT/X11"
   :VERSIONS
   ((:VERSION "0.99.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lowlight/2013-12-11/lowlight-20131211-git.tgz"))) :DEPENDS-ON
-    (#:CL-PPCRE #:ALEXANDRIA #:SPINNERET #:CL-WHO #:GRAYLEX #:YACC))))
+    (#:CL-PPCRE #:ALEXANDRIA #:SPINNERET #:CL-WHO #:GRAYLEX #:CL-YACC))))
