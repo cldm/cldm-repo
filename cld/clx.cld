@@ -7,4 +7,4 @@
   "An implementation of the X Window System protocol in Lisp."
   :VERSIONS
   ((:VERSION "0.7.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clx/2013-10-03/clx-20131003-git.tgz"))) :DEPENDS-ON
-    (CLX-SYSTEM::SB-BSD-SOCKETS))))
+    (SB-BSD-SOCKETS))))

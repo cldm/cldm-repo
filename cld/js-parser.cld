@@ -9,4 +9,4 @@
   "MIT License <http://www.opensource.org/licenses/mit-license.php>"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/js-parser/2012-09-09/js-parser-20120909-git.tgz"))) :DEPENDS-ON
-    (JS-PARSER-SYSTEM::CL-PPCRE))))
+    (CL-PPCRE))))

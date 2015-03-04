@@ -5,4 +5,4 @@
   "http://mmontone.github.io/cldm-repo/cld/irc-logger.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/irc-logger/2010-10-06/irc-logger-20101006-git.tgz"))) :DEPENDS-ON
-    (IRC-LOGGER-SYSTEM::CL-IRC IRC-LOGGER-SYSTEM::CL-PPCRE))))
+    (CL-IRC CL-PPCRE))))

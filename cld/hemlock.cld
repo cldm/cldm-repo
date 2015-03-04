@@ -5,4 +5,4 @@
   "http://mmontone.github.io/cldm-repo/cld/hemlock.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hemlock/2012-09-09/hemlock-20120909-git.tgz"))) :DEPENDS-ON
-    (HEMLOCK-SYSTEM::CLX HEMLOCK-SYSTEM::MCCLIM))))
+    (CLX MCCLIM))))

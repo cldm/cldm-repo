@@ -11,4 +11,4 @@
   "BSD"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-table/2013-01-28/cl-table-20130128-git.tgz"))) :DEPENDS-ON
-    (CL-TABLE-SYSTEM::ITERATE))))
+    (ITERATE))))

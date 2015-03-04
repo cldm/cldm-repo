@@ -13,5 +13,5 @@
       (:URL
        "http://beta.quicklisp.org/archive/archive/2013-01-28/archive_0.9.tgz")))
     :DEPENDS-ON
-    (ARCHIVE-SYSTEM::SB-POSIX ARCHIVE-SYSTEM::TRIVIAL-GRAY-STREAMS
-     ARCHIVE-SYSTEM::CL-FAD))))
+    (SB-POSIX TRIVIAL-GRAY-STREAMS
+     CL-FAD))))

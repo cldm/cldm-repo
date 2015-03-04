@@ -5,4 +5,4 @@
   "http://mmontone.github.io/cldm-repo/cld/rlc.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rlc/2012-09-09/rlc-20120909-git.tgz"))) :DEPENDS-ON
-    (RLC-SYSTEM::KMRCL))))
+    (KMRCL))))

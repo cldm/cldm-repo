@@ -14,4 +14,4 @@
     ((:QUICKLISP
       (:URL
        "http://beta.quicklisp.org/archive/cl-glfw/2013-06-15/cl-glfw-20130615-git.tgz")))
-    :DEPENDS-ON (CL-GLFW-SYSTEM::CFFI CL-GLFW-SYSTEM::CL-GLFW-TYPES))))
+    :DEPENDS-ON (CFFI CL-GLFW-TYPES))))

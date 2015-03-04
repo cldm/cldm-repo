@@ -13,4 +13,4 @@
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/method-combination-utilities/2012-04-07/method-combination-utilities-20120407-git.tgz"))) :DEPENDS-ON
-    (METHOD-COMBINATION-UTILITIES.SYSTEM::CLOSER-MOP))))
+    (CLOSER-MOP))))

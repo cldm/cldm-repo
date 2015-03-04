@@ -7,4 +7,4 @@
   "Peter Scott"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xml-emitter/2011-11-05/xml-emitter-1.0.2.tgz"))) :DEPENDS-ON
-    (XML-EMITTER-SYSTEM::CL-UTILITIES))))
+    (CL-UTILITIES))))

@@ -13,4 +13,4 @@
   "GNU General Public License"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-photo/2010-10-06/cl-photo-20101006-git.tgz"))) :DEPENDS-ON
-    (CL-PHOTO-SYSTEM::KMRCL))))
+    (KMRCL))))

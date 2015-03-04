@@ -14,4 +14,4 @@ multithreading synchronization."
   "ISC-style permissive"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/jpl-queues/2010-10-06/jpl-queues-0.1.tgz"))) :DEPENDS-ON
-    ("bordeaux-threads" ("jpl-util" :VERSION "0.2")))))
+    ("bordeaux-threads" ("jpl-util" :VERSION "0.2.0")))))

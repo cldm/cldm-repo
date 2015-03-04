@@ -13,4 +13,4 @@
   "Lessor Lisp General Public License"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clsql-fluid/2013-11-11/clsql-fluid-20131111-git.tgz"))) :DEPENDS-ON
-    (CLSQL-FLUID-SYSTEM::CLSQL CLSQL-FLUID-SYSTEM::CLOSER-MOP CLSQL-FLUID-SYSTEM::BORDEAUX-THREADS))))
+    (CLSQL CLOSER-MOP BORDEAUX-THREADS))))

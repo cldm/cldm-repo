@@ -19,4 +19,4 @@ the occam programming language."
        "http://beta.quicklisp.org/archive/calispel/2010-10-06/calispel-0.1.tgz")))
     :DEPENDS-ON
     ("jpl-queues" "eager-future" "bordeaux-threads"
-     ("jpl-util" :VERSION "0.2")))))
+     ("jpl-util" :VERSION "0.2.0")))))

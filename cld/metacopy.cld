@@ -13,4 +13,4 @@
   "MIT Style License"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/metacopy/2013-03-12/metacopy-20130312-darcs.tgz"))) :DEPENDS-ON
-    (METACOPY-SYSTEM::MOPTILITIES))))
+    (MOPTILITIES))))

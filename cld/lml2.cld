@@ -13,4 +13,4 @@
   "GNU General Public License"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/lml2/2010-10-06/lml2-20101006-git.tgz"))) :DEPENDS-ON
-    (LML2-SYSTEM::KMRCL))))
+    (KMRCL))))

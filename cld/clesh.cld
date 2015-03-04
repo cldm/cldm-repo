@@ -1,10 +1,10 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
 
-(DEFLIBRARY CLESH
+(cldm:DEFLIBRARY CLESH
   :CLD
   "http://mmontone.github.io/cldm-repo/cld/clesh.cld"
   :DESCRIPTION
-  ("Clesh is a very short program that provides
+  "Clesh is a very short program that provides
   mechanisms for running and composing Unix shell commands and
   constructs from Common Lisp.
 
@@ -16,7 +16,7 @@ Lisp expressions can be included in any command or script using a '?'
 syntax.
 
 Clesh works on every implementation of Common Lisp that is supported
-by trivial-shell.")
+by trivial-shell."
   :AUTHOR
   "Christian von Essen <christian@mvonessen.de>"
   :LICENCE

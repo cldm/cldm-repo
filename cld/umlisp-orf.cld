@@ -5,4 +5,4 @@
   "http://mmontone.github.io/cldm-repo/cld/umlisp-orf.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/umlisp-orf/2011-04-18/umlisp-orf-20110418-git.tgz"))) :DEPENDS-ON
-    (UMLISP-SYSTEM::CLSQL UMLISP-SYSTEM::CLSQL-POSTGRESQL-SOCKET UMLISP-SYSTEM::KMRCL UMLISP-SYSTEM::HYPEROBJECT))))
+    (CLSQL CLSQL-POSTGRESQL-SOCKET KMRCL HYPEROBJECT))))

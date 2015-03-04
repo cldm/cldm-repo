@@ -11,4 +11,4 @@
   "LLGPL"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/kmrcl/2013-04-20/kmrcl-20130420-git.tgz"))) :DEPENDS-ON
-    (KMRCL-SYSTEM::SB-POSIX))))
+    (SB-POSIX))))

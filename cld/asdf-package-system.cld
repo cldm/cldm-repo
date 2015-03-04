@@ -12,4 +12,4 @@
     ((:QUICKLISP
       (:URL
        "http://beta.quicklisp.org/archive/asdf-package-system/2014-05-25/asdf-package-system-20140525-git.tgz")))
-    :DEPENDS-ON ((:ASDF :VERSION "3")))))
+    :DEPENDS-ON ((:ASDF :VERSION "3.0.0")))))

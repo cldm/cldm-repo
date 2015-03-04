@@ -9,4 +9,4 @@
   "MIT License <http://www.opensource.org/licenses/mit-license.php>"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/jwacs/2013-03-12/jwacs-20130312-darcs.tgz"))) :DEPENDS-ON
-    (JWACS-SYSTEM::CL-PPCRE))))
+    (CL-PPCRE))))

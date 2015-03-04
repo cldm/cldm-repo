@@ -11,4 +11,4 @@
   "BSD"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cluck/2010-10-06/cluck-20101006-git.tgz"))) :DEPENDS-ON
-    (CLUCK-SYSTEM::KMRCL))))
+    (KMRCL))))

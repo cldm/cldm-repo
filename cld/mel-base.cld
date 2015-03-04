@@ -5,4 +5,4 @@
   "http://mmontone.github.io/cldm-repo/cld/mel-base.cld"
   :VERSIONS
   ((:VERSION "0.9.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/mel-base/2014-02-11/mel-base-20140211-git.tgz"))) :DEPENDS-ON
-    (MEL.SYSTEM::SB-POSIX MEL.SYSTEM::SB-MD5 MEL.SYSTEM::SB-BSD-SOCKETS MEL.SYSTEM::FLEXI-STREAMS MEL.SYSTEM::CL+SSL MEL.SYSTEM::USOCKET))))
+    (SB-POSIX SB-MD5 SB-BSD-SOCKETS FLEXI-STREAMS CL+SSL USOCKET))))

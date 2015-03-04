@@ -13,4 +13,4 @@
   "BSD"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/simple-finalizer/2010-10-06/simple-finalizer-20101006-git.tgz")))
-    :DEPENDS-ON (SIMPLE-FINALIZER-SYSTEM::CFFI SIMPLE-FINALIZER-SYSTEM::TRIVIAL-GARBAGE))))
+    :DEPENDS-ON (CFFI TRIVIAL-GARBAGE))))

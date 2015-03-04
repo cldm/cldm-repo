@@ -15,4 +15,4 @@ primarily unreadable printing"
   :VERSIONS
   ((:VERSION "0.1.0" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/utilities.print-items/2013-07-20/utilities.print-items-20130720-git.tgz"))) :DEPENDS-ON
-    (:ALEXANDRIA (:LET-PLUS :VERSION "0.2") :ITERATE))))
+    (:ALEXANDRIA (:LET-PLUS :VERSION "0.2.0") :ITERATE))))
