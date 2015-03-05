@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CHESHIRE-CAT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-cheshire-cat.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-cheshire-cat.cld"
   :DESCRIPTION
   "Cheshire Cat HTTP Redirection Server"
   :AUTHOR

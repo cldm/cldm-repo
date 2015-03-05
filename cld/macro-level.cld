@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MACRO-LEVEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/macro-level.cld"
+  "http://cldm.github.io/cldm-repo/cld/macro-level.cld"
   :DESCRIPTION
   "MACRO-LEVEL is an embarassingly trivial convenience macro that saves on indentation while being more concise and direct. (macro-level ...) == (macrolet ((m () ...)) (m))"
   :AUTHOR

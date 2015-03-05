@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-OPENAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-openal.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-openal.cld"
   :DESCRIPTION
   "CFFI bindings for OpenAL sound system."
   :AUTHOR

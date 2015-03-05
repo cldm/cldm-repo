@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CSS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-css.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-css.cld"
   :DESCRIPTION
   "Simple inline CSS generator"
   :AUTHOR

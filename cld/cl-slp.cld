@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SLP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-slp.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-slp.cld"
   :DESCRIPTION
   "Common Lisp OpenSLP package"
   :AUTHOR

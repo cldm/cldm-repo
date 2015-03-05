@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISP-EXECUTABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lisp-executable.cld"
+  "http://cldm.github.io/cldm-repo/cld/lisp-executable.cld"
   :DESCRIPTION
   "Library for defining and creating executables that can be called from the Unix shell."
   :AUTHOR

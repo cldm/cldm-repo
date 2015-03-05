@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLX-CURSOR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clx-cursor.cld"
+  "http://cldm.github.io/cldm-repo/cld/clx-cursor.cld"
   :DESCRIPTION
   "Pure Common Lisp library for antialiased cursor rendering for clx."
   :AUTHOR

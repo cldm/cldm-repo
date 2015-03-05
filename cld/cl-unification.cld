@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-UNIFICATION
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-unification.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-unification.cld"
   :AUTHOR
   "Marco Antoniotti"
   :VERSIONS

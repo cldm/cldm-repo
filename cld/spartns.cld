@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SPARTNS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/spartns.cld"
+  "http://cldm.github.io/cldm-repo/cld/spartns.cld"
   :DESCRIPTION
   "SPARse TeNSor representation library"
   :AUTHOR

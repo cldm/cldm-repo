@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LOCATIVES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-locatives.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-locatives.cld"
   :DESCRIPTION
   "Implementation of locatives."
   :AUTHOR

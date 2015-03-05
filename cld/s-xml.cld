@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-XML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-xml.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-xml.cld"
   :DESCRIPTION
   "Simple Common Lisp XML Parser"
   :AUTHOR

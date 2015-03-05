@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HTTP-PARSE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/http-parse.cld"
+  "http://cldm.github.io/cldm-repo/cld/http-parse.cld"
   :DESCRIPTION
   "A library for parsing HTTP requests/responses (synchronous or asynchronous)."
   :AUTHOR

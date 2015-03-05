@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ADW-CHARTING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/adw-charting.cld"
+  "http://cldm.github.io/cldm-repo/cld/adw-charting.cld"
   :DESCRIPTION
   "Charting package to make pretty graphs and charts"
   :AUTHOR

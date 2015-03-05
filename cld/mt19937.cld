@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MT19937
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mt19937.cld"
+  "http://cldm.github.io/cldm-repo/cld/mt19937.cld"
   :DESCRIPTION
   "Portable MT19937 Mersenne Twister random number generator"
   :AUTHOR

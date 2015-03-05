@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PETTOMATO-DEQUE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pettomato-deque.cld"
+  "http://cldm.github.io/cldm-repo/cld/pettomato-deque.cld"
   :DESCRIPTION
   "A set of double-ended queue implementations."
   :AUTHOR

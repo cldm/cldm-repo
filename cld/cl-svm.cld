@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SVM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-svm.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-svm.cld"
   :DESCRIPTION
   ""
   :AUTHOR

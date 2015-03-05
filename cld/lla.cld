@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LLA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lla.cld"
+  "http://cldm.github.io/cldm-repo/cld/lla.cld"
   :DESCRIPTION
   "Lisp Linear Algebra"
   :AUTHOR

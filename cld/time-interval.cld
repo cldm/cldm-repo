@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TIME-INTERVAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/time-interval.cld"
+  "http://cldm.github.io/cldm-repo/cld/time-interval.cld"
   :DESCRIPTION
   "A library for representing intervals of time"
   :AUTHOR

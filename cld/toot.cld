@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TOOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/toot.cld"
+  "http://cldm.github.io/cldm-repo/cld/toot.cld"
   :DESCRIPTION
   "A minimal web server originally built by stripping down Edi Weitz's Hunchentoot"
   :VERSIONS

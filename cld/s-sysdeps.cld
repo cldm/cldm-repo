@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-SYSDEPS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-sysdeps.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-sysdeps.cld"
   :DESCRIPTION
   "An abstraction layer over platform dependent functionality"
   :AUTHOR

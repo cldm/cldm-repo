@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CONTAINERS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-containers.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-containers.cld"
   :DESCRIPTION
   "A generic container library for Common Lisp"
   :AUTHOR

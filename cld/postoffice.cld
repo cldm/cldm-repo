@@ -2,7 +2,7 @@
 
 (DEFLIBRARY POSTOFFICE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/postoffice.cld"
+  "http://cldm.github.io/cldm-repo/cld/postoffice.cld"
   :DESCRIPTION
   "Franz's Post Office Package"
   :AUTHOR

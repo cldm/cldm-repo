@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UMLISP-ORF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/umlisp-orf.cld"
+  "http://cldm.github.io/cldm-repo/cld/umlisp-orf.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/umlisp-orf/2011-04-18/umlisp-orf-20110418-git.tgz"))) :DEPENDS-ON
     (CLSQL CLSQL-POSTGRESQL-SOCKET KMRCL HYPEROBJECT))))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BUCHBERGER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-buchberger.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-buchberger.cld"
   :DESCRIPTION
   "cl-buchberger: A Common Lisp implementation of Buchberger's algorithm."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-REEXPORT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-reexport.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-reexport.cld"
   :DESCRIPTION
   ""
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DSO-LEX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/dso-lex.cld"
+  "http://cldm.github.io/cldm-repo/cld/dso-lex.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/dso-lex/2011-01-10/dso-lex-0.3.2.tgz"))) :DEPENDS-ON
     (#:CL-PPCRE #:DSO-UTIL))))

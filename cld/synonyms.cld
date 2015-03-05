@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SYNONYMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/synonyms.cld"
+  "http://cldm.github.io/cldm-repo/cld/synonyms.cld"
   :DESCRIPTION
   "A package containing useful synonyms to Common Lisp functionalities."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLINCH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clinch.cld"
+  "http://cldm.github.io/cldm-repo/cld/clinch.cld"
   :DESCRIPTION
   "Describe CLinch here"
   :AUTHOR

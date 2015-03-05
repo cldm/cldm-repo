@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ASDF-FINALIZERS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/asdf-finalizers.cld"
+  "http://cldm.github.io/cldm-repo/cld/asdf-finalizers.cld"
   :DESCRIPTION
   "Enforced calling of finalizers for Lisp code"
   :VERSIONS

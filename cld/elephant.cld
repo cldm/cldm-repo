@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ELEPHANT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/elephant.cld"
+  "http://cldm.github.io/cldm-repo/cld/elephant.cld"
   :DESCRIPTION
   "Object database for Common Lisp"
   :AUTHOR

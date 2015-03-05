@@ -2,6 +2,6 @@
 
 (DEFLIBRARY XMLS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xmls.cld"
+  "http://cldm.github.io/cldm-repo/cld/xmls.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xmls/2012-09-09/xmls-1.5.tgz"))) :DEPENDS-ON NIL)))

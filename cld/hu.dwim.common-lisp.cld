@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.COMMON-LISP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.common-lisp.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.common-lisp.cld"
   :DESCRIPTION
   "A redefinition of the standard Common Lisp package that includes a number of renames and shadows."
   :VERSIONS

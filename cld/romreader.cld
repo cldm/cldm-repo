@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ROMREADER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/romreader.cld"
+  "http://cldm.github.io/cldm-repo/cld/romreader.cld"
   :DESCRIPTION
   "A library for reading various ROM formats."
   :AUTHOR

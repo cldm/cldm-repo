@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TREES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trees.cld"
+  "http://cldm.github.io/cldm-repo/cld/trees.cld"
   :DESCRIPTION
   "A library for binary trees in normal and balanced flavors"
   :AUTHOR

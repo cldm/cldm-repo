@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PSGRAPH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/psgraph.cld"
+  "http://cldm.github.io/cldm-repo/cld/psgraph.cld"
   :DESCRIPTION
   "PostScript DAG Grapher."
   :AUTHOR

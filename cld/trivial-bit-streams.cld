@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-BIT-STREAMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-bit-streams.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-bit-streams.cld"
   :DESCRIPTION
   "Trivial bit streams"
   :AUTHOR

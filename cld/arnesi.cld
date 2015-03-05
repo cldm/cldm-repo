@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ARNESI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/arnesi.cld"
+  "http://cldm.github.io/cldm-repo/cld/arnesi.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

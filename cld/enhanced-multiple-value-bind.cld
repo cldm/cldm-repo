@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ENHANCED-MULTIPLE-VALUE-BIND
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/enhanced-multiple-value-bind.cld"
+  "http://cldm.github.io/cldm-repo/cld/enhanced-multiple-value-bind.cld"
   :DESCRIPTION
   "Provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &rest and &key much more lightweight and convenient. A MULTIPLE-VALUE-&BIND alias is supported."
   :AUTHOR

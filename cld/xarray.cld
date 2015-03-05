@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XARRAY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xarray.cld"
+  "http://cldm.github.io/cldm-repo/cld/xarray.cld"
   :DESCRIPTION
   ""
   :AUTHOR

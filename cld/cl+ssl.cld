@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY CL+SSL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl+ssl.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl+ssl.cld"
   :DESCRIPTION
   "Common Lisp interface to OpenSSL."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MATHSTATS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mathstats.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mathstats.cld"
   :DESCRIPTION
   "Common Lisp math and statistics routines"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CONTEXTL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/contextl.cld"
+  "http://cldm.github.io/cldm-repo/cld/contextl.cld"
   :AUTHOR
   "Pascal Costanza"
   :LICENCE

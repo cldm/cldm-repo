@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lisa.cld"
+  "http://cldm.github.io/cldm-repo/cld/lisa.cld"
   :DESCRIPTION
   "The Lisa expert system shell"
   :AUTHOR

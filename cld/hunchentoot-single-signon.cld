@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HUNCHENTOOT-SINGLE-SIGNON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hunchentoot-single-signon.cld"
+  "http://cldm.github.io/cldm-repo/cld/hunchentoot-single-signon.cld"
   :DESCRIPTION
   "Implementation of SPNEGO authentication for Hunchentoot"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FAST-IO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fast-io.cld"
+  "http://cldm.github.io/cldm-repo/cld/fast-io.cld"
   :DESCRIPTION
   "Alternative I/O mechanism to a stream or vector"
   :AUTHOR

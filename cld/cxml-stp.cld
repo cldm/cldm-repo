@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CXML-STP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cxml-stp.cld"
+  "http://cldm.github.io/cldm-repo/cld/cxml-stp.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cxml-stp/2012-05-20/cxml-stp-20120520-git.tgz"))) :DEPENDS-ON
     (:CXML :ALEXANDRIA :XPATH))))

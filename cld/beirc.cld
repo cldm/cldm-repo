@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BEIRC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/beirc.cld"
+  "http://cldm.github.io/cldm-repo/cld/beirc.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

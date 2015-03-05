@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LTK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ltk.cld"
+  "http://cldm.github.io/cldm-repo/cld/ltk.cld"
   :DESCRIPTION
   "LTK"
   :AUTHOR

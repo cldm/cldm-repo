@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MEMCACHED
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-memcached.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-memcached.cld"
   :AUTHOR
   "quasi <quasi@quasilabs.in>"
   :LICENCE

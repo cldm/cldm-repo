@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LOWLIGHT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lowlight.cld"
+  "http://cldm.github.io/cldm-repo/cld/lowlight.cld"
   :DESCRIPTION
   "A simple and flexible syntax highlighter"
   :AUTHOR

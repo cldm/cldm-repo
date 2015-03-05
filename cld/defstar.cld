@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFSTAR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/defstar.cld"
+  "http://cldm.github.io/cldm-repo/cld/defstar.cld"
   :DESCRIPTION
   "defstar: macros allowing easy inline type declarations for
 variables and and function return values."

@@ -2,7 +2,7 @@
 
 (CLDM:DEFLIBRARY CL-BASE64
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-base64.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-base64.cld"
   :DESCRIPTION
   "Base64 encoding and decoding with URI support."
   :AUTHOR

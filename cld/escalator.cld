@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ESCALATOR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/escalator.cld"
+  "http://cldm.github.io/cldm-repo/cld/escalator.cld"
   :AUTHOR
   "Elliott Slaughter <elliottslaughter@gmail.com>"
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SCRIBD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-scribd.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-scribd.cld"
   :DESCRIPTION
   "Commong Lisp Client for the Scribd API."
   :AUTHOR

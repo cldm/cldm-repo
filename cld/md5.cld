@@ -2,7 +2,7 @@
 
 (CLDM:DEFLIBRARY MD5
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/md5.cld"
+  "http://cldm.github.io/cldm-repo/cld/md5.cld"
   :DESCRIPTION
   "The MD5 Message-Digest Algorithm RFC 1321"
   :AUTHOR

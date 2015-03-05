@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-S3
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-s3.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-s3.cld"
   :DESCRIPTION
   "A Common Lisp Amazon S3 client interface package"
   :AUTHOR

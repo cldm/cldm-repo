@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DRAKMA-ASYNC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/drakma-async.cld"
+  "http://cldm.github.io/cldm-repo/cld/drakma-async.cld"
   :DESCRIPTION
   "An asynchronous port of the Drakma HTTP client."
   :AUTHOR

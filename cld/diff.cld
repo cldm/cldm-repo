@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DIFF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/diff.cld"
+  "http://cldm.github.io/cldm-repo/cld/diff.cld"
   :AUTHOR
   "Nathan Froyd <froydnj@gmail.com>"
   :MAINTAINER

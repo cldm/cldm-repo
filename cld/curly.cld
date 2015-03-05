@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CURLY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/curly.cld"
+  "http://cldm.github.io/cldm-repo/cld/curly.cld"
   :DESCRIPTION
   "Reader macros for easy function currying and composition."
   :AUTHOR

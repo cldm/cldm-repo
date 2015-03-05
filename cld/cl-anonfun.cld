@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ANONFUN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-anonfun.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-anonfun.cld"
   :DESCRIPTION
   "Anonymous function helpers for Common Lisp"
   :AUTHOR

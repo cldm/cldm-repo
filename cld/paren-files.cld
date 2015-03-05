@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PAREN-FILES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/paren-files.cld"
+  "http://cldm.github.io/cldm-repo/cld/paren-files.cld"
   :DESCRIPTION
   "Parenscript library for compiling files and ASDF systems."
   :AUTHOR

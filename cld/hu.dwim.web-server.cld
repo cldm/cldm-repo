@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.WEB-SERVER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.web-server.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.web-server.cld"
   :DESCRIPTION
   "An iolib based HTTP server."
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clack.cld"
+  "http://cldm.github.io/cldm-repo/cld/clack.cld"
   :DESCRIPTION
   "Web application environment for Common Lisp"
   :AUTHOR

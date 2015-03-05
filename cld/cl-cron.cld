@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CRON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-cron.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-cron.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

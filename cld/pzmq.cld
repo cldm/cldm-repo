@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PZMQ
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pzmq.cld"
+  "http://cldm.github.io/cldm-repo/cld/pzmq.cld"
   :DESCRIPTION
   "ZeroMQ 3.2+ bindings."
   :AUTHOR

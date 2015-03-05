@@ -2,7 +2,7 @@
 
 (DEFLIBRARY M2CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/m2cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/m2cl.cld"
   :DESCRIPTION
   "A handler for the mongrel2 HTTP server."
   :AUTHOR

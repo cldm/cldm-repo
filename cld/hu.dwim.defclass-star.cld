@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.DEFCLASS-STAR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.defclass-star.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.defclass-star.cld"
   :DESCRIPTION
   "Simplify class like definitions with defclass* and friends."
   :VERSIONS

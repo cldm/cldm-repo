@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STP-QUERY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stp-query.cld"
+  "http://cldm.github.io/cldm-repo/cld/stp-query.cld"
   :DESCRIPTION
   "A jQuery-like API for manipulating and traversing STP documents."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TALCL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/talcl.cld"
+  "http://cldm.github.io/cldm-repo/cld/talcl.cld"
   :DESCRIPTION
   "TAL in CL"
   :LICENCE

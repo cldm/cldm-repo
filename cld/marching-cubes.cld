@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MARCHING-CUBES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/marching-cubes.cld"
+  "http://cldm.github.io/cldm-repo/cld/marching-cubes.cld"
   :DESCRIPTION
   "A marching cubes algorithm implementation in Common Lisp based on Paul Bourke's (http://paulbourke.net/geometry/polygonise/)"
   :AUTHOR

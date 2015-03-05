@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLOS-FIXTURES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clos-fixtures.cld"
+  "http://cldm.github.io/cldm-repo/cld/clos-fixtures.cld"
   :DESCRIPTION
   "ASDF-loadable fixtures for CLOS classes"
   :AUTHOR

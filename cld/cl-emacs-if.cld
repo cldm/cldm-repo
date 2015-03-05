@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-EMACS-IF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-emacs-if.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-emacs-if.cld"
   :DESCRIPTION
   "Provides Emacs-like IF and WHILE operators"
   :VERSIONS

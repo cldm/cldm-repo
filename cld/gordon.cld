@@ -2,6 +2,6 @@
 
 (DEFLIBRARY GORDON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/gordon.cld"
+  "http://cldm.github.io/cldm-repo/cld/gordon.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gordon/2014-05-25/gordon-20140525-git.tgz"))) :DEPENDS-ON NIL)))

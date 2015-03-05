@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GETOPT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/getopt.cld"
+  "http://cldm.github.io/cldm-repo/cld/getopt.cld"
   :AUTHOR
   "Kevin Rosenberg <kevin@rosenberg.net>"
   :MAINTAINER

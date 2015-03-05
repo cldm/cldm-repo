@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SMTP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-smtp.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-smtp.cld"
   :VERSIONS
   ((:VERSION "1.0.0" :REPOSITORIES
     ((:official

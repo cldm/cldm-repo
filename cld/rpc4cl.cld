@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RPC4CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/rpc4cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/rpc4cl.cld"
   :DESCRIPTION
   "A Common Lisp implementation of XML-RPC using best of breed libraries"
   :AUTHOR

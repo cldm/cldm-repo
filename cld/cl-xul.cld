@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-XUL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-xul.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-xul.cld"
   :DESCRIPTION
   "Mozilla XUL bindings"
   :AUTHOR

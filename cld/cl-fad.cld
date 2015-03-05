@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY CL-FAD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-fad.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-fad.cld"
   :DESCRIPTION
   "Portable pathname library"
   :VERSIONS

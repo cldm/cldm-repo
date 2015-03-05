@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-EMB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-emb.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-emb.cld"
   :AUTHOR
   "Stefan Scholl <stesch@no-spoon.de>"
   :LICENCE

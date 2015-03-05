@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MW
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mw.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mw.cld"
   :DESCRIPTION
   "CL-MW: A Master/Slave Library"
   :AUTHOR

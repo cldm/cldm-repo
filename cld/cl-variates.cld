@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-VARIATES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-variates.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-variates.cld"
   :DESCRIPTION
   "Portable Common Lisp Random Number Generation."
   :AUTHOR

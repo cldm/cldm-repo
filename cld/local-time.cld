@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LOCAL-TIME
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/local-time.cld"
+  "http://cldm.github.io/cldm-repo/cld/local-time.cld"
   :DESCRIPTION
   "A library for manipulating dates and times, based on a paper by Erik Naggum"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UTILITIES.PRINT-ITEMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/utilities.print-items.cld"
+  "http://cldm.github.io/cldm-repo/cld/utilities.print-items.cld"
   :DESCRIPTION
   "A protocol for flexible and composable printing,
 primarily unreadable printing"

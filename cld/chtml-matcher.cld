@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHTML-MATCHER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/chtml-matcher.cld"
+  "http://cldm.github.io/cldm-repo/cld/chtml-matcher.cld"
   :DESCRIPTION
   "A unifying template matcher based on closure-html for web scraping and extraction"
   :AUTHOR

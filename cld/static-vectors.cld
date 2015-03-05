@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STATIC-VECTORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/static-vectors.cld"
+  "http://cldm.github.io/cldm-repo/cld/static-vectors.cld"
   :DESCRIPTION
   "Create vectors allocated in static memory."
   :AUTHOR

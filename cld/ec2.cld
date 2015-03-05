@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EC2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ec2.cld"
+  "http://cldm.github.io/cldm-repo/cld/ec2.cld"
   :DESCRIPTION
   "Common Lisp EC2 Package"
   :AUTHOR

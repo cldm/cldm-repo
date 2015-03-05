@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-VECTORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-vectors.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-vectors.cld"
   :DESCRIPTION
   "cl-paths: vectorial paths manipulation"
   :AUTHOR

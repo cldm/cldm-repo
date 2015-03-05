@@ -2,7 +2,7 @@
 
 (DEFLIBRARY AUTOPROJECT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/autoproject.cld"
+  "http://cldm.github.io/cldm-repo/cld/autoproject.cld"
   :DESCRIPTION
   ""
   :VERSIONS

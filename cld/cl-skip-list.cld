@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SKIP-LIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-skip-list.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-skip-list.cld"
   :DESCRIPTION
   "Concurrent lock-free skip list."
   :AUTHOR

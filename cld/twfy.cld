@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TWFY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/twfy.cld"
+  "http://cldm.github.io/cldm-repo/cld/twfy.cld"
   :DESCRIPTION
   "TheyWorkForYou API bindings"
   :AUTHOR

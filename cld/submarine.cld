@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SUBMARINE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/submarine.cld"
+  "http://cldm.github.io/cldm-repo/cld/submarine.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/submarine/2012-09-09/submarine-20120909-darcs.tgz"))) :DEPENDS-ON
     (:POSTMODERN :ITERATE :MOP-UTILS))))

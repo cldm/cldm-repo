@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLIMON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/climon.cld"
+  "http://cldm.github.io/cldm-repo/cld/climon.cld"
   :DESCRIPTION
   "The Simon game."
   :AUTHOR

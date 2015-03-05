@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gd.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gd.cld"
   :DESCRIPTION
   "Interface to the GD graphics library"
   :VERSIONS

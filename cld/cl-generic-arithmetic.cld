@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GENERIC-ARITHMETIC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-generic-arithmetic.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-generic-arithmetic.cld"
   :DESCRIPTION
   "The COMMON-LISP package with generic numerical operators."
   :AUTHOR

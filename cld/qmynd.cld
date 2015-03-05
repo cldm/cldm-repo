@@ -2,7 +2,7 @@
 
 (DEFLIBRARY QMYND
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/qmynd.cld"
+  "http://cldm.github.io/cldm-repo/cld/qmynd.cld"
   :DESCRIPTION
   "MySQL Native Driver"
   :AUTHOR

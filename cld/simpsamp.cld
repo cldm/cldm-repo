@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SIMPSAMP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/simpsamp.cld"
+  "http://cldm.github.io/cldm-repo/cld/simpsamp.cld"
   :DESCRIPTION
   "Fast algorithms for simple random sampling from sets,
 without replacement."

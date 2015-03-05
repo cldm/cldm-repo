@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-EPOCH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-epoch.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-epoch.cld"
   :DESCRIPTION
   "Converts between CL Universal Time and UNIX Epoch Time"
   :AUTHOR

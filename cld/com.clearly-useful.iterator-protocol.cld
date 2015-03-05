@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COM.CLEARLY-USEFUL.ITERATOR-PROTOCOL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.iterator-protocol.cld"
+  "http://cldm.github.io/cldm-repo/cld/com.clearly-useful.iterator-protocol.cld"
   :DESCRIPTION
   "A simple iterator protocol for Common Lisp."
   :AUTHOR

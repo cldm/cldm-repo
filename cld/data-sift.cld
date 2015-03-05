@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DATA-SIFT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/data-sift.cld"
+  "http://cldm.github.io/cldm-repo/cld/data-sift.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/data-sift/2013-01-28/data-sift-20130128-git.tgz"))) :DEPENDS-ON
     (#:CL-PPCRE #:PARSE-NUMBER #:ALEXANDRIA #:PURI))))

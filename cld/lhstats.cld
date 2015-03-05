@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LHSTATS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lhstats.cld"
+  "http://cldm.github.io/cldm-repo/cld/lhstats.cld"
   :DESCRIPTION
   "Statistical functions by Larry Hunter and Jeff Shrager."
   :AUTHOR

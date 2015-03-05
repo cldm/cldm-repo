@@ -2,7 +2,7 @@
 
 (deflibrary djula
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/djula.cld"
+  "http://cldm.github.io/cldm-repo/cld/djula.cld"
   :DESCRIPTION
   "An implementation of Django templates for Common Lisp."
   :AUTHOR
@@ -14,7 +14,7 @@
   :VERSIONS
   ((:version "latest"
 	     :repositories
-	     ((:github (:git "git@github.com:mmontone/djula.git")))
+	     ((:github (:git "git@github.com:cldm/djula.git")))
 	     :depends-on (#:access
 			  #:alexandria
 			  #:anaphora

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-NEO4J
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-neo4j.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-neo4j.cld"
   :DESCRIPTION
   "neo4j RESTful Client Interface"
   :AUTHOR

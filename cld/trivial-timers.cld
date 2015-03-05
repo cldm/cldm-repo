@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-TIMERS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-timers.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-timers.cld"
   :DESCRIPTION
   "Trivial timer library"
   :AUTHOR

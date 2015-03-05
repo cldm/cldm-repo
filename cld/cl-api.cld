@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-API
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-api.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-api.cld"
   :DESCRIPTION
   "Simple API HTML generator"
   :AUTHOR

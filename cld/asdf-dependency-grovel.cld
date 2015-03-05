@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ASDF-DEPENDENCY-GROVEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/asdf-dependency-grovel.cld"
+  "http://cldm.github.io/cldm-repo/cld/asdf-dependency-grovel.cld"
   :DESCRIPTION
   "Analyse the dependencies in an ASDF system"
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-EWKB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ewkb.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ewkb.cld"
   :DESCRIPTION
   "cl-ewkb is a geospatial library, based on cl-wkb, that implements the OGC Well-Known Binary geographic geometry data model with PostGIS 3d, 4d extensions, and provides WKB and EWKB encoding and decoding functionality. cl-wkb author is J.P. Larocue."
   :AUTHOR

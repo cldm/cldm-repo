@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COLLEEN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/colleen.cld"
+  "http://cldm.github.io/cldm-repo/cld/colleen.cld"
   :DESCRIPTION
   "IRC bot with a modular framework."
   :AUTHOR

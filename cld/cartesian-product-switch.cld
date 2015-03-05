@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CARTESIAN-PRODUCT-SWITCH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cartesian-product-switch.cld"
+  "http://cldm.github.io/cldm-repo/cld/cartesian-product-switch.cld"
   :DESCRIPTION
   "CARTESIAN-PRODUCT-SWITCH is a macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to."
   :AUTHOR

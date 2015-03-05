@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RECUR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/recur.cld"
+  "http://cldm.github.io/cldm-repo/cld/recur.cld"
   :DESCRIPTION
   "A simple alternative to Scheme's named-LET."
   :AUTHOR

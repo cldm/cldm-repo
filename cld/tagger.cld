@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TAGGER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/tagger.cld"
+  "http://cldm.github.io/cldm-repo/cld/tagger.cld"
   :DESCRIPTION
   "The Xerox Part-of-Speech Tagger Version 1.2"
   :AUTHOR

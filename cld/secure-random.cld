@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SECURE-RANDOM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/secure-random.cld"
+  "http://cldm.github.io/cldm-repo/cld/secure-random.cld"
   :VERSIONS
   ((:VERSION "0.1.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/secure-random/2014-05-25/secure-random-20140525-git.tgz")))
     :DEPENDS-ON (#:CL+SSL))))

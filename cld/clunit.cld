@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLUNIT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clunit.cld"
+  "http://cldm.github.io/cldm-repo/cld/clunit.cld"
   :DESCRIPTION
   "CLUnit is a Common Lisp unit testing framework."
   :AUTHOR

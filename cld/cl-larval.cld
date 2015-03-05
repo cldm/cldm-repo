@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LARVAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-larval.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-larval.cld"
   :DESCRIPTION
   "Lisp syntax for assembler for AVR microcontrollers"
   :AUTHOR

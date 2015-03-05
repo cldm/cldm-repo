@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COLESLAW
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/coleslaw.cld"
+  "http://cldm.github.io/cldm-repo/cld/coleslaw.cld"
   :DESCRIPTION
   "Flexible Lisp Blogware"
   :AUTHOR

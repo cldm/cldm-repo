@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SB-VECTOR-IO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sb-vector-io.cld"
+  "http://cldm.github.io/cldm-repo/cld/sb-vector-io.cld"
   :DESCRIPTION
   "Raw vector IO for SBCL."
   :AUTHOR

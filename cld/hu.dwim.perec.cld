@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.PEREC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.perec.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.perec.cld"
   :DESCRIPTION
   "RDBMS based persistent CLOS, an object relational mapping (ORM)."
   :VERSIONS

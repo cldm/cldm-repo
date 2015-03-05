@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PAYMILL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-paymill.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-paymill.cld"
   :DESCRIPTION
   "CL-PAYMILL is a common lisp interface to the Paymill
     payment service API.  See https://www.paymill.com/"

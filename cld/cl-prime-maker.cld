@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PRIME-MAKER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-prime-maker.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-prime-maker.cld"
   :DESCRIPTION
   "
 A simple library to generate big prime numbers in a fast way. But in some cases, the generated number is not a prime number (these are called pseudo-primes).

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LASSIE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lassie.cld"
+  "http://cldm.github.io/cldm-repo/cld/lassie.cld"
   :DESCRIPTION
   "Library for Latent Semantic Indexing."
   :AUTHOR

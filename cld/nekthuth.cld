@@ -2,7 +2,7 @@
 
 (DEFLIBRARY NEKTHUTH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/nekthuth.cld"
+  "http://cldm.github.io/cldm-repo/cld/nekthuth.cld"
   :DESCRIPTION
   "Connection with a Lisp"
   :AUTHOR

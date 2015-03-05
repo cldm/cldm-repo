@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-QUICKCHECK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-quickcheck.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-quickcheck.cld"
   :DESCRIPTION
   "Common Lisp port of the QuickCheck unit test framework"
   :AUTHOR

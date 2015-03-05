@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CFFI-OBJECTS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cffi-objects.cld"
+  "http://cldm.github.io/cldm-repo/cld/cffi-objects.cld"
   :DESCRIPTION
   "CFFI in-place replacement with object wrappers, structs and arrays"
   :AUTHOR

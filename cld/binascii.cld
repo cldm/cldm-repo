@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BINASCII
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/binascii.cld"
+  "http://cldm.github.io/cldm-repo/cld/binascii.cld"
   :DESCRIPTION
   "A library of ASCII encoding schemes for binary data"
   :AUTHOR

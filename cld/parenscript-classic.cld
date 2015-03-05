@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARENSCRIPT-CLASSIC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parenscript-classic.cld"
+  "http://cldm.github.io/cldm-repo/cld/parenscript-classic.cld"
   :DESCRIPTION
   "js - javascript compiler"
   :AUTHOR

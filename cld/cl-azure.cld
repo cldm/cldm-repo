@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-AZURE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-azure.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-azure.cld"
   :DESCRIPTION
   "A Windows Azure library for Common Lisp."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HERMETIC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hermetic.cld"
+  "http://cldm.github.io/cldm-repo/cld/hermetic.cld"
   :DESCRIPTION
   ""
   :AUTHOR

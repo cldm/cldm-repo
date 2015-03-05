@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PAYPAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-paypal.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-paypal.cld"
   :DESCRIPTION
   "A paypal express checkout API in Common Lisp."
   :AUTHOR

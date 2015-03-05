@@ -2,7 +2,7 @@
 
 (DEFLIBRARY QUEUES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/queues.cld"
+  "http://cldm.github.io/cldm-repo/cld/queues.cld"
   :DESCRIPTION
   "A queue interface -- used to create and
 manipulate queue structures from simple-queue, priority-queue,

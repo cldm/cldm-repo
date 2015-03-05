@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CARAMEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/caramel.cld"
+  "http://cldm.github.io/cldm-repo/cld/caramel.cld"
   :DESCRIPTION
   "CSS selector-based template engine for Common Lisp"
   :AUTHOR

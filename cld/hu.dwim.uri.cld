@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.URI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.uri.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.uri.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hu.dwim.uri/2013-03-12/hu.dwim.uri-20130312-darcs.tgz"))) :DEPENDS-ON
     (:BABEL :CL-PPCRE :HU.DWIM.UTIL :IOLIB))))

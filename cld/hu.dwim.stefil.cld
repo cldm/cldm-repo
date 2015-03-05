@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.STEFIL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.stefil.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.stefil.cld"
   :DESCRIPTION
   "A Simple Test Framework In Lisp."
   :VERSIONS

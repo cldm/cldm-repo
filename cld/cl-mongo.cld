@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MONGO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mongo.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mongo.cld"
   :DESCRIPTION
   "lisp system to interact with mongodb, a non-sql db"
   :AUTHOR

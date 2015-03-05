@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COLLECTORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/collectors.cld"
+  "http://cldm.github.io/cldm-repo/cld/collectors.cld"
   :DESCRIPTION
   "A library providing various collector type macros
    pulled from arnesi into its own library and stripped of dependencies"

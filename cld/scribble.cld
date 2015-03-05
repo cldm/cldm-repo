@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SCRIBBLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/scribble.cld"
+  "http://cldm.github.io/cldm-repo/cld/scribble.cld"
   :DESCRIPTION
   "Syntax extensions akin to Racket's Scribble and Bigloo's Skribe"
   :VERSIONS

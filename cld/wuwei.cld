@@ -2,7 +2,7 @@
 
 (DEFLIBRARY WUWEI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/wuwei.cld"
+  "http://cldm.github.io/cldm-repo/cld/wuwei.cld"
   :DESCRIPTION
   "Tools for developing Ajaxy web applications"
   :AUTHOR

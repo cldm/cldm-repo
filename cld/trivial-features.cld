@@ -2,7 +2,7 @@
 
 (CLDM:DEFLIBRARY TRIVIAL-FEATURES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-features.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-features.cld"
   :DESCRIPTION
   "Ensures consistent *FEATURES* across multiple CLs."
   :AUTHOR

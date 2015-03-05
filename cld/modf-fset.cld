@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MODF-FSET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/modf-fset.cld"
+  "http://cldm.github.io/cldm-repo/cld/modf-fset.cld"
   :AUTHOR
   "Zachary Smith <zachkostsmith@gmail.com>"
   :LICENCE

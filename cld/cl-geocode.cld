@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GEOCODE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-geocode.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-geocode.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

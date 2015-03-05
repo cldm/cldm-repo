@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ATDOC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/atdoc.cld"
+  "http://cldm.github.io/cldm-repo/cld/atdoc.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

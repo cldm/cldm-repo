@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TYPESETTING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-typesetting.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-typesetting.cld"
   :DESCRIPTION
   "Common Lisp Typesetting system"
   :AUTHOR

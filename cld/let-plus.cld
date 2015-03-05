@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LET-PLUS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/let-plus.cld"
+  "http://cldm.github.io/cldm-repo/cld/let-plus.cld"
   :DESCRIPTION
   "Destructuring extension of LET*."
   :AUTHOR

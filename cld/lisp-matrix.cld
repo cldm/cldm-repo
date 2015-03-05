@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISP-MATRIX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lisp-matrix.cld"
+  "http://cldm.github.io/cldm-repo/cld/lisp-matrix.cld"
   :DESCRIPTION
   "linear algebra library"
   :AUTHOR

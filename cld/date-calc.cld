@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DATE-CALC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/date-calc.cld"
+  "http://cldm.github.io/cldm-repo/cld/date-calc.cld"
   :DESCRIPTION
   "Package for simple date calculation"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PGLOADER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pgloader.cld"
+  "http://cldm.github.io/cldm-repo/cld/pgloader.cld"
   :DESCRIPTION
   "Load data into PostgreSQL"
   :AUTHOR

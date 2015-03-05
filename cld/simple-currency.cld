@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SIMPLE-CURRENCY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/simple-currency.cld"
+  "http://cldm.github.io/cldm-repo/cld/simple-currency.cld"
   :DESCRIPTION
   "SIMPLE-CURRENCY provides conversions between
     currencies using data published daily by the European Central

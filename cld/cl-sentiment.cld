@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SENTIMENT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-sentiment.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-sentiment.cld"
   :DESCRIPTION
   "A sentiment analysis library for Common Lisp."
   :AUTHOR

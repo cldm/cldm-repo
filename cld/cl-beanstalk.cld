@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BEANSTALK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-beanstalk.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-beanstalk.cld"
   :DESCRIPTION
   "An interface to the beanstalk queue server"
   :VERSIONS

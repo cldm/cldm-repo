@@ -2,7 +2,7 @@
 
 (DEFLIBRARY THREAD-POOL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/thread-pool.cld"
+  "http://cldm.github.io/cldm-repo/cld/thread-pool.cld"
   :AUTHOR
   "Andrea Chiumenti"
   :LICENCE

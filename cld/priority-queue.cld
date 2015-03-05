@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PRIORITY-QUEUE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/priority-queue.cld"
+  "http://cldm.github.io/cldm-repo/cld/priority-queue.cld"
   :DESCRIPTION
   "A priority queue for Common Lisp."
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFMACRO-ENHANCE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/defmacro-enhance.cld"
+  "http://cldm.github.io/cldm-repo/cld/defmacro-enhance.cld"
   :DESCRIPTION
   "Deformation of defmacro to defmacro!, macrolet to macrolet! etc. in spirit of let-over-lambda."
   :AUTHOR

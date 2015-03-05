@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UNICLY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/unicly.cld"
+  "http://cldm.github.io/cldm-repo/cld/unicly.cld"
   :DESCRIPTION
   "UUID Generation per RFC 4122"
   :MAINTAINER

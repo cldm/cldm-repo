@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-POPEN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-popen.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-popen.cld"
   :MAINTAINER
   "Moskvitin Andrey <archimag@gmail.com>"
   :VERSIONS

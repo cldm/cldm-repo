@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CAVEMAN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/caveman.cld"
+  "http://cldm.github.io/cldm-repo/cld/caveman.cld"
   :DESCRIPTION
   "Web Application Framework for Common Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-XML-RPC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-xml-rpc.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-xml-rpc.cld"
   :DESCRIPTION
   "Common Lisp XML-RPC Package"
   :AUTHOR

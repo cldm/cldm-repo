@@ -2,7 +2,7 @@
 
 (DEFLIBRARY 3B-SWF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/3b-swf.cld"
+  "http://cldm.github.io/cldm-repo/cld/3b-swf.cld"
   :DESCRIPTION
   "Common Lisp .swf file manipulation library"
   :VERSIONS

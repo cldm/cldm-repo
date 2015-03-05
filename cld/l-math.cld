@@ -2,7 +2,7 @@
 
 (DEFLIBRARY L-MATH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/l-math.cld"
+  "http://cldm.github.io/cldm-repo/cld/l-math.cld"
   :DESCRIPTION
   "A simple math library focused on linear algebra."
   :AUTHOR

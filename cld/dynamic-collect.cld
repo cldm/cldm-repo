@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DYNAMIC-COLLECT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/dynamic-collect.cld"
+  "http://cldm.github.io/cldm-repo/cld/dynamic-collect.cld"
   :DESCRIPTION
   "A library for dynamic, continuable, and abortable collection."
   :AUTHOR

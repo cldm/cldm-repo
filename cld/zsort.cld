@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZSORT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zsort.cld"
+  "http://cldm.github.io/cldm-repo/cld/zsort.cld"
   :DESCRIPTION
   "zsort is a collection of portable sorting algorithms."
   :AUTHOR

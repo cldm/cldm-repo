@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MECHANIZE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mechanize.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mechanize.cld"
   :DESCRIPTION
   "A WWW::Mechanize work-alike"
   :AUTHOR

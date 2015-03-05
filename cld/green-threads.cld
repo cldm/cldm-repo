@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GREEN-THREADS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/green-threads.cld"
+  "http://cldm.github.io/cldm-repo/cld/green-threads.cld"
   :DESCRIPTION
   "A lightweight threading / cooperative multitasking library."
   :AUTHOR

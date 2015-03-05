@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.RDBMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.rdbms.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.rdbms.cld"
   :DESCRIPTION
   "Relational database independent RDBMS and SQL abstractions."
   :VERSIONS

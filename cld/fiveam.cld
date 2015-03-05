@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FIVEAM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fiveam.cld"
+  "http://cldm.github.io/cldm-repo/cld/fiveam.cld"
   :DESCRIPTION
   "A simple regression testing framework"
   :AUTHOR

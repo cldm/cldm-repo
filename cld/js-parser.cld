@@ -2,7 +2,7 @@
 
 (DEFLIBRARY JS-PARSER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/js-parser.cld"
+  "http://cldm.github.io/cldm-repo/cld/js-parser.cld"
   :AUTHOR
   "Red Daly"
   :LICENCE

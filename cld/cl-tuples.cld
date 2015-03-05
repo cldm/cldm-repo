@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TUPLES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-tuples.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-tuples.cld"
   :DESCRIPTION
   "Experimental Tuple Types Facade"
   :AUTHOR

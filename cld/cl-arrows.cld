@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ARROWS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-arrows.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-arrows.cld"
   :DESCRIPTION
   "Implements the -> and ->> from clojure"
   :AUTHOR

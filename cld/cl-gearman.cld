@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GEARMAN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gearman.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gearman.cld"
   :DESCRIPTION
   "Common Lisp Library for the Gearman distributed job system."
   :AUTHOR

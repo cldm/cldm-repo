@@ -2,7 +2,7 @@
 
 (DEFLIBRARY THREAD.COMM.RENDEZVOUS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/thread.comm.rendezvous.cld"
+  "http://cldm.github.io/cldm-repo/cld/thread.comm.rendezvous.cld"
   :DESCRIPTION
   "Rendezvous thread synchronization"
   :AUTHOR

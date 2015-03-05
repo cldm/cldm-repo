@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SMTP4CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/smtp4cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/smtp4cl.cld"
   :DESCRIPTION
   "SMTP4CL an SMTP library for Common Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XMLS-TOOLS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xmls-tools.cld"
+  "http://cldm.github.io/cldm-repo/cld/xmls-tools.cld"
   :AUTHOR
   "Robert Marlow <bobstopper@bobturf.org>"
   :MAINTAINER

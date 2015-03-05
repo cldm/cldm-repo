@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLX-TRUETYPE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clx-truetype.cld"
+  "http://cldm.github.io/cldm-repo/cld/clx-truetype.cld"
   :DESCRIPTION
   "clx-truetype is pure common lisp solution for antialiased TrueType font rendering using CLX and XRender extension."
   :AUTHOR

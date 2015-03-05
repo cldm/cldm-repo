@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XML.LOCATION
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xml.location.cld"
+  "http://cldm.github.io/cldm-repo/cld/xml.location.cld"
   :DESCRIPTION
   "This system provides a convenient interface for
  manipulating XML data. It is inspired by the xmltio library."

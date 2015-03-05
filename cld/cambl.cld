@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CAMBL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cambl.cld"
+  "http://cldm.github.io/cldm-repo/cld/cambl.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

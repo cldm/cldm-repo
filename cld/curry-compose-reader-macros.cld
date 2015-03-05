@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CURRY-COMPOSE-READER-MACROS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/curry-compose-reader-macros.cld"
+  "http://cldm.github.io/cldm-repo/cld/curry-compose-reader-macros.cld"
   :DESCRIPTION
   "reader macros for concise function partial application and composition"
   :AUTHOR

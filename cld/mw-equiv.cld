@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MW-EQUIV
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mw-equiv.cld"
+  "http://cldm.github.io/cldm-repo/cld/mw-equiv.cld"
   :DESCRIPTION
   "Extensible object equivalence protocol"
   :AUTHOR

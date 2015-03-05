@@ -2,7 +2,7 @@
 
 (DEFLIBRARY OPTIMA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/optima.cld"
+  "http://cldm.github.io/cldm-repo/cld/optima.cld"
   :DESCRIPTION
   "Optimized Pattern Matching Library"
   :AUTHOR

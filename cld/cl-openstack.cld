@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-OPENSTACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-openstack.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-openstack.cld"
   :DESCRIPTION
   "Openstack RPC"
   :VERSIONS

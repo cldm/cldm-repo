@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BK-TREE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/bk-tree.cld"
+  "http://cldm.github.io/cldm-repo/cld/bk-tree.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

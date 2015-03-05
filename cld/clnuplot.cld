@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLNUPLOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clnuplot.cld"
+  "http://cldm.github.io/cldm-repo/cld/clnuplot.cld"
   :DESCRIPTION
   "Common Lisp interface to GNUPlot."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MAP-SET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/map-set.cld"
+  "http://cldm.github.io/cldm-repo/cld/map-set.cld"
   :DESCRIPTION
   "Set-like data structure."
   :AUTHOR

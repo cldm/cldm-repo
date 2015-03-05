@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-APPLE-PLIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-apple-plist.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-apple-plist.cld"
   :DESCRIPTION
   "Encodes Common Lisp data structures in Apple property list XML format (.plist)."
   :AUTHOR

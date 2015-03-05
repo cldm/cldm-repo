@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLSQL-HELPER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clsql-helper.cld"
+  "http://cldm.github.io/cldm-repo/cld/clsql-helper.cld"
   :DESCRIPTION
   "A library providing a clutch of utilities to make working with clsql easier"
   :LICENCE

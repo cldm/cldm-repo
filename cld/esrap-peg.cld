@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ESRAP-PEG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/esrap-peg.cld"
+  "http://cldm.github.io/cldm-repo/cld/esrap-peg.cld"
   :DESCRIPTION
   "A wrapper around Esrap to allow generating Esrap grammars from PEG definitions"
   :AUTHOR

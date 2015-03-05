@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLSQL-FLUID
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clsql-fluid.cld"
+  "http://cldm.github.io/cldm-repo/cld/clsql-fluid.cld"
   :DESCRIPTION
   "Common Lisp SQL Fluid Connection Pools"
   :AUTHOR

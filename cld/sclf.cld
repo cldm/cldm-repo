@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SCLF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sclf.cld"
+  "http://cldm.github.io/cldm-repo/cld/sclf.cld"
   :DESCRIPTION
   "Stray Common Lisp Functions"
   :AUTHOR

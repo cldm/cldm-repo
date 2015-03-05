@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HAML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-haml.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-haml.cld"
   :DESCRIPTION
   "Haml like XHTML generator."
   :AUTHOR

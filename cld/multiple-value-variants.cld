@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MULTIPLE-VALUE-VARIANTS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/multiple-value-variants.cld"
+  "http://cldm.github.io/cldm-repo/cld/multiple-value-variants.cld"
   :DESCRIPTION
   "Gives access to multiple-value variants of operators through one macro: MULTIPLE-VALUE. There are built-in variants for some standard operators; it's easy to create your own variants for other operators. The multiple-value mapping operators are especially useful."
   :AUTHOR

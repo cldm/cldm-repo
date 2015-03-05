@@ -2,7 +2,7 @@
 
 (DEFLIBRARY OPTICL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/opticl.cld"
+  "http://cldm.github.io/cldm-repo/cld/opticl.cld"
   :DESCRIPTION
   "A library for representing and processing images"
   :AUTHOR

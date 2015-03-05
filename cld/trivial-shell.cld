@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-SHELL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-shell.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-shell.cld"
   :DESCRIPTION
   "OS and Implementation independent access to the shell"
   :AUTHOR

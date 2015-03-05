@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STMX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stmx.cld"
+  "http://cldm.github.io/cldm-repo/cld/stmx.cld"
   :DESCRIPTION
   "Composable Software Transactional Memory"
   :AUTHOR

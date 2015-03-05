@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XHTMLGEN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xhtmlgen.cld"
+  "http://cldm.github.io/cldm-repo/cld/xhtmlgen.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/xhtmlgen/2013-01-28/xhtmlgen-20130128-git.tgz"))) :DEPENDS-ON
     (:CXML))))

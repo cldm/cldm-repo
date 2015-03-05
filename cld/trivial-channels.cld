@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-CHANNELS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-channels.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-channels.cld"
   :DESCRIPTION
   "Really simple channels and queue"
   :AUTHOR

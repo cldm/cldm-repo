@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZS3
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zs3.cld"
+  "http://cldm.github.io/cldm-repo/cld/zs3.cld"
   :DESCRIPTION
   "A Common Lisp library for working with Amazon's Simple
   Storage Service (S3) and CloudFront content delivery service."

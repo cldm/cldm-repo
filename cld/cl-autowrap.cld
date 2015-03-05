@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-AUTOWRAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-autowrap.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-autowrap.cld"
   :DESCRIPTION
   "Import c2ffi specs and generate CFFI wrappers"
   :AUTHOR

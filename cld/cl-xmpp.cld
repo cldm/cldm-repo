@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-XMPP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-xmpp.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-xmpp.cld"
   :DESCRIPTION
   "Common Lisp XMPP client implementation"
   :AUTHOR

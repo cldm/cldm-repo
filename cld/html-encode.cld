@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HTML-ENCODE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/html-encode.cld"
+  "http://cldm.github.io/cldm-repo/cld/html-encode.cld"
   :DESCRIPTION
   "A library for encoding text in various web-savvy encodings."
   :AUTHOR

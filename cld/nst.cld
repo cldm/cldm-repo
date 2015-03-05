@@ -2,7 +2,7 @@
 
 (DEFLIBRARY NST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/nst.cld"
+  "http://cldm.github.io/cldm-repo/cld/nst.cld"
   :DESCRIPTION
   "The NST unit/regression testing system"
   :AUTHOR

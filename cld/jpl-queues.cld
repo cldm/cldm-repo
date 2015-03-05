@@ -2,7 +2,7 @@
 
 (DEFLIBRARY JPL-QUEUES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/jpl-queues.cld"
+  "http://cldm.github.io/cldm-repo/cld/jpl-queues.cld"
   :DESCRIPTION
   "A few different kinds of queues, with optional
 multithreading synchronization."

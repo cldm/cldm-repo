@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MOPTILITIES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/moptilities.cld"
+  "http://cldm.github.io/cldm-repo/cld/moptilities.cld"
   :DESCRIPTION
   "Common Lisp MOP utilities"
   :AUTHOR

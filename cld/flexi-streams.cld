@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY FLEXI-STREAMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/flexi-streams.cld"
+  "http://cldm.github.io/cldm-repo/cld/flexi-streams.cld"
   :DESCRIPTION
   "Flexible bivalent streams for Common Lisp"
   :VERSIONS

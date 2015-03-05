@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EXTERNAL-PROGRAM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/external-program.cld"
+  "http://cldm.github.io/cldm-repo/cld/external-program.cld"
   :AUTHOR
   "Greg Pfeil <greg@technomadic.org>"
   :LICENCE

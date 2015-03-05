@@ -2,7 +2,7 @@
 
 (DEFLIBRARY READABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/readable.cld"
+  "http://cldm.github.io/cldm-repo/cld/readable.cld"
   :DESCRIPTION
   "Support 'readable' extensions to Lisp s-expressions"
   :AUTHOR

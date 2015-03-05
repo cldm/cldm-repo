@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CH-IMAGE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ch-image.cld"
+  "http://cldm.github.io/cldm-repo/cld/ch-image.cld"
   :DESCRIPTION
   "image representation and processing"
   :AUTHOR

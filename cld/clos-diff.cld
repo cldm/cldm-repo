@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLOS-DIFF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clos-diff.cld"
+  "http://cldm.github.io/cldm-repo/cld/clos-diff.cld"
   :AUTHOR
   "Krzysztof Drewniak <krzysdrewniak <AT> gmail.com>"
   :LICENCE

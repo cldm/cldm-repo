@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SEXML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sexml.cld"
+  "http://cldm.github.io/cldm-repo/cld/sexml.cld"
   :DESCRIPTION
   "s-expressions for xml is a library which provides a sugar-sweet s-expression syntax for spitting out xml documents based on a DTD"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-STRING-MATCH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-string-match.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-string-match.cld"
   :DESCRIPTION
   "Provides implementations of the standard sub-string search (string
 matching) algorithms: brute-force, Boyer-Moore, Rabin-Karp, etc."

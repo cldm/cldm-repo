@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-REDIS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-redis.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-redis.cld"
   :DESCRIPTION
   "A fast and robust Common Lisp client for Redis"
   :AUTHOR

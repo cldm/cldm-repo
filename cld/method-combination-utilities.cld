@@ -2,7 +2,7 @@
 
 (DEFLIBRARY METHOD-COMBINATION-UTILITIES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/method-combination-utilities.cld"
+  "http://cldm.github.io/cldm-repo/cld/method-combination-utilities.cld"
   :DESCRIPTION
   "Various method combinations and utilities to make it easy to
                 create new method combinations."

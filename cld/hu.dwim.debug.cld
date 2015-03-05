@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.DEBUG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.debug.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.debug.cld"
   :DESCRIPTION
   "Various debug utilities such as lexical tracing, etc."
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MAP-BIND
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/map-bind.cld"
+  "http://cldm.github.io/cldm-repo/cld/map-bind.cld"
   :DESCRIPTION
   "MAP-BIND is a macro that allows visual grouping of variables with their corresponding values (not necessarily 1:1) in calls to mapping operators when using an inline LAMBDA. It does so in a way that automatically supports virtually every existing and future mapping operator, all lambda keywords and FUNCALL/APPLY/MULTIPLE-VALUE-CALL variations."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-JSON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-json.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-json.cld"
   :DESCRIPTION
   "JSON in Lisp. JSON (JavaScript Object Notation) is a lightweight data-interchange format."
   :MAINTAINER

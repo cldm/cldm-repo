@@ -2,7 +2,7 @@
 
 (DEFLIBRARY WEBLOCKS-UTILS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/weblocks-utils.cld"
+  "http://cldm.github.io/cldm-repo/cld/weblocks-utils.cld"
   :DESCRIPTION
   "Utils for weblocks framework"
   :AUTHOR

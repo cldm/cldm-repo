@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MURMURHASH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-murmurhash.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-murmurhash.cld"
   :DESCRIPTION
   "32-bit version of MurmurHash3."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.QUASI-QUOTE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.quasi-quote.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.quasi-quote.cld"
   :DESCRIPTION
   "Quasi quoted domain specific languages and transformations."
   :VERSIONS

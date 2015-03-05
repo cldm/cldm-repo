@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-YACLYAML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-yaclyaml.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-yaclyaml.cld"
   :DESCRIPTION
   "Yet Another Common Lisp YaML processor."
   :AUTHOR

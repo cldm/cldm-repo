@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HYPEROBJECT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hyperobject.cld"
+  "http://cldm.github.io/cldm-repo/cld/hyperobject.cld"
   :AUTHOR
   "Kevin M. Rosenberg <kevin@rosenberg.net>"
   :MAINTAINER

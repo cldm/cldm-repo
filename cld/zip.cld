@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZIP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zip.cld"
+  "http://cldm.github.io/cldm-repo/cld/zip.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/zip/2010-11-07/zip-20101107-cvs.tgz"))) :DEPENDS-ON
     (:SALZA2 :TRIVIAL-GRAY-STREAMS :FLEXI-STREAMS))))

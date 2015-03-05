@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INFIX-DOLLAR-READER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/infix-dollar-reader.cld"
+  "http://cldm.github.io/cldm-repo/cld/infix-dollar-reader.cld"
   :DESCRIPTION
   "Infix $ operator for reducing redundant parenthesis"
   :AUTHOR

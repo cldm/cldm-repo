@@ -2,7 +2,7 @@
 
 (DEFLIBRARY USERIAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/userial.cld"
+  "http://cldm.github.io/cldm-repo/cld/userial.cld"
   :DESCRIPTION
   "userial: a serialization library for binary message encoding."
   :AUTHOR

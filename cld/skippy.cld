@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SKIPPY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/skippy.cld"
+  "http://cldm.github.io/cldm-repo/cld/skippy.cld"
   :DESCRIPTION
   "Read and write GIF files"
   :AUTHOR

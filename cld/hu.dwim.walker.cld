@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.WALKER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.walker.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.walker.cld"
   :DESCRIPTION
   "Common Lisp form walker and unwalker (to and from CLOS instances)."
   :AUTHOR

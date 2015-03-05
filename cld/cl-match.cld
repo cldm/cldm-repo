@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MATCH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-match.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-match.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-match/2012-11-25/cl-match-20121125-git.tgz"))) :DEPENDS-ON
     (:STANDARD-CL))))

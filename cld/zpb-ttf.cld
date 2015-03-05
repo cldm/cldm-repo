@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZPB-TTF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zpb-ttf.cld"
+  "http://cldm.github.io/cldm-repo/cld/zpb-ttf.cld"
   :DESCRIPTION
   "Access TrueType font metrics and outlines from Common Lisp"
   :AUTHOR

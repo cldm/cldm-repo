@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XML-MOP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xml-mop.cld"
+  "http://cldm.github.io/cldm-repo/cld/xml-mop.cld"
   :DESCRIPTION
   "xml-mop allows representing parts of XML documents as CLOS objects"
   :AUTHOR

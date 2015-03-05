@@ -2,6 +2,6 @@
 
 (DEFLIBRARY CL-NCURSES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ncurses.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ncurses.cld"
   :VERSIONS
   ((:VERSION "0.1.4" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-ncurses/2010-10-06/cl-ncurses_0.1.4.tgz"))) :DEPENDS-ON (:UFFI))))

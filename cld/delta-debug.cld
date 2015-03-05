@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DELTA-DEBUG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/delta-debug.cld"
+  "http://cldm.github.io/cldm-repo/cld/delta-debug.cld"
   :DESCRIPTION
   "implementation of delta debugging in common lisp"
   :AUTHOR

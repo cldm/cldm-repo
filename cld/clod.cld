@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLOD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clod.cld"
+  "http://cldm.github.io/cldm-repo/cld/clod.cld"
   :DESCRIPTION
   "Common Lisp Autodoc generator"
   :AUTHOR

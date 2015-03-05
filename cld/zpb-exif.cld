@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZPB-EXIF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zpb-exif.cld"
+  "http://cldm.github.io/cldm-repo/cld/zpb-exif.cld"
   :DESCRIPTION
   "Read EXIF data from image files"
   :AUTHOR

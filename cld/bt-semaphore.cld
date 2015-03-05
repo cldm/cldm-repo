@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BT-SEMAPHORE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/bt-semaphore.cld"
+  "http://cldm.github.io/cldm-repo/cld/bt-semaphore.cld"
   :DESCRIPTION
   "A simple semaphore class for bordeaux-threads inspired by SBCL's semaphore."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DLIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/dlist.cld"
+  "http://cldm.github.io/cldm-repo/cld/dlist.cld"
   :DESCRIPTION
   "An implementation of the doubly-linked list in Common Lisp."
   :AUTHOR

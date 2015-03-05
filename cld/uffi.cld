@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UFFI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/uffi.cld"
+  "http://cldm.github.io/cldm-repo/cld/uffi.cld"
   :DESCRIPTION
   "Universal Foreign Function Library for Common Lisp"
   :AUTHOR

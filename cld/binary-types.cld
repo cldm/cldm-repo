@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BINARY-TYPES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/binary-types.cld"
+  "http://cldm.github.io/cldm-repo/cld/binary-types.cld"
   :DESCRIPTION
   "A library for reading and writing binary records."
   :AUTHOR

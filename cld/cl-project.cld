@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PROJECT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-project.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-project.cld"
   :DESCRIPTION
   "Generate a skeleton for modern project"
   :AUTHOR

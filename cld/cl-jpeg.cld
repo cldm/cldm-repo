@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-JPEG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-jpeg.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-jpeg.cld"
   :LICENCE
   "BSD"
   :VERSIONS

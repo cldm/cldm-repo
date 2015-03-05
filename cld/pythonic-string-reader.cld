@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PYTHONIC-STRING-READER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pythonic-string-reader.cld"
+  "http://cldm.github.io/cldm-repo/cld/pythonic-string-reader.cld"
   :DESCRIPTION
   "A simple and unintrusive read table modification that allows for
 simple string literal definition that doesn't require escaping characters."

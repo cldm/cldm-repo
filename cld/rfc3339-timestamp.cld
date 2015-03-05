@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RFC3339-TIMESTAMP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/rfc3339-timestamp.cld"
+  "http://cldm.github.io/cldm-repo/cld/rfc3339-timestamp.cld"
   :DESCRIPTION
   "A Common Lisp implementation of timestamps as defined by RFC3339"
   :AUTHOR

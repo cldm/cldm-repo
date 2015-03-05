@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PLUMBING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-plumbing.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-plumbing.cld"
   :DESCRIPTION
   "A few (at least seemingly) missing stream operations in Common Lisp."
   :AUTHOR

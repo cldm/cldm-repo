@@ -2,7 +2,7 @@
 
 (DEFLIBRARY AYAH-CAPTCHA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ayah-captcha.cld"
+  "http://cldm.github.io/cldm-repo/cld/ayah-captcha.cld"
   :DESCRIPTION
   "A simple interface to the API of the play-thru captcha of areYouAHuman.com"
   :AUTHOR

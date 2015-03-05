@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HEREDOC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-heredoc.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-heredoc.cld"
   :DESCRIPTION
   "Common Lisp reader heredoc dispatcher"
   :AUTHOR

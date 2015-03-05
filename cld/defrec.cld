@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFREC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/defrec.cld"
+  "http://cldm.github.io/cldm-repo/cld/defrec.cld"
   :DESCRIPTION
   "A library for defining top-level mutually recursive functions."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TEEPEEDEE2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/teepeedee2.cld"
+  "http://cldm.github.io/cldm-repo/cld/teepeedee2.cld"
   :DESCRIPTION
   "Multiprotocol fast networking framework"
   :AUTHOR

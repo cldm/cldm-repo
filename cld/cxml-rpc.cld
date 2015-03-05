@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CXML-RPC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cxml-rpc.cld"
+  "http://cldm.github.io/cldm-repo/cld/cxml-rpc.cld"
   :DESCRIPTION
   "An XML-RPC interface for Common Lisp"
   :VERSIONS

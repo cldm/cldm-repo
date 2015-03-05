@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LW-COMPAT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lw-compat.cld"
+  "http://cldm.github.io/cldm-repo/cld/lw-compat.cld"
   :AUTHOR
   "Pascal Costanza, with permission from http://www.lispworks.com"
   :LICENCE

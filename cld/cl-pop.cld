@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-POP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-pop.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-pop.cld"
   :VERSIONS
   ((:VERSION "0.2.0" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-pop/2011-04-18/cl-pop-20110418-http.tgz"))) :DEPENDS-ON
     (:USOCKET :CL-PPCRE))))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BUILDAPP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/buildapp.cld"
+  "http://cldm.github.io/cldm-repo/cld/buildapp.cld"
   :DESCRIPTION
   "Buildapp is an application for SBCL that configures
   and saves an executable Common Lisp image or non-executable core."

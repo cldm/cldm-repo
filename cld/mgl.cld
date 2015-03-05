@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MGL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mgl.cld"
+  "http://cldm.github.io/cldm-repo/cld/mgl.cld"
   :AUTHOR
   "Gabor Melis"
   :LICENCE

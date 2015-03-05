@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clot.cld"
+  "http://cldm.github.io/cldm-repo/cld/clot.cld"
   :DESCRIPTION
   "Cheap Lisp plOTting library"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LAMBDA-READER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lambda-reader.cld"
+  "http://cldm.github.io/cldm-repo/cld/lambda-reader.cld"
   :DESCRIPTION
   "Use unicode character λ for LAMBDA in reader and printer"
   :VERSIONS

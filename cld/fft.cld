@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FFT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fft.cld"
+  "http://cldm.github.io/cldm-repo/cld/fft.cld"
   :AUTHOR
   "Patrick Stein <pat@nklein.com>"
   :MAINTAINER

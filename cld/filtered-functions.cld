@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FILTERED-FUNCTIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/filtered-functions.cld"
+  "http://cldm.github.io/cldm-repo/cld/filtered-functions.cld"
   :AUTHOR
   "Pascal Costanza"
   :LICENCE

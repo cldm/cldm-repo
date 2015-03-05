@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY BABEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/babel.cld"
+  "http://cldm.github.io/cldm-repo/cld/babel.cld"
   :DESCRIPTION
   "Babel, a charset conversion library."
   :AUTHOR

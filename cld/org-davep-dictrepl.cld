@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ORG-DAVEP-DICTREPL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/org-davep-dictrepl.cld"
+  "http://cldm.github.io/cldm-repo/cld/org-davep-dictrepl.cld"
   :DESCRIPTION
   "RFC2229 client REPL-a-like for Common Lisp."
   :AUTHOR

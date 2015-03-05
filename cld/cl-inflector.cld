@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-INFLECTOR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-inflector.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-inflector.cld"
   :DESCRIPTION
   "Functions to pluralize and singularize english languages words"
   :LICENCE

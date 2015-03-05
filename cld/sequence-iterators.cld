@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SEQUENCE-ITERATORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sequence-iterators.cld"
+  "http://cldm.github.io/cldm-repo/cld/sequence-iterators.cld"
   :DESCRIPTION
   "DOSEQUENCE & Co."
   :AUTHOR

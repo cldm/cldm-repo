@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARENSCRIPT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parenscript.cld"
+  "http://cldm.github.io/cldm-repo/cld/parenscript.cld"
   :AUTHOR
   "Manuel Odendahl <manuel@bl0rg.net>"
   :MAINTAINER

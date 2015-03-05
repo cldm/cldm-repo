@@ -2,7 +2,7 @@
 
 (DEFLIBRARY METHOD-VERSIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/method-versions.cld"
+  "http://cldm.github.io/cldm-repo/cld/method-versions.cld"
   :DESCRIPTION
   "method-versions: package for creating versioned methods"
   :AUTHOR

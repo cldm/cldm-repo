@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LREDIS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lredis.cld"
+  "http://cldm.github.io/cldm-repo/cld/lredis.cld"
   :DESCRIPTION
   "Lisp Redis bindings"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PERIODS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/periods.cld"
+  "http://cldm.github.io/cldm-repo/cld/periods.cld"
   :DESCRIPTION
   "The intention of this code is to provide a convenient
 set of utilities for manipulating times, distances between times, and

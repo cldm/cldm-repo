@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-QPRINT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-qprint.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-qprint.cld"
   :DESCRIPTION
   "Encode and decode quoted-printable encoded strings."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MAILBOX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mailbox.cld"
+  "http://cldm.github.io/cldm-repo/cld/mailbox.cld"
   :DESCRIPTION
   "Simple multithreading mailboxes."
   :AUTHOR

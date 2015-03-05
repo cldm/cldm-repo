@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CONSIX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/consix.cld"
+  "http://cldm.github.io/cldm-repo/cld/consix.cld"
   :DESCRIPTION
   "Lispy Qix-like game in 7 days"
   :AUTHOR

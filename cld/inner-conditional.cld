@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INNER-CONDITIONAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/inner-conditional.cld"
+  "http://cldm.github.io/cldm-repo/cld/inner-conditional.cld"
   :DESCRIPTION
   "Series of macros which optimizes out the inner conditional jumping"
   :AUTHOR

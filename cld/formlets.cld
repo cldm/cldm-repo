@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FORMLETS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/formlets.cld"
+  "http://cldm.github.io/cldm-repo/cld/formlets.cld"
   :DESCRIPTION
   "Validating formlets for Hunchentoot"
   :AUTHOR

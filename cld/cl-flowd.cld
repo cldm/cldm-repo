@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-FLOWD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-flowd.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-flowd.cld"
   :DESCRIPTION
   "Native Lisp interface to Netflow data stores created by
                 the Netflow collect flowd (http://www.mindrot.org/projects/flowd/)"

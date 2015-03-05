@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GRAPH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-graph.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-graph.cld"
   :DESCRIPTION
   "Graph manipulation utilities for Common Lisp"
   :AUTHOR

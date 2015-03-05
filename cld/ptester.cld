@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PTESTER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ptester.cld"
+  "http://cldm.github.io/cldm-repo/cld/ptester.cld"
   :DESCRIPTION
   "Portable test harness package"
   :AUTHOR

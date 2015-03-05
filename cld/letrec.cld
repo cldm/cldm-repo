@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LETREC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/letrec.cld"
+  "http://cldm.github.io/cldm-repo/cld/letrec.cld"
   :DESCRIPTION
   "A simple alternative to Scheme's LETREC."
   :AUTHOR

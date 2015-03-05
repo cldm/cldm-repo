@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DOCUMENTATION-TEMPLATE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/documentation-template.cld"
+  "http://cldm.github.io/cldm-repo/cld/documentation-template.cld"
   :VERSIONS
   ((:VERSION "0.4.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/documentation-template/2013-01-28/documentation-template-0.4.3.tgz")))
     :DEPENDS-ON (:CL-WHO))))

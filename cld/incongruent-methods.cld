@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INCONGRUENT-METHODS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/incongruent-methods.cld"
+  "http://cldm.github.io/cldm-repo/cld/incongruent-methods.cld"
   :DESCRIPTION
   "Methods with incongruent lambda lists."
   :AUTHOR

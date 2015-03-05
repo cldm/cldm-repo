@@ -2,7 +2,7 @@
 
 (DEFLIBRARY IDNA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/idna.cld"
+  "http://cldm.github.io/cldm-repo/cld/idna.cld"
   :DESCRIPTION
   "IDNA (international domain names) string encoding and decoding routines"
   :VERSIONS

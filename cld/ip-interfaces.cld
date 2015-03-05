@@ -2,7 +2,7 @@
 
 (DEFLIBRARY IP-INTERFACES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ip-interfaces.cld"
+  "http://cldm.github.io/cldm-repo/cld/ip-interfaces.cld"
   :AUTHOR
   "Elliott Slaughter <elliottslaughter@gmail.com>"
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ASYNC-FUTURE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-async-future.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-async-future.cld"
   :DESCRIPTION
   "A futures implementation for Common Lisp. Plugs in nicely to cl-async."
   :AUTHOR

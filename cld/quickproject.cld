@@ -2,7 +2,7 @@
 
 (DEFLIBRARY QUICKPROJECT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/quickproject.cld"
+  "http://cldm.github.io/cldm-repo/cld/quickproject.cld"
   :DESCRIPTION
   "Creates the skeleton of a new Common Lisp project"
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFLATE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/deflate.cld"
+  "http://cldm.github.io/cldm-repo/cld/deflate.cld"
   :DESCRIPTION
   "Deflate Decompression Library"
   :AUTHOR

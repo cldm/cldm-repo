@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HTML-ENTITIES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/html-entities.cld"
+  "http://cldm.github.io/cldm-repo/cld/html-entities.cld"
   :DESCRIPTION
   "A module for encoding and decoding HTML/XML/SGML entities."
   :AUTHOR

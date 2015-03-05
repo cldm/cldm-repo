@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ALGEBRAIC-DATA-LIBRARY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/algebraic-data-library.cld"
+  "http://cldm.github.io/cldm-repo/cld/algebraic-data-library.cld"
   :DESCRIPTION
   "A library of common algebraic data types."
   :AUTHOR

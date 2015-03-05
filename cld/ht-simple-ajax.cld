@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HT-SIMPLE-AJAX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ht-simple-ajax.cld"
+  "http://cldm.github.io/cldm-repo/cld/ht-simple-ajax.cld"
   :DESCRIPTION
   "simple AJAX for Hunchentoot"
   :AUTHOR

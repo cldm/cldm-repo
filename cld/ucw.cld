@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UCW
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ucw.cld"
+  "http://cldm.github.io/cldm-repo/cld/ucw.cld"
   :DESCRIPTION
   "UncommonWeb : Standard Components"
   :AUTHOR

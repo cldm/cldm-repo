@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-RDFXML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-rdfxml.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-rdfxml.cld"
   :DESCRIPTION
   "The CL-RDFXML system provides functionality for processing RDF/XML
 serializations of RDF graphs. RDF/XML processes XML using Closure XML

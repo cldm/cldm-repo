@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY ALEXANDRIA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/alexandria.cld"
+  "http://cldm.github.io/cldm-repo/cld/alexandria.cld"
   :DESCRIPTION
   "Alexandria is a collection of portable public domain utilities."
   :VERSIONS

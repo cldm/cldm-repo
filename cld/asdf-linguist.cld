@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ASDF-LINGUIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/asdf-linguist.cld"
+  "http://cldm.github.io/cldm-repo/cld/asdf-linguist.cld"
   :DESCRIPTION
   ""
   :AUTHOR

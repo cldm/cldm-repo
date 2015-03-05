@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISP-UNIT2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lisp-unit2.cld"
+  "http://cldm.github.io/cldm-repo/cld/lisp-unit2.cld"
   :DESCRIPTION
   "Common Lisp library that supports unit testing."
   :AUTHOR

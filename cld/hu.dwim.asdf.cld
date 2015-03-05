@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.ASDF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.asdf.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.asdf.cld"
   :DESCRIPTION
   "Various ASDF extensions such as attached test and documentation system, explicit development support, etc."
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TULIP-GRAPH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-tulip-graph.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-tulip-graph.cld"
   :DESCRIPTION
   "A graph generator that produces files readable by Tulip graph visualizer"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-INFLUXDB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-influxdb.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-influxdb.cld"
   :DESCRIPTION
   "Common lisp binding for InfluxDB"
   :AUTHOR

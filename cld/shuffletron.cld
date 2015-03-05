@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SHUFFLETRON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/shuffletron.cld"
+  "http://cldm.github.io/cldm-repo/cld/shuffletron.cld"
   :DESCRIPTION
   "Music player"
   :AUTHOR

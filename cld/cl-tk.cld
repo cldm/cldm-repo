@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-tk.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-tk.cld"
   :DESCRIPTION
   "Minimal bridge to Tcl/Tk"
   :VERSIONS

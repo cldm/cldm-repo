@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LIBPUZZLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-libpuzzle.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-libpuzzle.cld"
   :DESCRIPTION
   ""
   :AUTHOR

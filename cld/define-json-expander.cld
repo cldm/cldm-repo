@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFINE-JSON-EXPANDER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/define-json-expander.cld"
+  "http://cldm.github.io/cldm-repo/cld/define-json-expander.cld"
   :DESCRIPTION
   "Small facility for converting between JSON and CLOS"
   :AUTHOR

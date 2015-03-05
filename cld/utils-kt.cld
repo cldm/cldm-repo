@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UTILS-KT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/utils-kt.cld"
+  "http://cldm.github.io/cldm-repo/cld/utils-kt.cld"
   :DESCRIPTION
   "Kenny's Utilities"
   :AUTHOR

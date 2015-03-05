@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SPARK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-spark.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-spark.cld"
   :DESCRIPTION
   "
 CL-Spark generates sparkline string for a list of the numbers.

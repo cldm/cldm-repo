@@ -2,7 +2,7 @@
 
 (DEFLIBRARY AMAZON-ECS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/amazon-ecs.cld"
+  "http://cldm.github.io/cldm-repo/cld/amazon-ecs.cld"
   :DESCRIPTION
   "Amazon Product Advertising API library for Common Lisp"
   :AUTHOR

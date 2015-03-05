@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UUID
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/uuid.cld"
+  "http://cldm.github.io/cldm-repo/cld/uuid.cld"
   :DESCRIPTION
   "UUID Generation"
   :AUTHOR

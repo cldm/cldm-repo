@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ADVANCED-READTABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/advanced-readtable.cld"
+  "http://cldm.github.io/cldm-repo/cld/advanced-readtable.cld"
   :DESCRIPTION
   "Advanced customizable readtable"
   :AUTHOR

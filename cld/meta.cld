@@ -2,7 +2,7 @@
 
 (DEFLIBRARY META
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/meta.cld"
+  "http://cldm.github.io/cldm-repo/cld/meta.cld"
   :DESCRIPTION
   "META syntax to easily write parsers"
   :VERSIONS

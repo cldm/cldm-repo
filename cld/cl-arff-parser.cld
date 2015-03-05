@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ARFF-PARSER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-arff-parser.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-arff-parser.cld"
   :DESCRIPTION
   "A parser for Weka arff (Attribute-Relation File
   Format) Machine learning datasets."

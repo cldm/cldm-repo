@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SIMPLE-RGB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/simple-rgb.cld"
+  "http://cldm.github.io/cldm-repo/cld/simple-rgb.cld"
   :DESCRIPTION
   "simple manipulation of {X|HT}ML RGB values"
   :AUTHOR

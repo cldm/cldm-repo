@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FARE-QUASIQUOTE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fare-quasiquote.cld"
+  "http://cldm.github.io/cldm-repo/cld/fare-quasiquote.cld"
   :DESCRIPTION
   "Portable, matchable implementation of quasiquote"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GLOP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/glop.cld"
+  "http://cldm.github.io/cldm-repo/cld/glop.cld"
   :DESCRIPTION
   "Direct FFI bindings for OpenGL window and context management"
   :AUTHOR

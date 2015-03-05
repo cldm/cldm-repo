@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-OPENID
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-openid.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-openid.cld"
   :DESCRIPTION
   "cl-openid"
   :AUTHOR

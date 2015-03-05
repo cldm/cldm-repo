@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DSO-UTIL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/dso-util.cld"
+  "http://cldm.github.io/cldm-repo/cld/dso-util.cld"
   :DESCRIPTION
   "David Owen's utilities."
   :AUTHOR

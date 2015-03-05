@@ -2,7 +2,7 @@
 
 (DEFLIBRARY OPEN-VRP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/open-vrp.cld"
+  "http://cldm.github.io/cldm-repo/cld/open-vrp.cld"
   :DESCRIPTION
   "open-vrp"
   :AUTHOR

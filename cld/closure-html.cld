@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLOSURE-HTML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/closure-html.cld"
+  "http://cldm.github.io/cldm-repo/cld/closure-html.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/closure-html/2012-09-09/closure-html-20120909-git.tgz"))) :DEPENDS-ON
     (:CLOSURE-COMMON :FLEXI-STREAMS))))

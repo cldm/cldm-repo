@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARSE-FLOAT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parse-float.cld"
+  "http://cldm.github.io/cldm-repo/cld/parse-float.cld"
   :DESCRIPTION
   "Parse floating point values in strings."
   :AUTHOR

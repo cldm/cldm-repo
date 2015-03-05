@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FSVD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fsvd.cld"
+  "http://cldm.github.io/cldm-repo/cld/fsvd.cld"
   :DESCRIPTION
   "Simon Funk's quasi SVD"
   :AUTHOR

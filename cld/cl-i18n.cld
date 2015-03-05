@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-I18N
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-i18n.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-i18n.cld"
   :DESCRIPTION
   "A gettext-style internationalisation framework for Common Lisp."
   :AUTHOR

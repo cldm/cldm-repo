@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GENE-SEARCHER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gene-searcher.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gene-searcher.cld"
   :DESCRIPTION
   "A simple interface to a SQLite database for querying information for genes, and DGV Tracks."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DBUS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/dbus.cld"
+  "http://cldm.github.io/cldm-repo/cld/dbus.cld"
   :DESCRIPTION
   "A D-BUS client library for Common Lisp"
   :AUTHOR

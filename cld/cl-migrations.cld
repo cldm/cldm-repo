@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MIGRATIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-migrations.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-migrations.cld"
   :VERSIONS
   ((:VERSION "0.0.3" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-migrations/2011-01-10/cl-migrations-20110110-http.tgz")))
     :DEPENDS-ON (:CLSQL))))

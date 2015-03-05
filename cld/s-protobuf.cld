@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-PROTOBUF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-protobuf.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-protobuf.cld"
   :DESCRIPTION
   "Protocol Buffer compiler and runtime"
   :VERSIONS

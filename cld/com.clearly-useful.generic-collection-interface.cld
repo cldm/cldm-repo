@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COM.CLEARLY-USEFUL.GENERIC-COLLECTION-INTERFACE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.generic-collection-interface.cld"
+  "http://cldm.github.io/cldm-repo/cld/com.clearly-useful.generic-collection-interface.cld"
   :DESCRIPTION
   "generic collection interfaces for common lisp"
   :AUTHOR

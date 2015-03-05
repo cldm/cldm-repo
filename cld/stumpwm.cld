@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STUMPWM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stumpwm.cld"
+  "http://cldm.github.io/cldm-repo/cld/stumpwm.cld"
   :DESCRIPTION
   "A tiling, keyboard driven window manager"
   :AUTHOR

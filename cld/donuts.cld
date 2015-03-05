@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DONUTS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/donuts.cld"
+  "http://cldm.github.io/cldm-repo/cld/donuts.cld"
   :DESCRIPTION
   "Graph DSL for common lisp"
   :AUTHOR

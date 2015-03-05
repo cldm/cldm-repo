@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RFC2388-BINARY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/rfc2388-binary.cld"
+  "http://cldm.github.io/cldm-repo/cld/rfc2388-binary.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/rfc2388-binary/2011-07-30/rfc2388-binary-20110730-darcs.tgz")))
     :DEPENDS-ON NIL)))

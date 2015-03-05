@@ -2,6 +2,6 @@
 
 (DEFLIBRARY STEM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stem.cld"
+  "http://cldm.github.io/cldm-repo/cld/stem.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/stem/2012-01-07/stem-20120107-git.tgz"))) :DEPENDS-ON NIL)))

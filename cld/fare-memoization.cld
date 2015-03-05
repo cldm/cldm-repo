@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FARE-MEMOIZATION
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fare-memoization.cld"
+  "http://cldm.github.io/cldm-repo/cld/fare-memoization.cld"
   :DESCRIPTION
   "memoizing functions the correct, portable way"
   :LICENCE

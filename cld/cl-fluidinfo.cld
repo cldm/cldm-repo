@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-FLUIDINFO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-fluidinfo.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-fluidinfo.cld"
   :DESCRIPTION
   "Library to access the Fluidinfo database / storage and search platform"
   :AUTHOR

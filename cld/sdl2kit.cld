@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SDL2KIT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sdl2kit.cld"
+  "http://cldm.github.io/cldm-repo/cld/sdl2kit.cld"
   :DESCRIPTION
   "A utility kit for SDL2"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GSS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gss.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gss.cld"
   :DESCRIPTION
   "Common Lisp interface to GSSAPI"
   :AUTHOR

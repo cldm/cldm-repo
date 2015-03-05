@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-IRC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-irc.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-irc.cld"
   :DESCRIPTION
   "Common Lisp interface to the IRC protocol"
   :AUTHOR

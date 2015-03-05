@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LET-OVER-LAMBDA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/let-over-lambda.cld"
+  "http://cldm.github.io/cldm-repo/cld/let-over-lambda.cld"
   :DESCRIPTION
   "The Production version code from letoverlambda.com, conveniently wrapped in an ASDF System for Quicklisp."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY VERRAZANO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/verrazano.cld"
+  "http://cldm.github.io/cldm-repo/cld/verrazano.cld"
   :AUTHOR
   "Rayiner Hashem"
   :VERSIONS

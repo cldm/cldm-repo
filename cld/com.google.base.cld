@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COM.GOOGLE.BASE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/com.google.base.cld"
+  "http://cldm.github.io/cldm-repo/cld/com.google.base.cld"
   :DESCRIPTION
   "Universally useful Lisp code."
   :AUTHOR

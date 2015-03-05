@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-DOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-dot.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-dot.cld"
   :DESCRIPTION
   "Render Graphviz graphs from within Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-NETSTRINGS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-netstrings.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-netstrings.cld"
   :DESCRIPTION
   "A library for handling netstrings as described in http://cr.yp.to/proto/netstrings.txt."
   :AUTHOR

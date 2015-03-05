@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HINGE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hinge.cld"
+  "http://cldm.github.io/cldm-repo/cld/hinge.cld"
   :DESCRIPTION
   "A synonym for node. Something like an evented framework in and for CL."
   :VERSIONS

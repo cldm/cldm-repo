@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BINGE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/binge.cld"
+  "http://cldm.github.io/cldm-repo/cld/binge.cld"
   :DESCRIPTION
   "Bovine INterface GEnerator"
   :AUTHOR

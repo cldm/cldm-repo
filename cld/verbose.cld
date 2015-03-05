@@ -2,7 +2,7 @@
 
 (DEFLIBRARY VERBOSE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/verbose.cld"
+  "http://cldm.github.io/cldm-repo/cld/verbose.cld"
   :DESCRIPTION
   "A logging framework using the piping library."
   :AUTHOR

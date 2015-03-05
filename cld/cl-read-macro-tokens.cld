@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-READ-MACRO-TOKENS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-read-macro-tokens.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-read-macro-tokens.cld"
   :DESCRIPTION
   "Allows reader macros to be attached to tokens, not only chars"
   :AUTHOR

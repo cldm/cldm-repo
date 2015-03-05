@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SYNTAX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-syntax.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-syntax.cld"
   :DESCRIPTION
   "Reader Syntax Coventions for Common Lisp and SLIME"
   :AUTHOR

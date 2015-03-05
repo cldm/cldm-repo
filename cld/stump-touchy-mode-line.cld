@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STUMP-TOUCHY-MODE-LINE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stump-touchy-mode-line.cld"
+  "http://cldm.github.io/cldm-repo/cld/stump-touchy-mode-line.cld"
   :DESCRIPTION
   "Easily make areas of modeline behave like buttons"
   :AUTHOR

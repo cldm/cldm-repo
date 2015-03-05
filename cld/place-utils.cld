@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PLACE-UTILS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/place-utils.cld"
+  "http://cldm.github.io/cldm-repo/cld/place-utils.cld"
   :DESCRIPTION
   "Provides a few utilities relating to setfable places."
   :AUTHOR

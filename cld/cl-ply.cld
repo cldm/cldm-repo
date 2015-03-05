@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PLY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ply.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ply.cld"
   :DESCRIPTION
   "A library to handle PLY file format which is known as the Polygon File Format or the Stanford Triangle Format in Common Lisp."
   :AUTHOR

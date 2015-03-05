@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ISAAC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-isaac.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-isaac.cld"
   :DESCRIPTION
   "Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators."
   :AUTHOR

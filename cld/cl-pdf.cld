@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PDF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-pdf.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-pdf.cld"
   :DESCRIPTION
   "Common Lisp PDF Generation Library"
   :AUTHOR

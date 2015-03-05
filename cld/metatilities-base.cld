@@ -2,7 +2,7 @@
 
 (DEFLIBRARY METATILITIES-BASE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/metatilities-base.cld"
+  "http://cldm.github.io/cldm-repo/cld/metatilities-base.cld"
   :DESCRIPTION
   "These are metabang.com's Common Lisp basic utilities."
   :AUTHOR

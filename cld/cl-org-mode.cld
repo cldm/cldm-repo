@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ORG-MODE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-org-mode.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-org-mode.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-org-mode/2010-12-07/cl-org-mode-20101207-git.tgz"))) :DEPENDS-ON
     (:ALEXANDRIA :CLOSER-MOP))))

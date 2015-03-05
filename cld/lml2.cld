@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LML2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lml2.cld"
+  "http://cldm.github.io/cldm-repo/cld/lml2.cld"
   :DESCRIPTION
   "Lisp Markup Language"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLETRIS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cletris.cld"
+  "http://cldm.github.io/cldm-repo/cld/cletris.cld"
   :DESCRIPTION
   "A tetris game."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BORDEAUX-FFT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/bordeaux-fft.cld"
+  "http://cldm.github.io/cldm-repo/cld/bordeaux-fft.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

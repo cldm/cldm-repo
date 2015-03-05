@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-RRD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-rrd.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-rrd.cld"
   :DESCRIPTION
   "A Common Lisp interface to the RRDTool graphing system."
   :AUTHOR

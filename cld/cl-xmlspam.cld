@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-XMLSPAM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-xmlspam.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-xmlspam.cld"
   :DESCRIPTION
   "Streaming pattern matching for XML"
   :AUTHOR

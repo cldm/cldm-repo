@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PLPLOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-plplot.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-plplot.cld"
   :DESCRIPTION
   "Interface to the PLplot Scientific Plotting Library"
   :AUTHOR

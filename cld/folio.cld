@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FOLIO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/folio.cld"
+  "http://cldm.github.io/cldm-repo/cld/folio.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/folio/2013-01-28/folio-20130128-git.tgz"))) :DEPENDS-ON
     (:FOLIO.AS :FOLIO.FUNCTIONS :FOLIO.BOXES :FOLIO.COLLECTIONS))))

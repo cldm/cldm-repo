@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SHA3
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sha3.cld"
+  "http://cldm.github.io/cldm-repo/cld/sha3.cld"
   :DESCRIPTION
   "Secure Hash Algorithm 3 (Keccak) Implementation"
   :AUTHOR

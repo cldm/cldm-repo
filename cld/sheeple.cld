@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SHEEPLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sheeple.cld"
+  "http://cldm.github.io/cldm-repo/cld/sheeple.cld"
   :DESCRIPTION
   "Cheeky prototypes for Common Lisp"
   :AUTHOR

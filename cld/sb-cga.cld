@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SB-CGA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sb-cga.cld"
+  "http://cldm.github.io/cldm-repo/cld/sb-cga.cld"
   :DESCRIPTION
   "Computer graphic algebra for SBCL."
   :VERSIONS

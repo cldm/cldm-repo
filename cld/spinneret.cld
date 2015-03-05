@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SPINNERET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/spinneret.cld"
+  "http://cldm.github.io/cldm-repo/cld/spinneret.cld"
   :DESCRIPTION
   "Common Lisp HTML5 generator."
   :AUTHOR

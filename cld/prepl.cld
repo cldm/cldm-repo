@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PREPL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/prepl.cld"
+  "http://cldm.github.io/cldm-repo/cld/prepl.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/prepl/2010-12-07/prepl-20101207-git.tgz"))) :DEPENDS-ON
     (:CLOSER-MOP :ITERATE :BORDEAUX-THREADS :CONIUM :NAMED-READTABLES))))

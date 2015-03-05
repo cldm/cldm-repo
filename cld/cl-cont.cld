@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CONT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-cont.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-cont.cld"
   :DESCRIPTION
   "A library that implements continuations by
   transforming Common Lisp code to continuation passing style."

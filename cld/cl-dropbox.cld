@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-DROPBOX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-dropbox.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-dropbox.cld"
   :DESCRIPTION
   "Common Lisp Client for the Dropbox API."
   :AUTHOR

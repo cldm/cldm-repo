@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-UNICODE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-unicode.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-unicode.cld"
   :DESCRIPTION
   "Portable Unicode Library"
   :VERSIONS

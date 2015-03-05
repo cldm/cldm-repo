@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PETTOMATO-INDEXED-PRIORITY-QUEUE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pettomato-indexed-priority-queue.cld"
+  "http://cldm.github.io/cldm-repo/cld/pettomato-indexed-priority-queue.cld"
   :DESCRIPTION
   "A binary heap based priority queue implementation with efficient support for find, update, replace, and delete operations."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GENDOC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gendoc.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gendoc.cld"
   :DESCRIPTION
   "cl-gendoc: Simple component-based documentation generator"
   :AUTHOR

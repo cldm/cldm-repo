@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLSQL-ORM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clsql-orm.cld"
+  "http://cldm.github.io/cldm-repo/cld/clsql-orm.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/clsql-orm/2014-05-25/clsql-orm-20140525-git.tgz"))) :DEPENDS-ON
     (:CLSQL :CL-PPCRE :CL-INTERPOL :CL-INFLECTOR :SYMBOL-MUNGER :ITERATE))))

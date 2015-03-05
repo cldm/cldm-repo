@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DAEMON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/daemon.cld"
+  "http://cldm.github.io/cldm-repo/cld/daemon.cld"
   :DESCRIPTION
   "Process daemonization for some common lisp."
   :LICENCE

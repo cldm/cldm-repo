@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-IRC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-irc.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-irc.cld"
   :AUTHOR
   "Thomas Stenhaug <thomas.stenhaug@gmail.com>"
   :MAINTAINER

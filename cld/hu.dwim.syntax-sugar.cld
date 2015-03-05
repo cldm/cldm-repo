@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.SYNTAX-SUGAR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.syntax-sugar.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.syntax-sugar.cld"
   :DESCRIPTION
   "Various syntax extensions."
   :VERSIONS

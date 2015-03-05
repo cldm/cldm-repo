@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISTOFLIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/listoflist.cld"
+  "http://cldm.github.io/cldm-repo/cld/listoflist.cld"
   :DESCRIPTION
   "makes listoflist an xarray'able data structure."
   :AUTHOR

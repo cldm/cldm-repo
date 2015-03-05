@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MOCK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mock.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mock.cld"
   :DESCRIPTION
   "Mocking library"
   :AUTHOR

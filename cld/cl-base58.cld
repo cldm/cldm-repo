@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BASE58
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-base58.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-base58.cld"
   :DESCRIPTION
   "An implementation of base58 for Common Lisp"
   :AUTHOR

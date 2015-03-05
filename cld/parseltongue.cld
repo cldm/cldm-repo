@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARSELTONGUE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parseltongue.cld"
+  "http://cldm.github.io/cldm-repo/cld/parseltongue.cld"
   :DESCRIPTION
   "Parseltongue"
   :AUTHOR

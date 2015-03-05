@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HELAMBDAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/helambdap.cld"
+  "http://cldm.github.io/cldm-repo/cld/helambdap.cld"
   :DESCRIPTION
   "The HELambdaP System."
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MULTIVAL-PLIST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/multival-plist.cld"
+  "http://cldm.github.io/cldm-repo/cld/multival-plist.cld"
   :DESCRIPTION
   "Property List stores multiple values per one key."
   :AUTHOR

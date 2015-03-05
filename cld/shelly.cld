@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SHELLY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/shelly.cld"
+  "http://cldm.github.io/cldm-repo/cld/shelly.cld"
   :DESCRIPTION
   "Run Common Lisp from shell easily."
   :AUTHOR

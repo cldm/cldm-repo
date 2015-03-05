@@ -2,7 +2,7 @@
 
 (DEFLIBRARY XML-EMITTER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/xml-emitter.cld"
+  "http://cldm.github.io/cldm-repo/cld/xml-emitter.cld"
   :AUTHOR
   "Peter Scott"
   :VERSIONS

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PERSISTENT-VARIABLES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/persistent-variables.cld"
+  "http://cldm.github.io/cldm-repo/cld/persistent-variables.cld"
   :DESCRIPTION
   "A library for persistent global variables."
   :AUTHOR

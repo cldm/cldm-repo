@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ANA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ana.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ana.cld"
   :DESCRIPTION
   "cl-ana is a free (GPL) data analysis library in Common
   Lisp providing tabular & binned data analysis along with nonlinear

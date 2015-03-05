@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHEAT-JS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cheat-js.cld"
+  "http://cldm.github.io/cldm-repo/cld/cheat-js.cld"
   :DESCRIPTION
   "Macros for JavaScript. Kinda."
   :AUTHOR

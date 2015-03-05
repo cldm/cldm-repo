@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ARCHIVE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/archive.cld"
+  "http://cldm.github.io/cldm-repo/cld/archive.cld"
   :DESCRIPTION
   "A package for reading and writing archive (tar, cpio, etc.) files."
   :AUTHOR

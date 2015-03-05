@@ -2,7 +2,7 @@
 
 (DEFLIBRARY IRC-LOGGER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/irc-logger.cld"
+  "http://cldm.github.io/cldm-repo/cld/irc-logger.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/irc-logger/2010-10-06/irc-logger-20101006-git.tgz"))) :DEPENDS-ON
     (CL-IRC CL-PPCRE))))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HTML5-PARSER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-html5-parser.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-html5-parser.cld"
   :DESCRIPTION
   "A HTML5 parser for Common Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ESRAP-LIQUID
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/esrap-liquid.cld"
+  "http://cldm.github.io/cldm-repo/cld/esrap-liquid.cld"
   :DESCRIPTION
   "A Packrat / Parsing Grammar / TDPL parser for Common Lisp."
   :LICENCE

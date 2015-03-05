@@ -2,7 +2,7 @@
 
 (DEFLIBRARY YACLANAPHT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/yaclanapht.cld"
+  "http://cldm.github.io/cldm-repo/cld/yaclanapht.cld"
   :LICENCE
   "GPLv3"
   :VERSIONS

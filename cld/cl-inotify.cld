@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-INOTIFY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-inotify.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-inotify.cld"
   :DESCRIPTION
   "Inotify binding"
   :AUTHOR

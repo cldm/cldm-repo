@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MARKUP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-markup.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-markup.cld"
   :AUTHOR
   "Eitarow Fukamachi"
   :LICENCE

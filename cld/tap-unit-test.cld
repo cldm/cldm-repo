@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TAP-UNIT-TEST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/tap-unit-test.cld"
+  "http://cldm.github.io/cldm-repo/cld/tap-unit-test.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/tap-unit-test/2011-11-05/tap-unit-test-20111105-git.tgz")))
     :DEPENDS-ON NIL)))

@@ -2,6 +2,6 @@
 
 (DEFLIBRARY TORTA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/torta.cld"
+  "http://cldm.github.io/cldm-repo/cld/torta.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/torta/2014-05-25/torta-20140525-git.tgz"))) :DEPENDS-ON ("gordon"))))

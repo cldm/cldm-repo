@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BACKPORTS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/backports.cld"
+  "http://cldm.github.io/cldm-repo/cld/backports.cld"
   :DESCRIPTION
   "Clojure, the good parts, ported to Common Lisp."
   :AUTHOR

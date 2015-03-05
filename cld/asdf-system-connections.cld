@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ASDF-SYSTEM-CONNECTIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/asdf-system-connections.cld"
+  "http://cldm.github.io/cldm-repo/cld/asdf-system-connections.cld"
   :DESCRIPTION
   "Allows for ASDF system to be connected so that auto-loading may occur."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CODATA-RECOMMENDED-VALUES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/codata-recommended-values.cld"
+  "http://cldm.github.io/cldm-repo/cld/codata-recommended-values.cld"
   :DESCRIPTION
   "CODATA recommended values of physical constants."
   :AUTHOR

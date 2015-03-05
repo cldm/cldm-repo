@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RESTAS.FILE-PUBLISHER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/restas.file-publisher.cld"
+  "http://cldm.github.io/cldm-repo/cld/restas.file-publisher.cld"
   :DESCRIPTION
   "A restas module which can publish static files"
   :AUTHOR

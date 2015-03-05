@@ -2,7 +2,7 @@
 
 (DEFLIBRARY URI-TEMPLATE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/uri-template.cld"
+  "http://cldm.github.io/cldm-repo/cld/uri-template.cld"
   :DESCRIPTION
   "An implementation of the URI Template proposed standard draft version 01."
   :AUTHOR

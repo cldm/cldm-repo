@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MUSTACHE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mustache.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mustache.cld"
   :DESCRIPTION
   "Mustache Template Renderer"
   :AUTHOR

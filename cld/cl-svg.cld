@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SVG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-svg.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-svg.cld"
   :DESCRIPTION
   "Produce Scalable Vector Graphics (SVG) files"
   :AUTHOR

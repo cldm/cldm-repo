@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHIPZ
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/chipz.cld"
+  "http://cldm.github.io/cldm-repo/cld/chipz.cld"
   :DESCRIPTION
   "A library for decompressing deflate, zlib, and gzip data"
   :AUTHOR

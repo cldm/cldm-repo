@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SECURE-READ
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-secure-read.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-secure-read.cld"
   :DESCRIPTION
   "Secure lisp reader in spirit of Let over Lambda"
   :AUTHOR

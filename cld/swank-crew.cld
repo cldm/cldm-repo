@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SWANK-CREW
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/swank-crew.cld"
+  "http://cldm.github.io/cldm-repo/cld/swank-crew.cld"
   :DESCRIPTION
   "Distributed master/worker computing framework."
   :AUTHOR

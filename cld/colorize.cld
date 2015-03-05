@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COLORIZE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/colorize.cld"
+  "http://cldm.github.io/cldm-repo/cld/colorize.cld"
   :DESCRIPTION
   "A Syntax highlighting library"
   :AUTHOR

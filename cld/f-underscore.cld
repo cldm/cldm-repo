@@ -2,7 +2,7 @@
 
 (DEFLIBRARY F-UNDERSCORE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/f-underscore.cld"
+  "http://cldm.github.io/cldm-repo/cld/f-underscore.cld"
   :DESCRIPTION
   "a tiny library of functional programming utils placed into the public domain.
 

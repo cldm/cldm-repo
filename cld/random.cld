@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RANDOM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/random.cld"
+  "http://cldm.github.io/cldm-repo/cld/random.cld"
   :DESCRIPTION
   "Some simple random number generators."
   :AUTHOR

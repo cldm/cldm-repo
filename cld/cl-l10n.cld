@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-L10N
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-l10n.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-l10n.cld"
   :DESCRIPTION
   "Portable CL Locale Support"
   :AUTHOR

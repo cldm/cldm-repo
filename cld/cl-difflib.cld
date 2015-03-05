@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-DIFFLIB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-difflib.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-difflib.cld"
   :DESCRIPTION
   "A Lisp library for computing differences between sequences."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ENVY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/envy.cld"
+  "http://cldm.github.io/cldm-repo/cld/envy.cld"
   :DESCRIPTION
   "Configuration switcher by an environment variable."
   :AUTHOR

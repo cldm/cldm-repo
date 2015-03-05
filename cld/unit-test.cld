@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UNIT-TEST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/unit-test.cld"
+  "http://cldm.github.io/cldm-repo/cld/unit-test.cld"
   :DESCRIPTION
   "unit-testing framework for common lisp"
   :VERSIONS

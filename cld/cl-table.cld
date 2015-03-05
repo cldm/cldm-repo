@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-table.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-table.cld"
   :DESCRIPTION
   "Hierarchical tables in Lisp"
   :AUTHOR

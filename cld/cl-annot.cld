@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-ANNOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-annot.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-annot.cld"
   :DESCRIPTION
   "Python-like Annotation Syntax for Common Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SCRIPTL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/scriptl.cld"
+  "http://cldm.github.io/cldm-repo/cld/scriptl.cld"
   :DESCRIPTION
   "Scripting, Common Lisp style"
   :AUTHOR

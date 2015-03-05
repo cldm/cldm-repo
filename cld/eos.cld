@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EOS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/eos.cld"
+  "http://cldm.github.io/cldm-repo/cld/eos.cld"
   :AUTHOR
   "Adlai Chandrasekhar"
   :LICENCE

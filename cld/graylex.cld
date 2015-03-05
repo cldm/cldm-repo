@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GRAYLEX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/graylex.cld"
+  "http://cldm.github.io/cldm-repo/cld/graylex.cld"
   :DESCRIPTION
   "Gray lexer input streams"
   :AUTHOR

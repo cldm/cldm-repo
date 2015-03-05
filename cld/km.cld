@@ -2,7 +2,7 @@
 
 (DEFLIBRARY KM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/km.cld"
+  "http://cldm.github.io/cldm-repo/cld/km.cld"
   :DESCRIPTION
   "THE KNOWLEDGE MACHINE - INFERENCE ENGINE"
   :AUTHOR

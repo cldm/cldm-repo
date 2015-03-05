@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MONTEZUMA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/montezuma.cld"
+  "http://cldm.github.io/cldm-repo/cld/montezuma.cld"
   :DESCRIPTION
   "Montezuma is a port of the Lucene text search engine library."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EPIGRAPH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/epigraph.cld"
+  "http://cldm.github.io/cldm-repo/cld/epigraph.cld"
   :DESCRIPTION
   "A library for representing and processing graphs (nodes and edges)"
   :AUTHOR

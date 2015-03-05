@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-STORE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-store.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-store.cld"
   :DESCRIPTION
   "Serialization package"
   :AUTHOR

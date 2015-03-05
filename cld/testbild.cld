@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TESTBILD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/testbild.cld"
+  "http://cldm.github.io/cldm-repo/cld/testbild.cld"
   :DESCRIPTION
   "Universal test output production and consumption facility"
   :AUTHOR

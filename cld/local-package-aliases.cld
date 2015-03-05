@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LOCAL-PACKAGE-ALIASES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/local-package-aliases.cld"
+  "http://cldm.github.io/cldm-repo/cld/local-package-aliases.cld"
   :DESCRIPTION
   "Allows to define inside of a package aliases to refer other packages.
 Provides a reader macro $ to use the aliases (active only in packages having

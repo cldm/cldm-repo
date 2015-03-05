@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FARE-MOP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fare-mop.cld"
+  "http://cldm.github.io/cldm-repo/cld/fare-mop.cld"
   :DESCRIPTION
   "Utilities using the MOP; notably make informative pretty-printing trivial"
   :VERSIONS

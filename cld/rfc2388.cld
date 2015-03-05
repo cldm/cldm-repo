@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY RFC2388
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/rfc2388.cld"
+  "http://cldm.github.io/cldm-repo/cld/rfc2388.cld"
   :DESCRIPTION
   "Implementation of RFC 2388"
   :AUTHOR

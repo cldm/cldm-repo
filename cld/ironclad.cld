@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY IRONCLAD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ironclad.cld"
+  "http://cldm.github.io/cldm-repo/cld/ironclad.cld"
   :DESCRIPTION
   "A cryptographic toolkit written in pure Common Lisp"
   :AUTHOR

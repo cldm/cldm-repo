@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-LAZY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-lazy.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-lazy.cld"
   :DESCRIPTION
   "Trivial lazy macros and functions for Common Lisp."
   :LICENCE

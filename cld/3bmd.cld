@@ -2,7 +2,7 @@
 
 (DEFLIBRARY 3BMD
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/3bmd.cld"
+  "http://cldm.github.io/cldm-repo/cld/3bmd.cld"
   :DESCRIPTION
   "markdown processor in CL using esrap parser."
   :VERSIONS

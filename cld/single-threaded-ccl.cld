@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SINGLE-THREADED-CCL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/single-threaded-ccl.cld"
+  "http://cldm.github.io/cldm-repo/cld/single-threaded-ccl.cld"
   :LICENCE
   "LLGPL 2.1"
   :VERSIONS

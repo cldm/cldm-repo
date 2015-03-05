@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MIDI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/midi.cld"
+  "http://cldm.github.io/cldm-repo/cld/midi.cld"
   :DESCRIPTION
   "A library for MIDI and Midifiles."
   :AUTHOR

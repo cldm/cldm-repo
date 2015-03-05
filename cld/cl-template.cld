@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TEMPLATE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-template.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-template.cld"
   :DESCRIPTION
   "A simple output-agnostic templating system for Common Lisp."
   :AUTHOR

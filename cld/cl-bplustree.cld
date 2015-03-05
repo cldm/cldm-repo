@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BPLUSTREE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-bplustree.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-bplustree.cld"
   :DESCRIPTION
   "In-memory B+ tree"
   :AUTHOR

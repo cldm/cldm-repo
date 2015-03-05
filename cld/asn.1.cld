@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ASN.1
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/asn.1.cld"
+  "http://cldm.github.io/cldm-repo/cld/asn.1.cld"
   :DESCRIPTION
   "ASN.1 for Common Lisp"
   :AUTHOR

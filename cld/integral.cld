@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INTEGRAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/integral.cld"
+  "http://cldm.github.io/cldm-repo/cld/integral.cld"
   :DESCRIPTION
   "Object Relational Mapper for Common Lisp"
   :AUTHOR

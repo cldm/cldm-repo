@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GLFW3
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-glfw3.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-glfw3.cld"
   :DESCRIPTION
   "Bindings for GLFW 3.x"
   :AUTHOR

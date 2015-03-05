@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DELOREAN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/delorean.cld"
+  "http://cldm.github.io/cldm-repo/cld/delorean.cld"
   :DESCRIPTION
   "Delorean is a time machine for unit tests"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GLU-TESSELLATE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/glu-tessellate.cld"
+  "http://cldm.github.io/cldm-repo/cld/glu-tessellate.cld"
   :AUTHOR
   "Andrew Lyon <orthecreedence@gmail.com>"
   :LICENCE

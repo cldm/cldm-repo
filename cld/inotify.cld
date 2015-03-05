@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INOTIFY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/inotify.cld"
+  "http://cldm.github.io/cldm-repo/cld/inotify.cld"
   :DESCRIPTION
   "Interface to linux inotify(7)"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GAP-BUFFER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-gap-buffer.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-gap-buffer.cld"
   :DESCRIPTION
   "Gap buffers in Common Lisp."
   :AUTHOR

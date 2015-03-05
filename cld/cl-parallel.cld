@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PARALLEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-parallel.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-parallel.cld"
   :DESCRIPTION
   "A fairly simple parallelism library for Common Lisp"
   :AUTHOR

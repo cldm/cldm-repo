@@ -2,7 +2,7 @@
 
 (DEFLIBRARY JSOWN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/jsown.cld"
+  "http://cldm.github.io/cldm-repo/cld/jsown.cld"
   :DESCRIPTION
   "Fast JSON parsing library.  Mainly geared torwards fetching only a few keys of many objects, but efficient for other types of content too"
   :AUTHOR

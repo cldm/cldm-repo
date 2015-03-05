@@ -2,7 +2,7 @@
 
 (DEFLIBRARY JWACS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/jwacs.cld"
+  "http://cldm.github.io/cldm-repo/cld/jwacs.cld"
   :AUTHOR
   "James Wright <james@chumsley.org> et al"
   :LICENCE

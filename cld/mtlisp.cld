@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MTLISP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mtlisp.cld"
+  "http://cldm.github.io/cldm-repo/cld/mtlisp.cld"
   :DESCRIPTION
   "MT's Common Lisp utilities."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-FUSE-META-FS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-fuse-meta-fs.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-fuse-meta-fs.cld"
   :DESCRIPTION
   "CFFI bindings to FUSE (Filesystem in user space)"
   :AUTHOR

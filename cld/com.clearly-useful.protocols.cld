@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COM.CLEARLY-USEFUL.PROTOCOLS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/com.clearly-useful.protocols.cld"
+  "http://cldm.github.io/cldm-repo/cld/com.clearly-useful.protocols.cld"
   :DESCRIPTION
   "Simple protocol implementation for Common Lisp inspired by clojure."
   :AUTHOR

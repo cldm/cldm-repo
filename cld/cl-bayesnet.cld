@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BAYESNET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-bayesnet.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-bayesnet.cld"
   :DESCRIPTION
   "A Common Lisp Bayesian Network Inference Engine"
   :AUTHOR

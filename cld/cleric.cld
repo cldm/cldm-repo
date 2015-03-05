@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLERIC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cleric.cld"
+  "http://cldm.github.io/cldm-repo/cld/cleric.cld"
   :DESCRIPTION
   "Common Lisp Erlang Interface - An implementation of the Erlang distribution protocol."
   :AUTHOR

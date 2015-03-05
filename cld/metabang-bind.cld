@@ -2,7 +2,7 @@
 
 (DEFLIBRARY METABANG-BIND
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/metabang-bind.cld"
+  "http://cldm.github.io/cldm-repo/cld/metabang-bind.cld"
   :DESCRIPTION
   "Bind is a macro that generalizes multiple-value-bind, let, let*, destructuring-bind, structure and slot accessors, and a whole lot more."
   :AUTHOR

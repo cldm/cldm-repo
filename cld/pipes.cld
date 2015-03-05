@@ -2,6 +2,6 @@
 
 (DEFLIBRARY PIPES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pipes.cld"
+  "http://cldm.github.io/cldm-repo/cld/pipes.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pipes/2012-09-09/pipes-20120909-git.tgz"))) :DEPENDS-ON NIL)))

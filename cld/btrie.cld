@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BTRIE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/btrie.cld"
+  "http://cldm.github.io/cldm-repo/cld/btrie.cld"
   :DESCRIPTION
   "Branch trie - a generic trie implementation with branch widths.
 

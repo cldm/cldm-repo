@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EAGER-FUTURE2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/eager-future2.cld"
+  "http://cldm.github.io/cldm-repo/cld/eager-future2.cld"
   :AUTHOR
   "Vladimir Sedach <vsedach@gmail.com>"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY REPL-UTILITIES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/repl-utilities.cld"
+  "http://cldm.github.io/cldm-repo/cld/repl-utilities.cld"
   :DESCRIPTION
   "Ease common tasks at the REPL."
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY WEBLOCKS-TREE-WIDGET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/weblocks-tree-widget.cld"
+  "http://cldm.github.io/cldm-repo/cld/weblocks-tree-widget.cld"
   :DESCRIPTION
   "A tree widget for weblocks"
   :AUTHOR

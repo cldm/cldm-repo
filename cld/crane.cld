@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CRANE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/crane.cld"
+  "http://cldm.github.io/cldm-repo/cld/crane.cld"
   :DESCRIPTION
   "An ORM for Common Lisp."
   :AUTHOR

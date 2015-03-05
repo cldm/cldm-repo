@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MANIFEST
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/manifest.cld"
+  "http://cldm.github.io/cldm-repo/cld/manifest.cld"
   :DESCRIPTION
   "A system for semi-automatically documenting Common Lisp packages."
   :VERSIONS

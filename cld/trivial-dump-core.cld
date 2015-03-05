@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-DUMP-CORE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-dump-core.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-dump-core.cld"
   :DESCRIPTION
   "trivial-dump-core: Wrapper that allows the saving of the
 current lisp image as a \"core\" or as an \"executable\" across

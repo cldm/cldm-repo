@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/able.cld"
+  "http://cldm.github.io/cldm-repo/cld/able.cld"
   :DESCRIPTION
   "A Common Lisp editor"
   :AUTHOR

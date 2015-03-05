@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HTML-DIFF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-html-diff.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-html-diff.cld"
   :AUTHOR
   "John Wiseman <jjwiseman@yahoo.com>"
   :MAINTAINER

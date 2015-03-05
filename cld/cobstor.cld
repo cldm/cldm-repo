@@ -2,7 +2,7 @@
 
 (DEFLIBRARY COBSTOR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cobstor.cld"
+  "http://cldm.github.io/cldm-repo/cld/cobstor.cld"
   :DESCRIPTION
   "Cobol Storage library"
   :AUTHOR

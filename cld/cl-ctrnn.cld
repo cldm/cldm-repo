@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CTRNN
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ctrnn.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ctrnn.cld"
   :AUTHOR
   "Øyvin Halfdan Thuv"
   :VERSIONS

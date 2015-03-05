@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FLOATING-POINT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/floating-point.cld"
+  "http://cldm.github.io/cldm-repo/cld/floating-point.cld"
   :DESCRIPTION
   "Floating point functions."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-OAUTH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-oauth.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-oauth.cld"
   :DESCRIPTION
   "Common Lisp OAuth implementation"
   :MAINTAINER

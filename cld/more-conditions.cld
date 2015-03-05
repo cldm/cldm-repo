@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MORE-CONDITIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/more-conditions.cld"
+  "http://cldm.github.io/cldm-repo/cld/more-conditions.cld"
   :DESCRIPTION
   "This system provides some generic condition classes in
                 conjunction with support functions and macros."

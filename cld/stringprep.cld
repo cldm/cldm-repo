@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STRINGPREP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/stringprep.cld"
+  "http://cldm.github.io/cldm-repo/cld/stringprep.cld"
   :DESCRIPTION
   "Provides implementations of RFC-3454 and XEP-0106."
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ANTIK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/antik.cld"
+  "http://cldm.github.io/cldm-repo/cld/antik.cld"
   :DESCRIPTION
   "A library providing a foundation for computational mathematics, science, and engineering."
   :AUTHOR

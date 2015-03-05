@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SIP-HASH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sip-hash.cld"
+  "http://cldm.github.io/cldm-repo/cld/sip-hash.cld"
   :DESCRIPTION
   "SipHash hash functions"
   :AUTHOR

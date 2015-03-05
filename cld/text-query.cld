@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TEXT-QUERY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/text-query.cld"
+  "http://cldm.github.io/cldm-repo/cld/text-query.cld"
   :DESCRIPTION
   "A general text-based system for querying the user."
   :AUTHOR

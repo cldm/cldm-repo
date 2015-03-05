@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PLANKS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/planks.cld"
+  "http://cldm.github.io/cldm-repo/cld/planks.cld"
   :AUTHOR
   "Drew Crampsie <drewc@tech.coop>"
   :LICENCE

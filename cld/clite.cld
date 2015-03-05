@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLITE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clite.cld"
+  "http://cldm.github.io/cldm-repo/cld/clite.cld"
   :DESCRIPTION
   "Lite weight testing framework"
   :AUTHOR

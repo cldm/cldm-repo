@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INTERCOM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/intercom.cld"
+  "http://cldm.github.io/cldm-repo/cld/intercom.cld"
   :DESCRIPTION
   "Intercom allows bidirectional message passing between javascript and lisp."
   :AUTHOR

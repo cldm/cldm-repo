@@ -2,7 +2,7 @@
 
 (DEFLIBRARY APPLY-ARGV
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/apply-argv.cld"
+  "http://cldm.github.io/cldm-repo/cld/apply-argv.cld"
   :DESCRIPTION
   "Apply-argv is a library for parsing command line arguments."
   :AUTHOR

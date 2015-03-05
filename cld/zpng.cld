@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZPNG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zpng.cld"
+  "http://cldm.github.io/cldm-repo/cld/zpng.cld"
   :DESCRIPTION
   "Create PNG files"
   :VERSIONS

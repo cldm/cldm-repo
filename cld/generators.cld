@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GENERATORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/generators.cld"
+  "http://cldm.github.io/cldm-repo/cld/generators.cld"
   :DESCRIPTION
   "A common lisp package providing python style generators based
                 on delimited continuations"

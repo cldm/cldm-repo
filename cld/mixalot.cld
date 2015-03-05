@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MIXALOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mixalot.cld"
+  "http://cldm.github.io/cldm-repo/cld/mixalot.cld"
   :DESCRIPTION
   "Mixalot mixer for ALSA/libao"
   :AUTHOR

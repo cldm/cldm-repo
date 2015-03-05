@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLONSIGNA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clonsigna.cld"
+  "http://cldm.github.io/cldm-repo/cld/clonsigna.cld"
   :DESCRIPTION
   "Simple IMAP4rev1 client library"
   :AUTHOR

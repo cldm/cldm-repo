@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DEFMEMO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/defmemo.cld"
+  "http://cldm.github.io/cldm-repo/cld/defmemo.cld"
   :DESCRIPTION
   "Memoizing defun"
   :AUTHOR

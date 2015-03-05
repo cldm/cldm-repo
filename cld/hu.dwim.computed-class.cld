@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.COMPUTED-CLASS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.computed-class.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.computed-class.cld"
   :DESCRIPTION
   "Constraint based change propagation for class slots, lexical variables, function return values and reified cells."
   :VERSIONS

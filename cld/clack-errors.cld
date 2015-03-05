@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLACK-ERRORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clack-errors.cld"
+  "http://cldm.github.io/cldm-repo/cld/clack-errors.cld"
   :DESCRIPTION
   "Error page middleware for Clack."
   :AUTHOR

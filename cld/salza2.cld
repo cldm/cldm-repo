@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SALZA2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/salza2.cld"
+  "http://cldm.github.io/cldm-repo/cld/salza2.cld"
   :DESCRIPTION
   "Create compressed data in the ZLIB, DEFLATE, or GZIP
   data formats"

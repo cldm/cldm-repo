@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ODS4CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ods4cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/ods4cl.cld"
   :DESCRIPTION
   "Open Document Spreadsheet library"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LISPHYS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lisphys.cld"
+  "http://cldm.github.io/cldm-repo/cld/lisphys.cld"
   :DESCRIPTION
   "Describe lisphys here"
   :AUTHOR

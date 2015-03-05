@@ -2,7 +2,7 @@
 
 (DEFLIBRARY NPG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/npg.cld"
+  "http://cldm.github.io/cldm-repo/cld/npg.cld"
   :DESCRIPTION
   "NPG a Naive Parser Generator"
   :AUTHOR

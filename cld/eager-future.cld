@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EAGER-FUTURE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/eager-future.cld"
+  "http://cldm.github.io/cldm-repo/cld/eager-future.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/eager-future/2010-10-06/eager-future-20101006-darcs.tgz")))
     :DEPENDS-ON (:BORDEAUX-THREADS))))

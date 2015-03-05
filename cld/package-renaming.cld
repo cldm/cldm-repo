@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PACKAGE-RENAMING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/package-renaming.cld"
+  "http://cldm.github.io/cldm-repo/cld/package-renaming.cld"
   :DESCRIPTION
   "locally renaming packages"
   :LICENCE

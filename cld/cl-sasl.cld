@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SASL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-sasl.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-sasl.cld"
   :DESCRIPTION
   "SASL library"
   :AUTHOR

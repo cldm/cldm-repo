@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FARE-UTILS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fare-utils.cld"
+  "http://cldm.github.io/cldm-repo/cld/fare-utils.cld"
   :DESCRIPTION
   "Basic functions and macros, interfaces, pure and stateful datastructures"
   :VERSIONS

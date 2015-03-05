@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-OCTET-STREAMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-octet-streams.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-octet-streams.cld"
   :DESCRIPTION
   "A library for octet input and output streams analogous to string streams."
   :AUTHOR

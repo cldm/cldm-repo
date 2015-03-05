@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ELF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/elf.cld"
+  "http://cldm.github.io/cldm-repo/cld/elf.cld"
   :DESCRIPTION
   "Common Lisp library for manipulation of ELF files."
   :AUTHOR

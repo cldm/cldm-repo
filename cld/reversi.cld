@@ -2,6 +2,6 @@
 
 (DEFLIBRARY REVERSI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/reversi.cld"
+  "http://cldm.github.io/cldm-repo/cld/reversi.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/reversi/2014-05-25/reversi-20140525-git.tgz"))) :DEPENDS-ON NIL)))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-WEB-CRAWLER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-web-crawler.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-web-crawler.cld"
   :DESCRIPTION
   "A generic web-crawling library for Common Lisp."
   :AUTHOR

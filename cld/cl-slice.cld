@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SLICE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-slice.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-slice.cld"
   :DESCRIPTION
   "DSL for array slices in Common Lisp."
   :AUTHOR

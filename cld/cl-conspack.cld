@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CONSPACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-conspack.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-conspack.cld"
   :DESCRIPTION
   "CONSPACK implementation for Common Lisp"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY KMRCL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/kmrcl.cld"
+  "http://cldm.github.io/cldm-repo/cld/kmrcl.cld"
   :AUTHOR
   "Kevin M. Rosenberg <kevin@rosenberg.net>"
   :MAINTAINER

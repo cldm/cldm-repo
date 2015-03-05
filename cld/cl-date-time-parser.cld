@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-DATE-TIME-PARSER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-date-time-parser.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-date-time-parser.cld"
   :DESCRIPTION
   "Parse date-time-string, and return (values universal-time fraction).
 Parsable date-time-format: ISO8601, W3CDTF, RFC3339, RFC822, RFC2822, RFC5322, asctime, RFC850, RFC1036."

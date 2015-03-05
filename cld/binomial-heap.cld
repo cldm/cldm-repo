@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BINOMIAL-HEAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/binomial-heap.cld"
+  "http://cldm.github.io/cldm-repo/cld/binomial-heap.cld"
   :DESCRIPTION
   "A compact binomial heap implementation."
   :AUTHOR

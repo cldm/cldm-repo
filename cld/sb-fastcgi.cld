@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SB-FASTCGI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sb-fastcgi.cld"
+  "http://cldm.github.io/cldm-repo/cld/sb-fastcgi.cld"
   :DESCRIPTION
   "FastCGI wrapper for SBCL"
   :AUTHOR

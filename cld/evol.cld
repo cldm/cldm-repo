@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EVOL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/evol.cld"
+  "http://cldm.github.io/cldm-repo/cld/evol.cld"
   :DESCRIPTION
   "evol - entrenched virtues of lisp / love reversed. Multi-purpose build system."
   :AUTHOR

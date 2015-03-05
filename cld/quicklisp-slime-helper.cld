@@ -2,7 +2,7 @@
 
 (DEFLIBRARY QUICKLISP-SLIME-HELPER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/quicklisp-slime-helper.cld"
+  "http://cldm.github.io/cldm-repo/cld/quicklisp-slime-helper.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/quicklisp-slime-helper/2011-04-18/quicklisp-slime-helper-20110418-git.tgz"))) :DEPENDS-ON

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ARCHITECTURE.SERVICE-PROVIDER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/architecture.service-provider.cld"
+  "http://cldm.github.io/cldm-repo/cld/architecture.service-provider.cld"
   :DESCRIPTION
   "Provides a framework for registering and finding services and providers of these."
   :AUTHOR

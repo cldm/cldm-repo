@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GENERIC-SEQUENCES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/generic-sequences.cld"
+  "http://cldm.github.io/cldm-repo/cld/generic-sequences.cld"
   :DESCRIPTION
   "Generic sequences for Common Lisp."
   :AUTHOR

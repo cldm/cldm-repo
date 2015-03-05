@@ -3,7 +3,7 @@
 (cldm:deflibrary chunga
   :author "Dr.Edmund Weitz"
   :description "Portable chunked streams for Common Lisp"
-  :cld "http://mmontone.github.io/cldm-repo/cld/chunga.cld"
+  :cld "http://cldm.github.io/cldm-repo/cld/chunga.cld"
   :tags ("streams")
   :versions
   ((:version "1.1.5"

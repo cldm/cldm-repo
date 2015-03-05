@@ -2,7 +2,7 @@
 
 (DEFLIBRARY OSC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/osc.cld"
+  "http://cldm.github.io/cldm-repo/cld/osc.cld"
   :DESCRIPTION
   "The Open Sound Control protocol, aka OSC"
   :AUTHOR

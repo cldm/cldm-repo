@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HCTSMSL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hctsmsl.cld"
+  "http://cldm.github.io/cldm-repo/cld/hctsmsl.cld"
   :DESCRIPTION
   "Library for generating human-readable HTML and CSS forms."
   :AUTHOR

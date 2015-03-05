@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DATA-TABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/data-table.cld"
+  "http://cldm.github.io/cldm-repo/cld/data-table.cld"
   :DESCRIPTION
   "A library providing a data-table class, and useful functionality around this"
   :LICENCE

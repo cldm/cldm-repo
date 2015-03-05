@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GLYPHS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/glyphs.cld"
+  "http://cldm.github.io/cldm-repo/cld/glyphs.cld"
   :DESCRIPTION
   "Glyphs to reduce Common Lisp verbosity"
   :AUTHOR

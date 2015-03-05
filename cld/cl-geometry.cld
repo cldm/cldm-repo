@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GEOMETRY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-geometry.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-geometry.cld"
   :DESCRIPTION
   "Two dimensional geometry."
   :LICENCE

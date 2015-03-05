@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LOG5
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/log5.cld"
+  "http://cldm.github.io/cldm-repo/cld/log5.cld"
   :DESCRIPTION
   "Log5 is a Common Lisp logging library"
   :AUTHOR

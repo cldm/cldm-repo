@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MONKEYLIB-TEXT-OUTPUT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/monkeylib-text-output.cld"
+  "http://cldm.github.io/cldm-repo/cld/monkeylib-text-output.cld"
   :DESCRIPTION
   "Formatted text output."
   :AUTHOR

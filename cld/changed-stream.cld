@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHANGED-STREAM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/changed-stream.cld"
+  "http://cldm.github.io/cldm-repo/cld/changed-stream.cld"
   :DESCRIPTION
   "A library for non-destructive changes to character streams."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLUCK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cluck.cld"
+  "http://cldm.github.io/cldm-repo/cld/cluck.cld"
   :DESCRIPTION
   "Common Lisp uController Clock Calculator"
   :MAINTAINER

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-6502
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-6502.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-6502.cld"
   :DESCRIPTION
   "An emulator for the MOS 6502 CPU"
   :AUTHOR

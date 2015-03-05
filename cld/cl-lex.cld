@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LEX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-lex.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-lex.cld"
   :VERSIONS
   ((:VERSION "1.1.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-lex/2010-10-06/cl-lex-20101006-http.tgz"))) :DEPENDS-ON
     ("cl-ppcre"))))

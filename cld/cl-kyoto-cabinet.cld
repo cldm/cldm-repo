@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-KYOTO-CABINET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-kyoto-cabinet.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-kyoto-cabinet.cld"
   :AUTHOR
   "Kevin Raison <last name @ chatsubo dot net>"
   :LICENCE

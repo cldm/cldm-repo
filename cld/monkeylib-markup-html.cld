@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MONKEYLIB-MARKUP-HTML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/monkeylib-markup-html.cld"
+  "http://cldm.github.io/cldm-repo/cld/monkeylib-markup-html.cld"
   :DESCRIPTION
   "Library for generating HTML from Markup formatted text."
   :VERSIONS

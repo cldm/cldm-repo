@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HH-REDBLACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hh-redblack.cld"
+  "http://cldm.github.io/cldm-repo/cld/hh-redblack.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/hh-redblack/2012-11-25/hh-redblack-20121125-git.tgz"))) :DEPENDS-ON
     NIL)))

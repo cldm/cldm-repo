@@ -2,6 +2,6 @@
 
 (DEFLIBRARY PAIPROLOG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/paiprolog.cld"
+  "http://cldm.github.io/cldm-repo/cld/paiprolog.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/paiprolog/2014-05-25/paiprolog-20140525-git.tgz"))) :DEPENDS-ON NIL)))

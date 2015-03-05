@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LIBEVENT2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-libevent2.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-libevent2.cld"
   :DESCRIPTION
   "Low-level libevent2 bindings for Common Lisp."
   :AUTHOR

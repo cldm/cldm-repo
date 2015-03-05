@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MINHEAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/minheap.cld"
+  "http://cldm.github.io/cldm-repo/cld/minheap.cld"
   :DESCRIPTION
   "Various heap/priority queue data structures"
   :MAINTAINER

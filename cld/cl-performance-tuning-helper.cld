@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PERFORMANCE-TUNING-HELPER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-performance-tuning-helper.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-performance-tuning-helper.cld"
   :DESCRIPTION
   "A simple performance tuning helper tool box for Common Lisp"
   :AUTHOR

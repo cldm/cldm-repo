@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GITHUB-V3
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-github-v3.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-github-v3.cld"
   :DESCRIPTION
   "github V3 API library"
   :AUTHOR

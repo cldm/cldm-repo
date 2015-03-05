@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FOMUS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fomus.cld"
+  "http://cldm.github.io/cldm-repo/cld/fomus.cld"
   :DESCRIPTION
   "Lisp music notation formatter"
   :AUTHOR

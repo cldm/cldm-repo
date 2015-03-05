@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SNAPPY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/snappy.cld"
+  "http://cldm.github.io/cldm-repo/cld/snappy.cld"
   :DESCRIPTION
   "An implementation of Snappy compression."
   :AUTHOR

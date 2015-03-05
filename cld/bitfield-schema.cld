@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BITFIELD-SCHEMA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/bitfield-schema.cld"
+  "http://cldm.github.io/cldm-repo/cld/bitfield-schema.cld"
   :DESCRIPTION
   "SIMPLE-BIT-VECTOR low level routines and convenient eDSL over it."
   :AUTHOR

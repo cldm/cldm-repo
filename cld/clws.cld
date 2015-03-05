@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLWS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clws.cld"
+  "http://cldm.github.io/cldm-repo/cld/clws.cld"
   :DESCRIPTION
   "CLWS implement the WebSocket Protocol as described by
 RFC6455[1] (as well as some older drafts implemented by recent

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MYWEB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/myweb.cld"
+  "http://cldm.github.io/cldm-repo/cld/myweb.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/myweb/2012-09-09/myweb-20120909-git.tgz"))) :DEPENDS-ON
     ("usocket" "bordeaux-threads" "local-time" "cl-log" "trivial-utf-8"))))

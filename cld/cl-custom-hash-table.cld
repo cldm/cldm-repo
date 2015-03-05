@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CUSTOM-HASH-TABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-custom-hash-table.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-custom-hash-table.cld"
   :AUTHOR
   "Willem Broekema"
   :LICENCE

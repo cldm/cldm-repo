@@ -2,7 +2,7 @@
 
 (DEFLIBRARY EXT-BLOG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/ext-blog.cld"
+  "http://cldm.github.io/cldm-repo/cld/ext-blog.cld"
   :DESCRIPTION
   "A BLOG engine which supports custom theme"
   :AUTHOR

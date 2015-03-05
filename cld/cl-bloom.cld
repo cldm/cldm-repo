@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-BLOOM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-bloom.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-bloom.cld"
   :DESCRIPTION
   "Simple Bloom filters with efficient hashing."
   :AUTHOR

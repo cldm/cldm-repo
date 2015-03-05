@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MESSAGEPACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-messagepack.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-messagepack.cld"
   :DESCRIPTION
   "A Common-Lisp implementation of Message Pack serialization."
   :AUTHOR

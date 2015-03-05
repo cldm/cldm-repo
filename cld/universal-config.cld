@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UNIVERSAL-CONFIG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/universal-config.cld"
+  "http://cldm.github.io/cldm-repo/cld/universal-config.cld"
   :DESCRIPTION
   "Library to provide a universal configuration layer."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PLOKAMI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/plokami.cld"
+  "http://cldm.github.io/cldm-repo/cld/plokami.cld"
   :DESCRIPTION
   "Common Lisp PCAP interface."
   :AUTHOR

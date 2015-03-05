@@ -2,7 +2,7 @@
 
 (DEFLIBRARY KL-VERIFY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/kl-verify.cld"
+  "http://cldm.github.io/cldm-repo/cld/kl-verify.cld"
   :DESCRIPTION
   "A library to generate simple verify code picture"
   :AUTHOR

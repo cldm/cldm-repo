@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PETIT.PACKAGE-UTILS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/petit.package-utils.cld"
+  "http://cldm.github.io/cldm-repo/cld/petit.package-utils.cld"
   :DESCRIPTION
   "petit tool box for packaging"
   :AUTHOR

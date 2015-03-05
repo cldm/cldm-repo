@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARSE-NUMBER-RANGE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parse-number-range.cld"
+  "http://cldm.github.io/cldm-repo/cld/parse-number-range.cld"
   :DESCRIPTION
   "Parses LOOP's convenient \"for-as-arithmetic\" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs."
   :AUTHOR

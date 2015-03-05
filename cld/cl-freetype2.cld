@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-FREETYPE2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-freetype2.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-freetype2.cld"
   :DESCRIPTION
   "Wrapper for the Freetype2 library"
   :AUTHOR

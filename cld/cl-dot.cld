@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-DOT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-dot.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-dot.cld"
   :DESCRIPTION
   "Generate Dot Output from Arbitrary Lisp Data"
   :AUTHOR

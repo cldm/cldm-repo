@@ -2,7 +2,7 @@
 
 (DEFLIBRARY YACLML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/yaclml.cld"
+  "http://cldm.github.io/cldm-repo/cld/yaclml.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/yaclml/2012-09-09/yaclml-20120909-darcs.tgz"))) :DEPENDS-ON
     (:ARNESI :ITERATE))))

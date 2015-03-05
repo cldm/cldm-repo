@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TEST-MORE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-test-more.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-test-more.cld"
   :AUTHOR
   "Eitarow Fukamachi"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DOCBROWSER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/docbrowser.cld"
+  "http://cldm.github.io/cldm-repo/cld/docbrowser.cld"
   :DESCRIPTION
   "Web-based Common Lisp documentation browser"
   :AUTHOR

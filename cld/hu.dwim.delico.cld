@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.DELICO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.delico.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.delico.cld"
   :DESCRIPTION
   "Delimited, interpreted shift-reset continuation."
   :AUTHOR

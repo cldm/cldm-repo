@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MODF
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/modf.cld"
+  "http://cldm.github.io/cldm-repo/cld/modf.cld"
   :DESCRIPTION
   "This library simplifies functional programming by making it easier to make
 new data structures with specified changes in place."

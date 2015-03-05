@@ -2,7 +2,7 @@
 
 (DEFLIBRARY STRING-CASE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/string-case.cld"
+  "http://cldm.github.io/cldm-repo/cld/string-case.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/string-case/2013-11-11/string-case-20131111-http.tgz"))) :DEPENDS-ON
     NIL)))

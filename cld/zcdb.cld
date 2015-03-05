@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZCDB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zcdb.cld"
+  "http://cldm.github.io/cldm-repo/cld/zcdb.cld"
   :DESCRIPTION
   "Read and write cdb files, as specified in
   http://cr.yp.to/cdb.html"

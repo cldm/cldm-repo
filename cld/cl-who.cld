@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-WHO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-who.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-who.cld"
   :DESCRIPTION
   "(X)HTML generation macros"
   :VERSIONS

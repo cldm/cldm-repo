@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DOPLUS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/doplus.cld"
+  "http://cldm.github.io/cldm-repo/cld/doplus.cld"
   :DESCRIPTION
   "DO+ (doplus) is a high-level, extensible iteration construct for Common Lisp with a reasonably simple implementation, which in particular does not use a code walker."
   :AUTHOR

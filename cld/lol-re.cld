@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LOL-RE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lol-re.cld"
+  "http://cldm.github.io/cldm-repo/cld/lol-re.cld"
   :DESCRIPTION
   "Small set of wrappers around CL-PPCRE in spirit of Let Over Lambda."
   :AUTHOR

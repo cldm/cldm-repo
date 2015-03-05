@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DRAW-CONS-TREE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/draw-cons-tree.cld"
+  "http://cldm.github.io/cldm-repo/cld/draw-cons-tree.cld"
   :DESCRIPTION
   "Makes and ascii picture of a cons tree"
   :AUTHOR

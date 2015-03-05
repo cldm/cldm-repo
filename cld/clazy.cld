@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLAZY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clazy.cld"
+  "http://cldm.github.io/cldm-repo/cld/clazy.cld"
   :DESCRIPTION
   "The CLAZY System."
   :AUTHOR

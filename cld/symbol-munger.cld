@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SYMBOL-MUNGER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/symbol-munger.cld"
+  "http://cldm.github.io/cldm-repo/cld/symbol-munger.cld"
   :DESCRIPTION
   "Functions to convert between the spacing and
   capitalization conventions of various environments"

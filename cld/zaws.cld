@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ZAWS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/zaws.cld"
+  "http://cldm.github.io/cldm-repo/cld/zaws.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/zaws/2012-11-25/zaws-20121125-git.tgz"))) :DEPENDS-ON
     (#:CL-BASE64 #:DRAKMA #:FLEXI-STREAMS #:IRONCLAD))))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CALISPEL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/calispel.cld"
+  "http://cldm.github.io/cldm-repo/cld/calispel.cld"
   :DESCRIPTION
   "Thread-safe message-passing channels, in the style of
 the occam programming language."

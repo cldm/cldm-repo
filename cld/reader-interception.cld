@@ -2,7 +2,7 @@
 
 (DEFLIBRARY READER-INTERCEPTION
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/reader-interception.cld"
+  "http://cldm.github.io/cldm-repo/cld/reader-interception.cld"
   :DESCRIPTION
   "Intercept the reader to replace CL syntax with your own"
   :VERSIONS

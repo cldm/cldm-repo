@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MONKEYLIB-HTML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/monkeylib-html.cld"
+  "http://cldm.github.io/cldm-repo/cld/monkeylib-html.cld"
   :DESCRIPTION
   "HTML generation"
   :AUTHOR

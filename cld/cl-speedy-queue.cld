@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SPEEDY-QUEUE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-speedy-queue.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-speedy-queue.cld"
   :DESCRIPTION
   "cl-speedy-queue is a portable, non-consing, optimized queue implementation."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CASE-CONTROL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-case-control.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-case-control.cld"
   :DESCRIPTION
   "Supporting case-controlling"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ODD-STREAMS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/odd-streams.cld"
+  "http://cldm.github.io/cldm-repo/cld/odd-streams.cld"
   :VERSIONS
   ((:VERSION "0.1.2" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/odd-streams/2013-01-28/odd-streams-0.1.2.tgz"))) :DEPENDS-ON
     (:TRIVIAL-GRAY-STREAMS))))

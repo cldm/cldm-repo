@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PORTAUDIO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-portaudio.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-portaudio.cld"
   :DESCRIPTION
   "This package contains bindings to @a[http://portaudio.com/]{PortAudio}. PortAudio is a free, cross-platform, open-source, audio I/O library."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.LOGGER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.logger.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.logger.cld"
   :DESCRIPTION
   "Generic purpose logger utility."
   :VERSIONS

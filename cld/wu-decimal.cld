@@ -2,7 +2,7 @@
 
 (DEFLIBRARY WU-DECIMAL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/wu-decimal.cld"
+  "http://cldm.github.io/cldm-repo/cld/wu-decimal.cld"
   :DESCRIPTION
   "Arbitrary-precision decimal arithmetic"
   :AUTHOR

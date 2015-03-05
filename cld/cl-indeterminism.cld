@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-INDETERMINISM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-indeterminism.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-indeterminism.cld"
   :DESCRIPTION
   "Find and/or manipulate undefined variables and functions in the form."
   :AUTHOR

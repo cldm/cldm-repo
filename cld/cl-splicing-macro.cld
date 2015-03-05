@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SPLICING-MACRO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-splicing-macro.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-splicing-macro.cld"
   :DESCRIPTION
   "Deforms macros in a way, that they can capture surrounding s-exps for their expansion."
   :AUTHOR

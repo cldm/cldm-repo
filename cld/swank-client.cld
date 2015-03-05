@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SWANK-CLIENT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/swank-client.cld"
+  "http://cldm.github.io/cldm-repo/cld/swank-client.cld"
   :DESCRIPTION
   "Client side of the Swank protocol."
   :AUTHOR

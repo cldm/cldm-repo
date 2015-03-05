@@ -2,7 +2,7 @@
 
 (DEFLIBRARY S-BASE64
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/s-base64.cld"
+  "http://cldm.github.io/cldm-repo/cld/s-base64.cld"
   :DESCRIPTION
   "Common Lisp Base64 Package"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BIG-STRING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/big-string.cld"
+  "http://cldm.github.io/cldm-repo/cld/big-string.cld"
   :DESCRIPTION
   "Big strings, similar to Java's StringBuilder."
   :AUTHOR

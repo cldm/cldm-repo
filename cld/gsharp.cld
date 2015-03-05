@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GSHARP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/gsharp.cld"
+  "http://cldm.github.io/cldm-repo/cld/gsharp.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/gsharp/2012-09-09/gsharp-20120909-git.tgz"))) :DEPENDS-ON
     (:MCCLIM :CLIM-LISTENER :FLEXICHAIN :MIDI :PURI :CXML))))

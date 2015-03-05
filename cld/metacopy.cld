@@ -2,7 +2,7 @@
 
 (DEFLIBRARY METACOPY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/metacopy.cld"
+  "http://cldm.github.io/cldm-repo/cld/metacopy.cld"
   :DESCRIPTION
   "Flexible Common Lisp shallow/deep copy mechanism."
   :AUTHOR

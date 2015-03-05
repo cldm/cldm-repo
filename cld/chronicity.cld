@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHRONICITY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/chronicity.cld"
+  "http://cldm.github.io/cldm-repo/cld/chronicity.cld"
   :AUTHOR
   "Chaitanya Gupta"
   :MAINTAINER

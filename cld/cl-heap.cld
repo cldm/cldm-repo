@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HEAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-heap.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-heap.cld"
   :DESCRIPTION
   "An implementation of heap and priority queue data structures."
   :AUTHOR

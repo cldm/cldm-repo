@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PRIMALITY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-primality.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-primality.cld"
   :AUTHOR
   "Zach Kost-Smith <zachkostsmith@gmail.com>"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BASIC-BINARY-IPC
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/basic-binary-ipc.cld"
+  "http://cldm.github.io/cldm-repo/cld/basic-binary-ipc.cld"
   :DESCRIPTION
   "A inter-process communication library for transmitting binary data over a stream."
   :AUTHOR

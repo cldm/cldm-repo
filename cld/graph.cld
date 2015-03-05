@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GRAPH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/graph.cld"
+  "http://cldm.github.io/cldm-repo/cld/graph.cld"
   :DESCRIPTION
   "simple library for building and manipulating graphs"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PARSE-JS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/parse-js.cld"
+  "http://cldm.github.io/cldm-repo/cld/parse-js.cld"
   :DESCRIPTION
   "JavaScript parser"
   :VERSIONS

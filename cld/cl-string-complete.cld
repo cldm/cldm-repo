@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-STRING-COMPLETE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-string-complete.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-string-complete.cld"
   :DESCRIPTION
   "Simple string completion in Common Lisp."
   :AUTHOR

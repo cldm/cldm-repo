@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MGL-PAX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/mgl-pax.cld"
+  "http://cldm.github.io/cldm-repo/cld/mgl-pax.cld"
   :DESCRIPTION
   "Exploratory programming tool and documentation
   generator."

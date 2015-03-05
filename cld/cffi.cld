@@ -2,7 +2,7 @@
 
 (cldm:DEFLIBRARY CFFI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cffi.cld"
+  "http://cldm.github.io/cldm-repo/cld/cffi.cld"
   :DESCRIPTION
   "The Common Foreign Function Interface"
   :AUTHOR

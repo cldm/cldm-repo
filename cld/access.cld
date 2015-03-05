@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ACCESS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/access.cld"
+  "http://cldm.github.io/cldm-repo/cld/access.cld"
   :DESCRIPTION
   "A library providing functions that unify data-structure access for Common Lisp:
       access and (setf access)"

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLAWK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clawk.cld"
+  "http://cldm.github.io/cldm-repo/cld/clawk.cld"
   :DESCRIPTION
   "Common Lisp AWK"
   :AUTHOR

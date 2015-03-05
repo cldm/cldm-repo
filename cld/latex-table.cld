@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LATEX-TABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/latex-table.cld"
+  "http://cldm.github.io/cldm-repo/cld/latex-table.cld"
   :DESCRIPTION
   "Pretty latex tables from Lisp matrices and vectors."
   :AUTHOR

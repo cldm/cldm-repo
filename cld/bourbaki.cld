@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BOURBAKI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/bourbaki.cld"
+  "http://cldm.github.io/cldm-repo/cld/bourbaki.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:QUICKLISP

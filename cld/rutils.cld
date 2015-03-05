@@ -2,7 +2,7 @@
 
 (DEFLIBRARY RUTILS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/rutils.cld"
+  "http://cldm.github.io/cldm-repo/cld/rutils.cld"
   :DESCRIPTION
   "A collection of basic utilities for syntactic
    extension and basic data structure hadling,

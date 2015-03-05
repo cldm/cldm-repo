@@ -2,6 +2,6 @@
 
 (DEFLIBRARY PITHY-XML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pithy-xml.cld"
+  "http://cldm.github.io/cldm-repo/cld/pithy-xml.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/pithy-xml/2010-10-06/pithy-xml-20101006-git.tgz"))) :DEPENDS-ON NIL)))

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY HU.DWIM.UTIL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/hu.dwim.util.cld"
+  "http://cldm.github.io/cldm-repo/cld/hu.dwim.util.cld"
   :DESCRIPTION
   "Various utilities, this is the most basic system that only introduce a small number of external dependencies."
   :VERSIONS

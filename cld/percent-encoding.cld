@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PERCENT-ENCODING
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/percent-encoding.cld"
+  "http://cldm.github.io/cldm-repo/cld/percent-encoding.cld"
   :AUTHOR
   "Manabu Takayama <learn.libra@gmail.com>"
   :LICENCE

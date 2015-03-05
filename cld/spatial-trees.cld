@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SPATIAL-TREES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/spatial-trees.cld"
+  "http://cldm.github.io/cldm-repo/cld/spatial-trees.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/spatial-trees/2013-12-11/spatial-trees-20131211-git.tgz")))
     :DEPENDS-ON NIL)))

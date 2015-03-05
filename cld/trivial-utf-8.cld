@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-UTF-8
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-utf-8.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-utf-8.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/trivial-utf-8/2011-10-01/trivial-utf-8-20111001-darcs.tgz")))
     :DEPENDS-ON NIL)))

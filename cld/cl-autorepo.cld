@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-AUTOREPO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-autorepo.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-autorepo.cld"
   :DESCRIPTION
   "A simple mechanism to auto-load ASDF systems from repositories."
   :AUTHOR

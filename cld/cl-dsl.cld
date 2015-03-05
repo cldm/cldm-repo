@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-DSL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-dsl.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-dsl.cld"
   :DESCRIPTION
   "Easily define domain specific languages"
   :AUTHOR

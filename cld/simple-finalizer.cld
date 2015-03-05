@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SIMPLE-FINALIZER
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/simple-finalizer.cld"
+  "http://cldm.github.io/cldm-repo/cld/simple-finalizer.cld"
   :DESCRIPTION
   "A simple Common Lisp finalizer for foreign objects when using CFFI and TRIVIAL-GARBAGE."
   :AUTHOR

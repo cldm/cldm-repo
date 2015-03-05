@@ -2,7 +2,7 @@
 
 (DEFLIBRARY YASON
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/yason.cld"
+  "http://cldm.github.io/cldm-repo/cld/yason.cld"
   :DESCRIPTION
   "JSON parser/encoder"
   :AUTHOR

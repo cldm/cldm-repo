@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-LDAP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-ldap.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-ldap.cld"
   :DESCRIPTION
   "TRIVIAL-LDAP is a one file, all Common Lisp client implementation of parts of RFC 2261."
   :AUTHOR

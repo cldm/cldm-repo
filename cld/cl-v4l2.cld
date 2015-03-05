@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-V4L2
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-v4l2.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-v4l2.cld"
   :DESCRIPTION
   "Video4Linux2 bindings"
   :AUTHOR

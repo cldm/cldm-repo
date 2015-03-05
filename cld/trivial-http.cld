@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-HTTP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-http.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-http.cld"
   :DESCRIPTION
   "Simple support for HTTP GET, POST and more."
   :AUTHOR

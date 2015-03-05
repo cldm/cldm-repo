@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-M4
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-m4.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-m4.cld"
   :DESCRIPTION
   "Common Lisp re-implementation of GNU M4"
   :AUTHOR

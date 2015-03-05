@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LQUERY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/lquery.cld"
+  "http://cldm.github.io/cldm-repo/cld/lquery.cld"
   :DESCRIPTION
   "A library to allow jQuery-like HTML/DOM manipulation."
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY UNIX-OPTIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/unix-options.cld"
+  "http://cldm.github.io/cldm-repo/cld/unix-options.cld"
   :VERSIONS
   ((:VERSION "0.3.1" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/unix-options/2011-01-10/unix-options-20110110-git.tgz"))) :DEPENDS-ON
     NIL)))

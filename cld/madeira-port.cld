@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MADEIRA-PORT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/madeira-port.cld"
+  "http://cldm.github.io/cldm-repo/cld/madeira-port.cld"
   :DESCRIPTION
   "Provides :MADEIRA-PORT file class for ASDF, and an extended #+ and #- syntax."
   :AUTHOR

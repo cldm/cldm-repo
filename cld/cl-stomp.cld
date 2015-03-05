@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-STOMP
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-stomp.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-stomp.cld"
   :DESCRIPTION
   "Implements the STOMP protocol for connecting to a message broker."
   :AUTHOR

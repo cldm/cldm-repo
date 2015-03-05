@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-UGLIFY-JS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-uglify-js.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-uglify-js.cld"
   :DESCRIPTION
   "JavaScript compressor/beautifier on top of PARSE-JS"
   :AUTHOR

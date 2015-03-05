@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PHOTO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-photo.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-photo.cld"
   :DESCRIPTION
   "Lisp Markup Language"
   :AUTHOR

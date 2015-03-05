@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MEDIAWIKI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-mediawiki.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-mediawiki.cld"
   :DESCRIPTION
   "A tool to help talk to mediawiki's api."
   :VERSIONS

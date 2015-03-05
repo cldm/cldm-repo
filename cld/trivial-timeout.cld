@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-TIMEOUT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-timeout.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-timeout.cld"
   :DESCRIPTION
   "OS and Implementation independent access to timeouts"
   :AUTHOR

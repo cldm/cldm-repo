@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-RMATH
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-rmath.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-rmath.cld"
   :DESCRIPTION
   "A Common Lisp wrapper for the Rmath library."
   :AUTHOR

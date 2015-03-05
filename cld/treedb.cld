@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TREEDB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/treedb.cld"
+  "http://cldm.github.io/cldm-repo/cld/treedb.cld"
   :DESCRIPTION
   "A hierarchical key-value-database"
   :AUTHOR

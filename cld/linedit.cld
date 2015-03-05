@@ -2,7 +2,7 @@
 
 (DEFLIBRARY LINEDIT
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/linedit.cld"
+  "http://cldm.github.io/cldm-repo/cld/linedit.cld"
   :DESCRIPTION
   "Readline-style library."
   :AUTHOR

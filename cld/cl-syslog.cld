@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-SYSLOG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-syslog.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-syslog.cld"
   :DESCRIPTION
   "Common Lisp syslog interface"
   :AUTHOR

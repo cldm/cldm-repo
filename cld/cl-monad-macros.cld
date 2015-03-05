@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MONAD-MACROS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-monad-macros.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-monad-macros.cld"
   :DESCRIPTION
   "Monad Macros for Common Lisp."
   :AUTHOR

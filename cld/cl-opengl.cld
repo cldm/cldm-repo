@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-OPENGL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-opengl.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-opengl.cld"
   :DESCRIPTION
   "Common Lisp bindings to OpenGL."
   :VERSIONS

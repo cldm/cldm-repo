@@ -2,6 +2,6 @@
 
 (DEFLIBRARY IMAGO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/imago.cld"
+  "http://cldm.github.io/cldm-repo/cld/imago.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/imago/2012-09-09/imago-20120909-cvs.tgz"))) :DEPENDS-ON (:ZLIB))))

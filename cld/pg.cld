@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PG
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pg.cld"
+  "http://cldm.github.io/cldm-repo/cld/pg.cld"
   :AUTHOR
   "Eric Marsden"
   :VERSIONS

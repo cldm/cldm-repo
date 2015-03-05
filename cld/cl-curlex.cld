@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-CURLEX
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-curlex.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-curlex.cld"
   :DESCRIPTION
   "Leak *LEXENV* variable from compilation into runtime"
   :AUTHOR

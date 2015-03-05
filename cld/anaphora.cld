@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ANAPHORA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/anaphora.cld"
+  "http://cldm.github.io/cldm-repo/cld/anaphora.cld"
   :VERSIONS
   ((:VERSION "0.9.4" :REPOSITORIES
     ((:official

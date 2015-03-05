@@ -2,7 +2,7 @@
 
 (DEFLIBRARY FSET
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/fset.cld"
+  "http://cldm.github.io/cldm-repo/cld/fset.cld"
   :DESCRIPTION
   "A functional set-theoretic collections library.
 See: http://common-lisp.net/project/fset/

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CHEMICAL-COMPOUNDS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/chemical-compounds.cld"
+  "http://cldm.github.io/cldm-repo/cld/chemical-compounds.cld"
   :AUTHOR
   "Peter Scott"
   :LICENCE

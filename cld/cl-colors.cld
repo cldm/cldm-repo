@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-COLORS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-colors.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-colors.cld"
   :DESCRIPTION
   "Simple color library for Common Lisp"
   :AUTHOR

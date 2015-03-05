@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-QUAKEINFO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-quakeinfo.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-quakeinfo.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cl-quakeinfo/2013-06-15/cl-quakeinfo-20130615-git.tgz"))) :DEPENDS-ON
     ("cl-geocode"))))

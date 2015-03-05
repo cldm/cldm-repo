@@ -2,7 +2,7 @@
 
 (DEFLIBRARY GARBAGE-POOLS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/garbage-pools.cld"
+  "http://cldm.github.io/cldm-repo/cld/garbage-pools.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/garbage-pools/2013-07-20/garbage-pools-20130720-git.tgz")))
     :DEPENDS-ON NIL)))

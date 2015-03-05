@@ -2,7 +2,7 @@
 
 (DEFLIBRARY VAS-STRING-METRICS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/vas-string-metrics.cld"
+  "http://cldm.github.io/cldm-repo/cld/vas-string-metrics.cld"
   :DESCRIPTION
   "Jaro-Winkler and Levenshtein string distance algorithms."
   :AUTHOR

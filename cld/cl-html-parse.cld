@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-HTML-PARSE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-html-parse.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-html-parse.cld"
   :DESCRIPTION
   "HTML Parser"
   :AUTHOR

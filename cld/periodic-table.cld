@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PERIODIC-TABLE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/periodic-table.cld"
+  "http://cldm.github.io/cldm-repo/cld/periodic-table.cld"
   :AUTHOR
   "Peter Scott"
   :LICENCE

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-NTRIPLES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-ntriples.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-ntriples.cld"
   :DESCRIPTION
   "CL-NTRIPLES is a simple basic parser for Ntriples data."
   :AUTHOR

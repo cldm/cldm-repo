@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLFSWM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clfswm.cld"
+  "http://cldm.github.io/cldm-repo/cld/clfswm.cld"
   :DESCRIPTION
   "CLFSWM: Fullscreen Window Manager"
   :AUTHOR

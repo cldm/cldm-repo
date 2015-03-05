@@ -2,7 +2,7 @@
 
 (DEFLIBRARY ARRAY-OPERATIONS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/array-operations.cld"
+  "http://cldm.github.io/cldm-repo/cld/array-operations.cld"
   :DESCRIPTION
   "Simple array operations library for Common Lisp."
   :AUTHOR

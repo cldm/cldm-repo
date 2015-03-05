@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-TIDY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-tidy.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-tidy.cld"
   :DESCRIPTION
   "FFI bindings for HTML Tidy"
   :AUTHOR

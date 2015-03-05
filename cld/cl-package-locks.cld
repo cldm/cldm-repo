@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-PACKAGE-LOCKS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-package-locks.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-package-locks.cld"
   :DESCRIPTION
   "A library to provide a unified way to work with package locks across supported common lisp implementations."
   :AUTHOR

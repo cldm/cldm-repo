@@ -2,7 +2,7 @@
 
 (DEFLIBRARY THNAPPY
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/thnappy.cld"
+  "http://cldm.github.io/cldm-repo/cld/thnappy.cld"
   :DESCRIPTION
   "Common Lisp bindings to Google's Snappy compression library."
   :AUTHOR

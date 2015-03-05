@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TOWERS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/towers.cld"
+  "http://cldm.github.io/cldm-repo/cld/towers.cld"
   :DESCRIPTION
   "Silly geodefense clone wannabe"
   :AUTHOR

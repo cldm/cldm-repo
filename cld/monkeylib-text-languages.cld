@@ -2,7 +2,7 @@
 
 (DEFLIBRARY MONKEYLIB-TEXT-LANGUAGES
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/monkeylib-text-languages.cld"
+  "http://cldm.github.io/cldm-repo/cld/monkeylib-text-languages.cld"
   :DESCRIPTION
   "Compiler for text-based languages."
   :AUTHOR

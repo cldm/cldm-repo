@@ -2,7 +2,7 @@
 
 (DEFLIBRARY IMAGE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/image.cld"
+  "http://cldm.github.io/cldm-repo/cld/image.cld"
   :DESCRIPTION
   "An image-drawing with some drawing primitives"
   :AUTHOR

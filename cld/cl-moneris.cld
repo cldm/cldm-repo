@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-MONERIS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-moneris.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-moneris.cld"
   :DESCRIPTION
   "An interface to the Moneris payment processing service (HTTP)."
   :MAINTAINER

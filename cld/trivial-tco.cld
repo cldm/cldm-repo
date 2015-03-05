@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-TCO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-tco.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-tco.cld"
   :DESCRIPTION
   "A library to assist in ensuring certain code is executed with tail call optimizations enabled."
   :AUTHOR

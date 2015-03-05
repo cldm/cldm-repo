@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-RECAPTCHA
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-recaptcha.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-recaptcha.cld"
   :DESCRIPTION
   "Trivial support for the recaptcha service"
   :AUTHOR

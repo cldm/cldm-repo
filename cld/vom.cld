@@ -2,7 +2,7 @@
 
 (DEFLIBRARY VOM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/vom.cld"
+  "http://cldm.github.io/cldm-repo/cld/vom.cld"
   :DESCRIPTION
   "A tiny logging utility."
   :AUTHOR

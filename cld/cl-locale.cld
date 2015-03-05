@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LOCALE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-locale.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-locale.cld"
   :DESCRIPTION
   "Simple i18n library for Common Lisp"
   :AUTHOR

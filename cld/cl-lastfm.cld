@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LASTFM
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-lastfm.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-lastfm.cld"
   :DESCRIPTION
   "Common Lisp wrapper for the Last.fm web service."
   :AUTHOR

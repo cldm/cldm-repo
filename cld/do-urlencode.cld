@@ -2,7 +2,7 @@
 
 (DEFLIBRARY DO-URLENCODE
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/do-urlencode.cld"
+  "http://cldm.github.io/cldm-repo/cld/do-urlencode.cld"
   :DESCRIPTION
   "Percent Encoding (aka URL Encoding) library"
   :AUTHOR

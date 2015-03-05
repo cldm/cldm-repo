@@ -2,7 +2,7 @@
 
 (DEFLIBRARY NET4CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/net4cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/net4cl.cld"
   :DESCRIPTION
   "NET4CL a Common Lisp library to handle e-mail"
   :AUTHOR

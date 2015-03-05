@@ -2,7 +2,7 @@
 
 (DEFLIBRARY INFERIOR-SHELL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/inferior-shell.cld"
+  "http://cldm.github.io/cldm-repo/cld/inferior-shell.cld"
   :DESCRIPTION
   "spawn local or remote processes and shell pipes"
   :VERSIONS

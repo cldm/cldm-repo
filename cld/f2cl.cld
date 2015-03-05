@@ -2,7 +2,7 @@
 
 (DEFLIBRARY F2CL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/f2cl.cld"
+  "http://cldm.github.io/cldm-repo/cld/f2cl.cld"
   :DESCRIPTION
   "F2CL:  Fortran to Lisp converter"
   :VERSIONS

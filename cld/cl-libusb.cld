@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-LIBUSB
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-libusb.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-libusb.cld"
   :DESCRIPTION
   "Lispified bindings to libusb-0.1."
   :VERSIONS

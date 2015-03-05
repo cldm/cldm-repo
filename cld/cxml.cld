@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CXML
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cxml.cld"
+  "http://cldm.github.io/cldm-repo/cld/cxml.cld"
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES ((:QUICKLISP (:URL "http://beta.quicklisp.org/archive/cxml/2011-06-19/cxml-20110619-git.tgz"))) :DEPENDS-ON
     (:CXML-DOM :CXML-KLACKS :CXML-TEST))))

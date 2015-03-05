@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CL-GLFW
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/cl-glfw.cld"
+  "http://cldm.github.io/cldm-repo/cld/cl-glfw.cld"
   :DESCRIPTION
   "Common Lisp bindings for GLFW"
   :AUTHOR

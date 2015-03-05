@@ -2,7 +2,7 @@
 
 (DEFLIBRARY TRIVIAL-RAW-IO
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/trivial-raw-io.cld"
+  "http://cldm.github.io/cldm-repo/cld/trivial-raw-io.cld"
   :DESCRIPTION
   "Helpers for doing raw POSIX I/O"
   :AUTHOR

@@ -2,7 +2,7 @@
 
 (DEFLIBRARY PACK
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/pack.cld"
+  "http://cldm.github.io/cldm-repo/cld/pack.cld"
   :DESCRIPTION
   "Pack and unpack binary data via Python-like struct strings."
   :AUTHOR

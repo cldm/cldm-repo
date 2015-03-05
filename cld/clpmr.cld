@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLPMR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clpmr.cld"
+  "http://cldm.github.io/cldm-repo/cld/clpmr.cld"
   :DESCRIPTION
   "CLPMR a replacement for Procmail written in Common Lisp"
   :AUTHOR

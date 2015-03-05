@@ -2,7 +2,7 @@
 
 (DEFLIBRARY CLICKR
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/clickr.cld"
+  "http://cldm.github.io/cldm-repo/cld/clickr.cld"
   :DESCRIPTION
   "High-level Flickr interface"
   :AUTHOR

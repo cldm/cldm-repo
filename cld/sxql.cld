@@ -2,7 +2,7 @@
 
 (DEFLIBRARY SXQL
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/sxql.cld"
+  "http://cldm.github.io/cldm-repo/cld/sxql.cld"
   :DESCRIPTION
   "A SQL generator"
   :AUTHOR

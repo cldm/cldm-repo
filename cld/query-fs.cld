@@ -2,7 +2,7 @@
 
 (DEFLIBRARY QUERY-FS
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/query-fs.cld"
+  "http://cldm.github.io/cldm-repo/cld/query-fs.cld"
   :DESCRIPTION
   "High-level virtual FS using CL-Fuse-Meta-FS to represent results of queries"
   :AUTHOR

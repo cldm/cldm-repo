@@ -2,7 +2,7 @@
 
 (DEFLIBRARY BRLAPI
   :CLD
-  "http://mmontone.github.io/cldm-repo/cld/brlapi.cld"
+  "http://cldm.github.io/cldm-repo/cld/brlapi.cld"
   :AUTHOR
   "Mario Lang <mlang@delysid.org>"
   :VERSIONS
