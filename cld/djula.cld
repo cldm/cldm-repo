@@ -14,7 +14,7 @@
   :VERSIONS
   ((:version "latest"
 	     :repositories
-	     ((:github (:git "git@github.com:cldm/djula.git")))
+	     ((:github (:git "https://github.com/mmontone/djula.git")))
 	     :depends-on (#:access
 			  #:alexandria
 			  #:anaphora
