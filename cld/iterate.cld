@@ -8,6 +8,6 @@
   :VERSIONS
   ((:VERSION "latest" :REPOSITORIES
     ((:OFFICIAL
-      (:URL
-       "http://common-lisp.net/project/iterate/releases/iterate-current.tar.gz")))
+      (:darcs
+       "http://common-lisp.net/project/iterate/darcs/iterate")))
     :DEPENDS-ON NIL)))
